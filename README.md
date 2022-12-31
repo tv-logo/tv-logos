@@ -86,7 +86,7 @@ Click on a country to go to its directory. From there you can click the mosaic f
 [Misc]:https://github.com/tv-logo/tv-logos/tree/main/misc "Misc"
 [Vod]:https://github.com/tv-logo/tv-logos/tree/main/misc/vod "Vod"
 
-[Space]:https://github.com/tv-logo/tv-logos/tree/main/misc/space-1500.png "Space"
+[Space]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/space-1500.png "Space"
 
 ## About the project
 
