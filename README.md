@@ -12,7 +12,7 @@ Here you will find free tv logos from around the world in good high-res quality 
 
 If you want to support me continuing the work, you can donate by clicking the donate button. Creating the logos and maintaining them and the github takes quite the time and I would like to put in more work on this project so any donation helps!
 
-[<img src="https://gitlab.com/tapiosinn/tv-logos/-/raw/main/misc/paypal-donate.png" width="150">](https://www.paypal.me/9000hobbs)
+[<img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/paypal-donate.png" width="150">](https://www.paypal.com/donate/?hosted_button_id=JTJ7FPU6TCHDW)
 
 ## 📝 Logo request
 
@@ -56,37 +56,37 @@ Click on a country to go to its directory. From there you can click the mosaic f
 [Lebanon]:https://github.com/tv-logo/tv-logos/tree/main/countries/lebanon "Lebanon"
 [Lithuania]:https://github.com/tv-logo/tv-logos/tree/main/countries/lithuania "Lithuania"
 [Malaysia]:https://github.com/tv-logo/tv-logos/tree/main/countries/malaysia "Malaysia"
-[Malta]:https://gitlab.com/tapiosinn/tv-logos/-/tree/main/countries/malta "Malta"
-[Mexico]:https://gitlab.com/tapiosinn/tv-logos/-/tree/main/countries/mexico "Mexico"
-[Netherlands]:https://gitlab.com/tapiosinn/tv-logos/-/tree/main/countries/netherlands "Netherlands"
-[New-Zealand]:https://gitlab.com/tapiosinn/tv-logos/-/tree/main/countries/new-zealand "New-Zealand"
-[Nordic]:https://gitlab.com/tapiosinn/tv-logos/-/tree/main/countries/nordic "Nordic"
-[Norway]:https://gitlab.com/tapiosinn/tv-logos/-/tree/main/countries/nordic/norway "Norway"
-[Poland]:https://gitlab.com/tapiosinn/tv-logos/-/tree/main/countries/poland "Poland"
-[Portugal]:https://gitlab.com/tapiosinn/tv-logos/-/tree/main/countries/portugal "Portugal"
-[Romania]:https://gitlab.com/tapiosinn/tv-logos/-/tree/main/countries/romania "Romania"
-[Russia]:https://gitlab.com/tapiosinn/tv-logos/-/tree/main/countries/russia "Russia"
-[Serbia]:https://gitlab.com/tapiosinn/tv-logos/-/tree/main/countries/serbia "Serbia"
-[Singapore]:https://gitlab.com/tapiosinn/tv-logos/-/tree/main/countries/singapore "Singapore"
-[South-Africa]:https://gitlab.com/tapiosinn/tv-logos/-/tree/main/countries/south-africa "South-Africa"
-[Spain]:https://gitlab.com/tapiosinn/tv-logos/-/tree/main/countries/spain "Spain"
-[Sweden]:https://gitlab.com/tapiosinn/tv-logos/-/tree/main/countries/nordic/sweden "Sweden"
-[Switzerland]:https://gitlab.com/tapiosinn/tv-logos/-/tree/main/countries/switzerland "Switzerland"
-[Turkey]:https://gitlab.com/tapiosinn/tv-logos/-/tree/main/countries/turkey "Turkey"
-[Ukraine]:https://gitlab.com/tapiosinn/tv-logos/-/tree/main/countries/ukraine "Ukraine"
-[United-Arab-Emirates]:https://gitlab.com/tapiosinn/tv-logos/-/tree/main/countries/united-arab-emirates "United-Arab-Emirates"
-[United-Kingdom]:https://gitlab.com/tapiosinn/tv-logos/-/tree/main/countries/united-kingdom "United-Kingdom"
-[United-States]:https://gitlab.com/tapiosinn/tv-logos/-/tree/main/countries/united-states "United-States"
-[World-Africa]:https://gitlab.com/tapiosinn/tv-logos/-/tree/main/countries/world-africa "World-Africa"
-[World-Asia]:https://gitlab.com/tapiosinn/tv-logos/-/tree/main/countries/world-asia "World-Asia"
-[World-Europe]:https://gitlab.com/tapiosinn/tv-logos/-/tree/main/countries/world-europe "World-Europe"
-[World-Latin-America]:https://gitlab.com/tapiosinn/tv-logos/-/tree/main/countries/world-latin-america "World-Latin-America"
-[World-Middle-East]:https://gitlab.com/tapiosinn/tv-logos/-/tree/main/countries/world-middle-east "World-Middle-East"
-[World-Oceania]:https://gitlab.com/tapiosinn/tv-logos/-/tree/main/countries/world-oceania "World-Oceania"
-[Misc]:https://gitlab.com/tapiosinn/tv-logos/-/tree/main/miscmisc "Misc"
-[Vod]:https://gitlab.com/tapiosinn/tv-logos/-/tree/main/misc/vodvod "Vod"
+[Malta]:https://github.com/tv-logo/tv-logos/tree/main/countries/malta "Malta"
+[Mexico]:https://github.com/tv-logo/tv-logos/tree/main/countries/mexico "Mexico"
+[Netherlands]:https://github.com/tv-logo/tv-logos/tree/main/countries/netherlands "Netherlands"
+[New-Zealand]:https://github.com/tv-logo/tv-logos/tree/main/countries/new-zealand "New-Zealand"
+[Nordic]:https://github.com/tv-logo/tv-logos/tree/main/countries/nordic "Nordic"
+[Norway]:https://github.com/tv-logo/tv-logos/tree/main/countries/nordic/norway "Norway"
+[Poland]:https://github.com/tv-logo/tv-logos/tree/main/countries/poland "Poland"
+[Portugal]:https://github.com/tv-logo/tv-logos/tree/main/countries/portugal "Portugal"
+[Romania]:https://github.com/tv-logo/tv-logos/tree/main/countries/romania "Romania"
+[Russia]:https://github.com/tv-logo/tv-logos/tree/main/countries/russia "Russia"
+[Serbia]:https://github.com/tv-logo/tv-logos/tree/main/countries/serbia "Serbia"
+[Singapore]:https://github.com/tv-logo/tv-logos/tree/main/countries/singapore "Singapore"
+[South-Africa]:https://github.com/tv-logo/tv-logos/tree/main/countries/south-africa "South-Africa"
+[Spain]:https://github.com/tv-logo/tv-logos/tree/main/countries/spain "Spain"
+[Sweden]:https://github.com/tv-logo/tv-logos/tree/main/countries/nordic/sweden "Sweden"
+[Switzerland]:https://github.com/tv-logo/tv-logos/tree/main/countries/switzerland "Switzerland"
+[Turkey]:https://github.com/tv-logo/tv-logos/tree/main/countries/turkey "Turkey"
+[Ukraine]:https://github.com/tv-logo/tv-logos/tree/main/countries/ukraine "Ukraine"
+[United-Arab-Emirates]:https://github.com/tv-logo/tv-logos/tree/main/countries/united-arab-emirates "United-Arab-Emirates"
+[United-Kingdom]:https://github.com/tv-logo/tv-logos/tree/main/countries/united-kingdom "United-Kingdom"
+[United-States]:https://github.com/tv-logo/tv-logos/tree/main/countries/united-states "United-States"
+[World-Africa]:https://github.com/tv-logo/tv-logos/tree/main/countries/world-africa "World-Africa"
+[World-Asia]:https://github.com/tv-logo/tv-logos/tree/main/countries/world-asia "World-Asia"
+[World-Europe]:https://github.com/tv-logo/tv-logos/tree/main/countries/world-europe "World-Europe"
+[World-Latin-America]:https://github.com/tv-logo/tv-logos/tree/main/countries/world-latin-america "World-Latin-America"
+[World-Middle-East]:https://github.com/tv-logo/tv-logos/tree/main/countries/world-middle-east "World-Middle-East"
+[World-Oceania]:https://github.com/tv-logo/tv-logos/tree/main/countries/world-oceania "World-Oceania"
+[Misc]:https://github.com/tv-logo/tv-logos/tree/main/misc "Misc"
+[Vod]:https://github.com/tv-logo/tv-logos/tree/main/misc/vod "Vod"
 
-[Space]:https://gitlab.com/tapiosinn/tv-logos/-/raw/main/misc/space-1500.png "Space"
+[Space]:https://github.com/tv-logo/tv-logos/tree/main/misc/space-1500.png "Space"
 
 ## About the project
 
@@ -96,7 +96,7 @@ The logos are adjusted to work on a dark background. Some of them are not suitab
 
 If you want to support me continuing the work, you can donate by clicking the donate button: Donaters can jump in line and request missing logos for me to do as soon as I can.
 
-[<img src="https://gitlab.com/tapiosinn/tv-logos/-/raw/main/misc/paypal-donate.png" width="150">](https://www.paypal.me/9000hobbs)
+[<img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/paypal-donate.png" width="150">](https://www.paypal.com/donate/?hosted_button_id=JTJ7FPU6TCHDW)
 
 * Donators get a channel logo request. I also take requests for custom logos or logos for a light background.
 
