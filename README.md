@@ -1,6 +1,6 @@
 # I'm trying this for the 3rd time
 
-I now have an enterprice account. I hope Github will allow me to stay up this time. Please consider donating since enterprice accounts are not free.
+I now have an enterprice account. I hope Github will allow me to stay up this time. Please consider donating since enterprice accounts are not free. T
 
 # Free high quality TV Logos for dark backgrounds
 
