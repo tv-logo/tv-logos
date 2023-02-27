@@ -22,17 +22,17 @@ If you want to support me continuing the work, you can donate by clicking the do
 
 Click on a country to go to its directory. From there you can click the mosaic file at top to see the logos rendered.
 
-|  ![Space]           |  ![Space]         |  ![Space]       |  ![Space]         |  ![Space]                  |  ![Space]              |
-|--------------------|------------------|----------------|------------------|---------------------------|-----------------------|
-| 🇦🇷 [Argentina]     | 🇦🇺 [Australia]   | 🇦🇹 [Austria]   | 🇧🇪 [Belgium]     | 🇨🇦 [Canada]               | 🌎 [Caribbean]         |
-| 🇨🇷 [Costa-Rica]    | 🇭🇷 [Croatia]     | 🇩🇰 [Denmark]   | 🇫🇮 [Finland]     | 🇫🇷 [France]               | 🇩🇪 [Germany]          |
-| 🇬🇷 [Greece]        | 🇭🇰 [Hong-Kong]   | 🇮🇸 [Iceland]   | 🇮🇳 [India]       | 🇮🇩 [Indonesia]            | 🌍 [International]     |
-| 🇮🇹 [Italy]         | 🇱🇧 [Lebanon]     | 🇱🇹 [Lithuania] | 🇲🇾 [Malaysia]    | 🇲🇹 [Malta]                | 🇲🇽 [Mexico]           |
-| 🇳🇱 [Netherlands]   | 🇳🇿 [New-Zealand] | 🌍 [Nordic]     | 🇳🇴 [Norway]      | 🇵🇱 [Poland]               | 🇵🇹 [Portugal]         |
-| 🇷🇴 [Romania]       | 🇷🇺 [Russia]      | 🇷🇸 [Serbia]    | 🇸🇬 [Singapore]   | 🇿🇦 [South-Africa]         | 🇪🇸 [Spain]            |
-| 🇸🇪 [Sweden]        | 🇨🇭 [Switzerland] | 🇹🇷 [Turkey]    | 🇺🇦 [Ukraine]     | 🇦🇪 [United-Arab-Emirates] | 🇬🇧 [United-Kingdom]   |
-| 🇺🇸 [United-States] | 🌍 [World-Africa] | 🌏 [World-Asia] | 🌍 [World-Europe] | 🌎 [World-Latin-America]   | 🌏 [World-Middle-East] |
-| 🌏 [World-Oceania]  | ⭐️ [Misc]         | 📼 [Vod]        |       |                |            |
+|  [Space]                  |  [Space]                |  [Space]              |  [Space]          |  [Space]         |  [Space]         |
+|---------------------------|-------------------------|-----------------------|-------------------|------------------|------------------|
+| 🇦🇷 [Argentina]            | 🇦🇺 [Australia]          | 🇦🇹 [Austria]          | 🇧🇪 [Belgium]      | 🇨🇦 [Canada]      | 🌎 [Caribbean]    |
+| 🇨🇷 [Costa-Rica]           | 🇭🇷 [Croatia]            | 🇫🇷 [France]           | 🇩🇪 [Germany]      | 🇬🇷 [Greece]      | 🇭🇰 [Hong-Kong]   |
+| 🇮🇳 [India]                | 🇮🇩 [Indonesia]          | 🌍 [International]     | 🇮🇹 [Italy]        | 🇱🇧 [Lebanon]     | 🇱🇹 [Lithuania]   |
+| 🇲🇾 [Malaysia]             | 🇲🇹 [Malta]              | 🇲🇽 [Mexico]           | ⭐️ [Misc]          | 🇳🇱 [Netherlands] | 🇳🇿 [New-Zealand] |
+| 🌍 [Nordic]                | 🇩🇰 [Denmark]            | 🇫🇮 [Finland]          | 🇮🇸 [Iceland]      | 🇳🇴 [Norway]      | 🇸🇪 [Sweden]      |
+| 🇵🇭 [Philippines]          | 🇵🇱 [Poland]             | 🇵🇹 [Portugal]         | 🇷🇴 [Romania]      | 🇷🇺 [Russia]      | 🇷🇸 [Serbia]      |
+| 🇸🇬 [Singapore]            | 🇿🇦 [South-Africa]       | 🇪🇸 [Spain]            | 🇨🇭 [Switzerland]  | 🇹🇷 [Turkey]      | 🇺🇦 [Ukraine]     |
+| 🇦🇪 [United-Arab-Emirates] | 🇬🇧 [United-Kingdom]     | 🇺🇸 [United-States]    | 📼 [Vod]           | 🌍 [World-Africa] | 🌏 [World-Asia]   |
+| 🌍 [World-Europe]          | 🌎 [World-Latin-America] | 🌏 [World-Middle-East] | 🌏 [World-Oceania] |       |       |
 
 [Argentina]:https://github.com/tv-logo/tv-logos/tree/main/countries/argentina "Argentina"
 [Australia]:https://github.com/tv-logo/tv-logos/tree/main/countries/australia "Australia"
@@ -62,6 +62,7 @@ Click on a country to go to its directory. From there you can click the mosaic f
 [New-Zealand]:https://github.com/tv-logo/tv-logos/tree/main/countries/new-zealand "New-Zealand"
 [Nordic]:https://github.com/tv-logo/tv-logos/tree/main/countries/nordic "Nordic"
 [Norway]:https://github.com/tv-logo/tv-logos/tree/main/countries/nordic/norway "Norway"
+[Philippines]:https://github.com/tv-logo/tv-logos/tree/main/countries/philippines "Philippines"
 [Poland]:https://github.com/tv-logo/tv-logos/tree/main/countries/poland "Poland"
 [Portugal]:https://github.com/tv-logo/tv-logos/tree/main/countries/portugal "Portugal"
 [Romania]:https://github.com/tv-logo/tv-logos/tree/main/countries/romania "Romania"
