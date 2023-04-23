@@ -22,7 +22,7 @@ If you want to support me continuing the work, you can donate by clicking the do
 
 Click on a country to go to its directory. From there you can click the mosaic file at top to see the logos rendered.
 
-|  ![Space] |  [Space] |  [Space] |  [Space] |  [Space] |  [Space] |
+|  ![Space] |  ![Space] |  ![Space] |  ![Space] |  ![Space] |  ![Space] |
 |---|---|---|---|---|---|
 | 🇦🇱 [Albania]  | 🇦🇷 [Argentina]  | 🇦🇺 [Australia]  | 🇦🇹 [Austria]  | 🇧🇪 [Belgium]  | 🇨🇦 [Canada]  |
 | 🌎 [Caribbean] | 🇨🇷 [Costa-Rica]  | 🇭🇷 [Croatia]  | 🇩🇰 [Denmark]  | 🇫🇮 [Finland]  | 🇫🇷 [France]  |
