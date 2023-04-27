@@ -35,7 +35,7 @@
 | ![discovery-science-plus-icon] | ![discovery-shed] | ![discovery-turbo] | ![discovery-turbo-plus] | ![disney-channel] | ![disney-channel-bug] |
 | ![disney-channel-plus] | ![disney-junior] | ![disney-junior-plus] | ![disney-plus] | ![disney-xd] | ![disney-xd-plus] |
 | ![dmax] | ![dmax-plus] | ![drama] | ![drama-plus] | ![e-4] | ![e-4-extra] |
-| ![e-4-hd] | ![e-4-plus] | ![e-entertainment] | ![e-entertainment-hd] | ![eden] | ![eden-hd] |
+| ![e-4-hd] | ![e-4-plus] | <img src=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/e-entertainment-uk.png height="130px"> | ![e-entertainment-hd] | ![eden] | ![eden-hd] |
 | ![eden-plus] | ![eurosport-1] | ![eurosport-1-hd] | ![eurosport-2] | ![eurosport-2-hd] | ![eurosport-3] |
 | ![eurosport-3-hd] | ![eurosport-4] | ![eurosport-4-hd] | ![eurosport-5] | ![eurosport-5-hd] | ![eva] |
 | ![extreme-sports-channel] | ![faith] | ![fight-network] | ![film-4] | ![film-4-hd] | ![film-4-plus] |
