@@ -12,7 +12,7 @@
 | ![ben-10-pop-up] | ![boomerang] | ![boomerang-looney-tunes] | ![boomerang-scooby-doo] | ![boxsets] | ![boxsets-hd] |
 | ![c31] | ![cartoon-network] | ![cartoon-network-adventure-time-pop-up] | ![cartoon-network-batman] | ![cartoon-network-boomerang-bear-party] | ![channel-44] |
 | ![cmt] | ![cnbcstralia] | ![crime-and-investigation] | ![daystar] | ![dgtv-dove-gospel] | ![discovery-channel] |
-| ![discovery-channel-plus-2] | ![discovery-turbo] | ![discovery-turbo-plus-2] | ![disney-channel] | ![e-entertainment] | ![e-entertainment-hd] |
+| ![discovery-channel-plus-2] | ![discovery-turbo] | ![discovery-turbo-plus-2] | ![disney-channel] | <img src=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/e-entertainment-au.png height="130px"> | ![e-entertainment-hd] |
 | ![e-entertainment-plus-2] | ![espn] | ![espn-2] | ![espn-2-hd] | ![espn-hd] | ![expo-channel] |
 | ![fox-8] | ![fox-8-hd] | ![fox-8-plus-2] | ![fox-arena] | ![fox-arena-hd] | ![fox-arena-plus-2] |
 | ![fox-classics] | ![fox-classics-plus-2] | ![fox-comedy] | ![fox-comedy-plus-2] | ![fox-crime] | ![fox-crime-hd] |
