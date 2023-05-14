@@ -1,6 +1,6 @@
 # France 🇫🇷
 
-| ![6ter] | ![ab1] | ![action] | ![altice-studio] | ![animaux] | ![arte] |
+| ![6ter] | ![ab1] | ![action] | ![altice-studio] | ![animaux] | <img src=https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/arte-fr.png height="130px"> |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | ![arte-hd] | ![automoto-la-chaine] | ![b-smart] | ![bein-sports] | ![bein-sports-1ench] | ![bein-sports-2ench] |
 | ![bein-sports-3ench] | ![bet] | ![bfm-business] | ![bfm-grand-lille] | ![bfm-grand-littoral] | ![bfm-lyon] |
