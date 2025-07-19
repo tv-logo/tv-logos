@@ -58,7 +58,7 @@ Click on a country to go to its directory. From there you can click the mosaic f
 [Italy]:https://github.com/tv-logo/tv-logos/tree/main/countries/italy "Italy"
 [Lebanon]:https://github.com/tv-logo/tv-logos/tree/main/countries/lebanon "Lebanon"
 [Lithuania]:https://github.com/tv-logo/tv-logos/tree/main/countries/lithuania "Lithuania"
-[Luxembourg]:https://github.com/tv-logo/tv-logos/tree/main/countries/luxembourg "Luxembourg"
+[Luxembourg]:countries/luxembourg "Luxembourg"
 [Malaysia]:https://github.com/tv-logo/tv-logos/tree/main/countries/malaysia "Malaysia"
 [Malta]:https://github.com/tv-logo/tv-logos/tree/main/countries/malta "Malta"
 [Mexico]:https://github.com/tv-logo/tv-logos/tree/main/countries/mexico "Mexico"
