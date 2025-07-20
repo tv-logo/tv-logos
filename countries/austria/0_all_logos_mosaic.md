@@ -21,4 +21,4 @@
 [sky-sport-austria-4-hd]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/austria/hd/sky-sport-austria-4-hd-at.png
 [sky-sport-austria-hd]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/austria/hd/sky-sport-austria-hd-at.png
 
-[Space]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/space-1500.png "Space"
+[Space]:../../misc/space-1500.png "Space"

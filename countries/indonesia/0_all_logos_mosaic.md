@@ -41,4 +41,4 @@
 [tvri-world]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri-world-id.png
 [vtv]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/vtv-id.png
 
-[Space]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/space-1500.png "Space"
+[Space]:../../misc/space-1500.png "Space"

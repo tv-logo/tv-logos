@@ -22,4 +22,4 @@
 [rtl-zwee]:rtl-zwee-lu.png
 [steesel-tv]:steesel-tv-lu.png
 
-[Space]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/space-1500.png "Space"
+[Space]:../../misc/space-1500.png "Space"

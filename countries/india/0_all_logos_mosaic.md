@@ -395,4 +395,4 @@
 [zing]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/zing-in.png
 [zoom]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/zoom-in.png
 
-[Space]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/space-1500.png "Space"
+[Space]:../../misc/space-1500.png "Space"

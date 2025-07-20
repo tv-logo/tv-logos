@@ -231,4 +231,4 @@
 [w9]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/w9-fr.png
 [warner-tv]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/warner-tv-fr.png
 
-[Space]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/space-1500.png "Space"
+[Space]:../../misc/space-1500.png "Space"

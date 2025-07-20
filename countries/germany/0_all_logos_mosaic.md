@@ -636,4 +636,4 @@
 [zdf-neo-hd]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/hd/zdf-neo-hd-de.png
 [zwei-music-television]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/zwei-music-television-de.png
 
-[Space]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/space-1500.png "Space"
+[Space]:../../misc/space-1500.png "Space"

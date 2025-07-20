@@ -211,4 +211,4 @@
 [z1]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/z1-hr.png
 [zdrava-televizija]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/zdrava-televizija-hr.png
 
-[Space]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/space-1500.png "Space"
+[Space]:../../misc/space-1500.png "Space"

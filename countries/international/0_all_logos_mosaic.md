@@ -155,4 +155,4 @@
 [wion]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/wion-int.png
 [zoo-moo]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/zoo-moo-int.png
 
-[Space]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/space-1500.png "Space"
+[Space]:../../misc/space-1500.png "Space"

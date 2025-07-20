@@ -431,4 +431,4 @@
 [win-hd]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/win-hd-au.png
 [win-peach]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/win-peach-au.png
 
-[Space]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/space-1500.png "Space"
+[Space]:../../misc/space-1500.png "Space"

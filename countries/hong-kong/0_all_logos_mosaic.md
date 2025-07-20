@@ -135,4 +135,4 @@
 [yicai-tv]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hong-kong/yicai-tv-hk.png
 [zhejiang-television]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hong-kong/zhejiang-television-hk.png
 
-[Space]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/space-1500.png "Space"
+[Space]:../../misc/space-1500.png "Space"

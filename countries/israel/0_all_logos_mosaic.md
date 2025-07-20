@@ -112,4 +112,4 @@
 [zoom]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/zoom-il.png
 [zoom-toon]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/zoom-toon-il.png
 
-[Space]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/space-1500.png "Space"
+[Space]:../../misc/space-1500.png "Space"

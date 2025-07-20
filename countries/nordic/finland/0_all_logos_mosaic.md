@@ -99,4 +99,4 @@
 [yle-tv1]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/finland/yle-tv1-fi.png
 [yle-tv2]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/finland/yle-tv2-fi.png
 
-[Space]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/space-1500.png "Space"
+[Space]:../../misc/space-1500.png "Space"

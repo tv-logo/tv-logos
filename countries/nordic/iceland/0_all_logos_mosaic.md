@@ -50,4 +50,4 @@
 [stod2-visir]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/iceland/stod2-visir-is.png
 [stod2-visir-hz]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/iceland/stod2-visir-hz-is.png
 
-[Space]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/space-1500.png "Space"
+[Space]:../../misc/space-1500.png "Space"

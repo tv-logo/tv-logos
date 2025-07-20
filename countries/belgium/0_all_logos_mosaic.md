@@ -113,4 +113,4 @@
 [vtm3]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/vtm3-be.png
 [vtm4]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/vtm4-be.png
 
-[Space]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/space-1500.png "Space"
+[Space]:../../misc/space-1500.png "Space"

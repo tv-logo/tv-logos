@@ -94,4 +94,4 @@
 [viasat-history]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/viasat-history-dk.png
 [viasat-nature]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/viasat-nature-dk.png
 
-[Space]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/space-1500.png "Space"
+[Space]:../../misc/space-1500.png "Space"

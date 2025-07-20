@@ -345,4 +345,4 @@
 [z]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/z-ca.png
 [zeste]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/zeste-ca.png
 
-[Space]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/space-1500.png "Space"
+[Space]:../../misc/space-1500.png "Space"
