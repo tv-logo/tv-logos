@@ -30,10 +30,10 @@ Click on a country to go to its directory. From there you can click the mosaic f
 | 🌍 [International] | 🇮🇱 [Israel] | 🇮🇹 [Italy] | 🇱🇧 [Lebanon] | 🇱🇹 [Lithuania] | 🇱🇺 [Luxembourg] |
 | 🇲🇾 [Malaysia] | 🇲🇹 [Malta] | 🇲🇽 [Mexico] | 🇳🇱 [Netherlands] | 🇳🇿 [New-Zealand] | 🌍 [Nordic] |
 | 🇳🇴 [Norway] | 🇵🇭 [Philippines] | 🇵🇱 [Poland] | 🇵🇹 [Portugal] | 🇷🇴 [Romania] | 🇷🇺 [Russia] |
-| 🇷🇸 [Serbia] | 🇸🇬 [Singapore] | 🇿🇦 [South-Africa] | 🇪🇸 [Spain] | 🇸🇪 [Sweden] | 🇨🇭 [Switzerland] |
-| 🇹🇷 [Turkey] | 🇺🇦 [Ukraine] | 🇦🇪 [United-Arab-Emirates] | 🇬🇧 [United-Kingdom] | 🇺🇸 [United-States] | 🌍 [World-Africa] |
-| 🌏 [World-Asia] | 🌍 [World-Europe] | 🌎 [World-Latin-America] | 🌏 [World-Middle-East] | 🌏 [World-Oceania] | ⭐️ [Misc] |
-| 📼 [Vod] | | | | | |
+| 🇷🇸 [Serbia] | 🇸🇬 [Singapore] | 🇸🇮 [Slovenia] | 🇿🇦 [South-Africa] | 🇪🇸 [Spain] | 🇸🇪 [Sweden] |
+| 🇨🇭 [Switzerland] | 🇹🇷 [Turkey] | 🇺🇦 [Ukraine] | 🇦🇪 [United-Arab-Emirates] | 🇬🇧 [United-Kingdom] | 🇺🇸 [United-States] |
+| 🌍 [World-Africa] | 🌏 [World-Asia] | 🌍 [World-Europe] | 🌎 [World-Latin-America] | 🌏 [World-Middle-East] | ⭐️ [Misc] |
+| 📼 [Vod] |  |  |  |  |  |
 
 [Albania]:countries/albania "Albania"
 [Argentina]:countries/argentina "Argentina"
@@ -73,6 +73,7 @@ Click on a country to go to its directory. From there you can click the mosaic f
 [Russia]:countries/russia "Russia"
 [Serbia]:countries/serbia "Serbia"
 [Singapore]:countries/singapore "Singapore"
+[Slovenia]:countries/slovenia "Slovenia"
 [South-Africa]:countries/south-africa "South-Africa"
 [Spain]:countries/spain "Spain"
 [Sweden]:countries/nordic/sweden "Sweden"
@@ -87,7 +88,6 @@ Click on a country to go to its directory. From there you can click the mosaic f
 [World-Europe]:countries/world-europe "World-Europe"
 [World-Latin-America]:countries/world-latin-america "World-Latin-America"
 [World-Middle-East]:countries/world-middle-east "World-Middle-East"
-[World-Oceania]:countries/world-oceania "World-Oceania"
 [Misc]:misc "Misc"
 [Vod]:misc/vod "Vod"
 
