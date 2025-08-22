@@ -21,7 +21,7 @@
 | ![mtv] | ![mtv-hits] | ![much] | ![nat-geo-kids] | ![national-geographic] | ![national-geographic-wild] |
 | ![nba-tv] | ![net-tv] | ![nick-jr] | ![nick-music] | ![nickelodeon] | ![nueva-imagen-television] |
 | ![pakapaka] | ![paramount-network] | ![paramount-network-hz] | ![pasiones] | ![px-sports] | ![quiero-musica-en-mi-idioma] |
-| ![rts] | ![sextreme] | ![somos-pergamino] | ![sony-channel] | ![space] | ![star-action] |
+| ![rts] | ![sextreme] | ![somos-pergamino] | ![sony-channel] | ![space-channel] | ![star-action] |
 | ![star-channel] | ![star-cinema] | ![star-classics] | ![star-comedy] | ![star-fun] | ![star-hits-2] |
 | ![star-hits] | ![star-life] | ![star-series] | ![studio-universal] | ![sun-channel] | ![syfy] |
 | ![tbs] | ![tcm] | ![telediario-television] | ![telefe] | ![telefe-neuquen] | ![telemax] |
@@ -156,7 +156,7 @@
 [sextreme]:sextreme-ar.png
 [somos-pergamino]:somos-pergamino-ar.png
 [sony-channel]:sony-channel-ar.png
-[space]:space-ar.png
+[space-channel]:space-ar.png
 [star-action]:star-action-ar.png
 [star-channel]:star-channel-ar.png
 [star-cinema]:star-cinema-ar.png
