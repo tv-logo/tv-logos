@@ -26,7 +26,10 @@ $settings = array(
     'countriesFolders' => array(
         __DIR__ . '/../countries',
         __DIR__ . '/../countries/nordic',
+        __DIR__ . '/../misc',
+        __DIR__ . '/../misc/sports',
     ),
+    'countriesIgnorePatterns' => '/(Ω)/',
     'outputFilename' => '0_all_logos_mosaic.md',
     'cols' => 6,
     'flags' => array(
@@ -166,8 +169,12 @@ function createMDFiles(array $logos, string $source): void
     global $settings;
 
     foreach ($logos as $country => $files) {
+        if (preg_match($settings['countriesIgnorePatterns'], $country)) {
+            continue;
+        }
+
         $outputFile = $source . DIRECTORY_SEPARATOR . $country . DIRECTORY_SEPARATOR . $settings['outputFilename'];
-        $depthForSpace = count(explode('/', preg_replace('/.+\/countries/', '', $source))) - 1;
+        $depthForSpace = count(explode('/', preg_replace('/.+\/(countries|misc)/', '', $source))) - 1;
 
         echo "Generating $outputFile\n";
 
@@ -177,7 +184,7 @@ function createMDFiles(array $logos, string $source): void
         $outputContent .= sprintf(
             "# %s %s\n",
             ucwords(str_replace('-', ' ', $country)),
-            $settings['flags'][$country]
+            $settings['flags'][$country] ?? ''
         );
         $outputContent .= "\n";
 
