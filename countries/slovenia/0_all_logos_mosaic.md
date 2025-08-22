@@ -2,8 +2,9 @@
 
 | ![brio] | ![kanal-a] | ![nickelodeon] | ![nova-24] | ![oto] | ![pop-kino] |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| ![pop] | ![rtvslo] | ![tv3] | ![tv-slo-1] | ![tv-slo-2] | ![tv-slo-3] |
+| ![pop] | ![rtvslo] | ![tv-slo-1] | ![tv-slo-2] | ![tv-slo-3] | ![tv3] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
+
 
 [brio]:brio-si.png
 [kanal-a]:kanal-a-si.png
@@ -13,9 +14,10 @@
 [pop-kino]:pop-kino-si.png
 [pop]:pop-si.png
 [rtvslo]:rtvslo-si.png
-[tv3]:tv3-si.png
 [tv-slo-1]:tv-slo-1-si.png
 [tv-slo-2]:tv-slo-2-si.png
 [tv-slo-3]:tv-slo-3-si.png
+[tv3]:tv3-si.png
 
-[Space]:../../misc/space-1500.png "Space"
+[space]:../../misc/space-1500.png "Space"
+

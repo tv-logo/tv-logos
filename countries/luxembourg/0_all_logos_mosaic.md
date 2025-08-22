@@ -3,8 +3,9 @@
 | ![apart-tv] | ![chamber-tv] | ![dudelange] | ![eldo-tv] | ![esch-tv] | ![hesper] |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | ![luxe-tv] | ![mamer-tv] | ![mersch] | ![nordliicht] | ![petange] | ![rtl-gold] |
-| ![rtl-letzebuerg] | ![rtl-zwee] | ![steesel-tv] |  |  |  |
+| ![rtl-letzebuerg] | ![rtl-zwee] | ![steesel-tv] | ![space] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
+
 
 [apart-tv]:apart-tv-lu.png
 [chamber-tv]:chamber-tv-lu.png
@@ -22,4 +23,5 @@
 [rtl-zwee]:rtl-zwee-lu.png
 [steesel-tv]:steesel-tv-lu.png
 
-[Space]:../../misc/space-1500.png "Space"
+[space]:../../misc/space-1500.png "Space"
+
