@@ -30,6 +30,7 @@ $settings = array(
         __DIR__ . '/../misc/sports',
     ),
     'countriesIgnorePatterns' => '/(Ω)/',
+    'countriesRootPatterns' => '/.+\/(countries|misc)/',
     'outputFilename' => '0_all_logos_mosaic.md',
     'cols' => 6,
     'flags' => array(
@@ -174,7 +175,7 @@ function createMDFiles(array $logos, string $source): void
         }
 
         $outputFile = $source . DIRECTORY_SEPARATOR . $country . DIRECTORY_SEPARATOR . $settings['outputFilename'];
-        $depthForSpace = count(explode('/', preg_replace('/.+\/(countries|misc)/', '', $source))) - 1;
+        $depthForSpace = count(explode('/', preg_replace($settings['countriesRootPatterns'], '', $source))) - 1;
 
         echo "Generating $outputFile\n";
 
@@ -197,6 +198,7 @@ function createMDFiles(array $logos, string $source): void
         foreach ($files as $fileKey => $file) {
             // Strip out the country ID.
             $fileKey = preg_replace('/-[a-z]{2}$/', '', $fileKey);
+            $fileKey = preg_replace('/^space$/', 'space-channel', $fileKey);
             $matrix[intdiv($i, $settings['cols'])][] = $fileKey;
             $list .= "[$fileKey]:$file\n";
             $i++;

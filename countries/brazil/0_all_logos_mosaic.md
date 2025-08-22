@@ -13,7 +13,7 @@
 | ![play-tv] | ![polishop] | ![premiere] | ![prime-box-brazil] | ![rbi] | ![rbtv] |
 | ![record] | ![record-news] | ![rede-21] | ![rede-cnt] | ![rede-gospel] | ![rede-record] |
 | ![rede-tv] | ![rede-vida] | ![rit] | ![sabor-and-arte] | ![sbt] | ![sexprive] |
-| ![sexy-hot] | ![shoptime] | ![sony-channel] | ![sony-movies] | ![space] | ![sportv] |
+| ![sexy-hot] | ![shoptime] | ![sony-channel] | ![sony-movies] | ![space-channel] | ![sportv] |
 | ![sportv2] | ![sportv3] | ![star-channel] | ![studio-universal] | ![tcm] | ![tele-cine-action] |
 | ![tele-cine-cult] | ![tele-cine-fun] | ![tele-cine-pipoca] | ![tele-cine-premium] | ![tele-cine-touch] | ![terraviva] |
 | ![times-brasil-cnbc] | ![tnt] | ![tnt-series] | ![tooncast] | ![trace-brasil] | ![tv-aparecida] |
@@ -99,7 +99,7 @@
 [shoptime]:shoptime-br.png
 [sony-channel]:sony-channel-br.png
 [sony-movies]:sony-movies-br.png
-[space]:space-br.png
+[space-channel]:space-br.png
 [sportv]:sportv-br.png
 [sportv2]:sportv2-br.png
 [sportv3]:sportv3-br.png
