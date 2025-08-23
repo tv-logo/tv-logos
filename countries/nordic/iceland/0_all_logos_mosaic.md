@@ -3,12 +3,11 @@
 | ![althingi] | ![bbc-nordic] | ![hringbraut] | ![n4] | ![ruv] | ![ruv2] |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | ![siminn-sport] | ![siminn-sport-uhd] | ![siminn-sport2] | ![siminn-sport3] | ![siminn-sport4] | ![sjonvarp-simans] |
-| ![stod2] | ![stod2-bio] | ![stod2-bio-hz] | ![stod2-esport] | ![stod2-esport-hz] | ![stod2-fjolskylda] |
-| ![stod2-fjolskylda-hz] | ![stod2-golf] | ![stod2-golf-hz] | ![stod2-kynning] | ![stod2-kynning-hz] | ![stod2-sport] |
-| ![stod2-sport-hz] | ![stod2-sport2] | ![stod2-sport2-hz] | ![stod2-sport3] | ![stod2-sport3-hz] | ![stod2-sport4] |
-| ![stod2-sport4-hz] | ![stod2-sport5] | ![stod2-sport5-hz] | ![stod2-sport6] | ![stod2-sport6-hz] | ![stod2-stod2is] |
-| ![stod2-stod2is-hz] | ![stod2-visir] | ![stod2-visir-hz] |  |  |  |
+| ![syn] | ![syn-sport-2] | ![syn-sport-3] | ![syn-sport-4] | ![syn-sport-5] | ![syn-sport-6] |
+| ![syn-sport] | ![syn-sport-island-2] | ![syn-sport-island-3] | ![syn-sport-island] | ![syn-sport-viaplay] | ![visir] |
+| ![vodafone-sport] | ![space] | ![space] | ![space] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
+
 
 [althingi]:althingi-is.png
 [bbc-nordic]:bbc-nordic-is.png
@@ -22,32 +21,19 @@
 [siminn-sport3]:siminn-sport3-is.png
 [siminn-sport4]:siminn-sport4-is.png
 [sjonvarp-simans]:sjonvarp-simans-is.png
-[stod2]:stod2-is.png
-[stod2-bio]:stod2-bio-is.png
-[stod2-bio-hz]:stod2-bio-hz-is.png
-[stod2-esport]:stod2-esport-is.png
-[stod2-esport-hz]:stod2-esport-hz-is.png
-[stod2-fjolskylda]:stod2-fjolskylda-is.png
-[stod2-fjolskylda-hz]:stod2-fjolskylda-hz-is.png
-[stod2-golf]:stod2-golf-is.png
-[stod2-golf-hz]:stod2-golf-hz-is.png
-[stod2-kynning]:stod2-kynning-is.png
-[stod2-kynning-hz]:stod2-kynning-hz-is.png
-[stod2-sport]:stod2-sport-is.png
-[stod2-sport-hz]:stod2-sport-hz-is.png
-[stod2-sport2]:stod2-sport2-is.png
-[stod2-sport2-hz]:stod2-sport2-hz-is.png
-[stod2-sport3]:stod2-sport3-is.png
-[stod2-sport3-hz]:stod2-sport3-hz-is.png
-[stod2-sport4]:stod2-sport4-is.png
-[stod2-sport4-hz]:stod2-sport4-hz-is.png
-[stod2-sport5]:stod2-sport5-is.png
-[stod2-sport5-hz]:stod2-sport5-hz-is.png
-[stod2-sport6]:stod2-sport6-is.png
-[stod2-sport6-hz]:stod2-sport6-hz-is.png
-[stod2-stod2is]:stod2-stod2is-is.png
-[stod2-stod2is-hz]:stod2-stod2is-hz-is.png
-[stod2-visir]:stod2-visir-is.png
-[stod2-visir-hz]:stod2-visir-hz-is.png
+[syn]:syn-is.png
+[syn-sport-2]:syn-sport-2-is.png
+[syn-sport-3]:syn-sport-3-is.png
+[syn-sport-4]:syn-sport-4-is.png
+[syn-sport-5]:syn-sport-5-is.png
+[syn-sport-6]:syn-sport-6-is.png
+[syn-sport]:syn-sport-is.png
+[syn-sport-island-2]:syn-sport-island-2-is.png
+[syn-sport-island-3]:syn-sport-island-3-is.png
+[syn-sport-island]:syn-sport-island-is.png
+[syn-sport-viaplay]:syn-sport-viaplay-is.png
+[visir]:visir-is.png
+[vodafone-sport]:vodafone-sport-is.png
 
-[Space]:../../../misc/space-1500.png "Space"
+[space]:../../../misc/space-1500.png "Space"
+

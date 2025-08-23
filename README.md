@@ -1,6 +1,6 @@
 # I'm trying this for the 3rd time
 
-I now have an enterprice account. I hope Github will allow me to stay up this time. Please consider donating since enterprice accounts are not free.
+I now have an enterprise account. I hope GitHub will allow me to stay up this time. Please consider donating since enterprise accounts are not free.
 
 # Free high quality TV Logos for dark backgrounds
 
@@ -10,7 +10,7 @@ Here you will find free tv logos from around the world in good high-res quality 
 
 ## 💛 Support me to continue this project
 
-If you want to support me continuing the work, you can donate by clicking the donate button. Creating the logos and maintaining them and the github takes quite the time and I would like to put in more work on this project so any donation helps!
+If you want to support me continuing the work, you can donate by clicking the donate button. Creating the logos and maintaining them and the GitHub takes quite the time and I would like to put in more work on this project so any donation helps!
 
 [<img src="misc/paypal-donate.png" width="150">](https://www.paypal.com/donate/?hosted_button_id=JTJ7FPU6TCHDW)
 
@@ -24,32 +24,39 @@ Click on a country to go to its directory. From there you can click the mosaic f
 
 | ![Space] | ![Space] | ![Space] | ![Space] | ![Space] | ![Space] |
 |---|---|---|---|---|---|
-| 🇦🇱 [Albania] | 🇦🇷 [Argentina] | 🇦🇺 [Australia] | 🇦🇹 [Austria] | 🇧🇪 [Belgium] | 🇨🇦 [Canada] |
-| 🌎 [Caribbean] | 🇨🇷 [Costa-Rica] | 🇭🇷 [Croatia] | 🇩🇰 [Denmark] | 🇫🇮 [Finland] | 🇫🇷 [France] |
-| 🇩🇪 [Germany] | 🇬🇷 [Greece] | 🇭🇰 [Hong-Kong] | 🇮🇸 [Iceland] | 🇮🇳 [India] | 🇮🇩 [Indonesia] |
+| 🇦🇱 [Albania] | 🇦🇷 [Argentina] | 🇦🇺 [Australia] | 🇦🇹 [Austria] | 🇦🇿 [Azerbaijan] | 🇧🇪 [Belgium] |
+| 🇧🇷 [Brazil] | 🇧🇬 [Bulgaria] | 🇨🇦 [Canada] | 🌎 [Caribbean] | 🇨🇱 [Chile] | 🇨🇷 [Costa-Rica] |
+| 🇭🇷 [Croatia] | 🇨🇿 [Czechia] | 🇩🇰 [Denmark] | 🇫🇮 [Finland] | 🇫🇷 [France] | 🇩🇪 [Germany] |
+| 🇬🇷 [Greece] | 🇭🇰 [Hong-Kong] | 🇭🇺 [Hungary] | 🇮🇸 [Iceland] | 🇮🇳 [India] | 🇮🇩 [Indonesia] |
 | 🌍 [International] | 🇮🇱 [Israel] | 🇮🇹 [Italy] | 🇱🇧 [Lebanon] | 🇱🇹 [Lithuania] | 🇱🇺 [Luxembourg] |
 | 🇲🇾 [Malaysia] | 🇲🇹 [Malta] | 🇲🇽 [Mexico] | 🇳🇱 [Netherlands] | 🇳🇿 [New-Zealand] | 🌍 [Nordic] |
 | 🇳🇴 [Norway] | 🇵🇭 [Philippines] | 🇵🇱 [Poland] | 🇵🇹 [Portugal] | 🇷🇴 [Romania] | 🇷🇺 [Russia] |
-| 🇷🇸 [Serbia] | 🇸🇬 [Singapore] | 🇸🇮 [Slovenia] | 🇿🇦 [South-Africa] | 🇪🇸 [Spain] | 🇸🇪 [Sweden] |
-| 🇨🇭 [Switzerland] | 🇹🇷 [Turkey] | 🇺🇦 [Ukraine] | 🇦🇪 [United-Arab-Emirates] | 🇬🇧 [United-Kingdom] | 🇺🇸 [United-States] |
-| 🌍 [World-Africa] | 🌏 [World-Asia] | 🌍 [World-Europe] | 🌎 [World-Latin-America] | 🌏 [World-Middle-East] | ⭐️ [Misc] |
-| 📼 [Vod] |  |  |  |  |  |
+| 🇷🇸 [Serbia] | 🇸🇬 [Singapore] | 🇸🇰 [Slovakia] | 🇸🇮 [Slovenia] | 🇿🇦 [South-Africa] | 🇪🇸 [Spain] |
+| 🇸🇪 [Sweden] | 🇨🇭 [Switzerland] | 🇹🇷 [Turkey] | 🇺🇦 [Ukraine] | 🇦🇪 [United-Arab-Emirates] | 🇬🇧 [United-Kingdom] |
+| 🇺🇸 [United-States] | 🌍 [World-Africa] | 🌏 [World-Asia] | 🌍 [World-Europe] | 🌎 [World-Latin-America] | 🌏 [World-Middle-East] |
+| ⭐️ [Misc] | 📼 [Vod] | | | | |
 
 [Albania]:countries/albania "Albania"
 [Argentina]:countries/argentina "Argentina"
 [Australia]:countries/australia "Australia"
 [Austria]:countries/austria "Austria"
+[Azerbaijan]:countries/azerbaijan "Azerbaijan"
 [Belgium]:countries/belgium "Belgium"
+[Brazil]:countries/brazil "Brazil"
+[Bulgaria]:countries/bulgaria "Bulgaria"
 [Canada]:countries/canada "Canada"
 [Caribbean]:countries/caribbean "Caribbean"
+[Chile]:countries/chile "Chile"
 [Costa-Rica]:countries/costa-rica "Costa-Rica"
 [Croatia]:countries/croatia "Croatia"
+[Czechia]:countries/czech-republic "Czechia"
 [Denmark]:countries/nordic/denmark "Denmark"
 [Finland]:countries/nordic/finland "Finland"
 [France]:countries/france "France"
 [Germany]:countries/germany "Germany"
 [Greece]:countries/greece "Greece"
 [Hong-Kong]:countries/hong-kong "Hong-Kong"
+[Hungary]:countries/hungary "Hungary"
 [Iceland]:countries/nordic/iceland "Iceland"
 [India]:countries/india "India"
 [Indonesia]:countries/indonesia "Indonesia"
@@ -73,6 +80,7 @@ Click on a country to go to its directory. From there you can click the mosaic f
 [Russia]:countries/russia "Russia"
 [Serbia]:countries/serbia "Serbia"
 [Singapore]:countries/singapore "Singapore"
+[Slovakia]:countries/slovakia "Slovakia"
 [Slovenia]:countries/slovenia "Slovenia"
 [South-Africa]:countries/south-africa "South-Africa"
 [Spain]:countries/spain "Spain"
@@ -133,21 +141,21 @@ If you want to support me continuing the work, you can donate by clicking the do
 
 Filenames are all lowercase and start with channel name and then number if applicable and country code at the end. Dashes are used to replace spaces. Call signs for local networks are also lowercase and appear before country.
 
-Examples: abc-7-koat-us.png | discovery-channel-us.png | syfy-br.png | fox-crime-it.png | kanal-5-se.png
+Examples: `abc-7-koat-us.png` | `discovery-channel-us.png` | `syfy-br.png` | `fox-crime-it.png` | `kanal-5-se.png`
 
-Time delay channels are identified with "plus", example: challenge-plus-uk.png For Australia the +2 channels are fox-hits-plus-2-au.png
+Time delay channels are identified with `plus`, example: `challenge-plus-uk.png` For Australia the +2 channels are `fox-hits-plus-2-au.png`
 
-If ampersand(&) is present in channel name then it will be replaced with "and", example: a-and-e-us.png
+If ampersand (`&`) is present in channel name then it will be replaced with `and`, example: `a-and-e-us.png`
 
-For channels that dont authenticate with a network affiliate or Owned-and-operated station then I will use the call sign and/or city/region.
+For channels that don't authenticate with a network affiliate or Owned-and-operated station then I will use the call sign and/or city/region.
 
-Example: 7-news-miami-wsvn-us.png | 7-news-boston-whdh-us.png
+Example: `7-news-miami-wsvn-us.png` | `7-news-boston-whdh-us.png`
 
 Be aware of the dash when searching for a logo in a long list of channels, include it in your search. You can also write your search string without the dashes and spaces, it might give better results
 
-Example: channel-4 instead of channel 4, or just channel4
+Example: `channel-4` instead of `channel 4`, or just `channel4`
 
-A horizontal version of a logo will have hz in its name if there's a regular version also. Example: bbc-world-news-hz-uk.png
+A horizontal version of a logo will have `hz` in its name if there's a regular version also. Example: `bbc-world-news-hz-uk.png`
 
 This project is possible thanks to Creative Commons ShareAlike licenses, CC BY-SA and CC BY-NC-SA. By using the logos you have to agree with the following: The logo you are about to use is the intellectual property of the copyright, trademark holder and is offered to you as a convenience for lawful use.
 

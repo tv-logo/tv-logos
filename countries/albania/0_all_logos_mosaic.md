@@ -1,17 +1,18 @@
 # Albania 🇦🇱
 
-| ![abc] | ![euronewsbania] | ![klan-kosova] | ![klan-macedonia] | ![klan-music] | ![klan-news] |
+| ![abc] | ![euronews-albania] | ![klan-kosova] | ![klan-macedonia] | ![klan-music] | ![klan-news] |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | ![klanplus] | ![news24] | ![report-tv-hd] | ![rtsh-24] | ![rtsh-agro] | ![rtsh-femije] |
 | ![rtsh-film] | ![rtsh-kuvend] | ![rtsh-muzike] | ![rtsh-plus] | ![rtsh-shkolle] | ![rtsh-shqip] |
 | ![rtsh-sport] | ![rtsh1] | ![rtsh1-hd] | ![rtsh2] | ![rtsh2-hd] | ![rtsh3] |
 | ![scan-tv] | ![supersport-1] | ![supersport-2] | ![supersport-3] | ![supersport-4] | ![supersport-5] |
 | ![supersport-6] | ![supersport-7] | ![supersport-kosova-1] | ![supersport-kosova-2] | ![supersport-kosova-3] | ![top-channel] |
-| ![tv-klan] | ![vizion-plus] |  |  |  |  |
+| ![tv-klan] | ![vizion-plus] | ![space] | ![space] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
+
 [abc]:abc-al.png
-[euronewsbania]:euronews-albania-al.png
+[euronews-albania]:euronews-albania-al.png
 [klan-kosova]:klan-kosova-al.png
 [klan-macedonia]:klan-macedonia-al.png
 [klan-music]:klan-music-al.png
@@ -49,4 +50,5 @@
 [tv-klan]:tv-klan-al.png
 [vizion-plus]:vizion-plus-al.png
 
-[Space]:../../misc/space-1500.png "Space"
+[space]:../../misc/space-1500.png "Space"
+

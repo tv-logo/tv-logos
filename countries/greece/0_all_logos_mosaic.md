@@ -16,13 +16,14 @@
 | ![mesogeios-tv] | ![new-television] | ![next-tv] | ![nickelodeon] | ![notos-tv] | ![nova-cinema-1] |
 | ![nova-cinema-2] | ![nova-cinema-3] | ![nova-cinema-4] | ![nova-life] | ![nova-sports-1] | ![nova-sports-2] |
 | ![nova-sports-3] | ![nova-sports-4] | ![nova-sports-5] | ![nova-sports-6] | ![nova-sports-news] | ![nova-sports-prime] |
-| ![nova-sports-start] | ![open-tv] | ![orestiada-tv%20] | ![ort] | ![osios-nikanor] | ![patrida-tv] |
+| ![nova-sports-start] | ![open-tv] | ![orestiada-tv] | ![ort] | ![osios-nikanor] | ![patrida-tv] |
 | ![pella-tv] | ![peloponnese-tv] | ![plp] | ![rise-tv] | ![rtp-kentpo] | ![samiaki-tv] |
-| ![sirina-tv] | ![skai-tv] | ![smile-tv] | ![star-centraleece] | ![star-channel] | ![start-tv] |
+| ![sirina-tv] | ![skai-tv] | ![smile-tv] | ![star-central-greece] | ![star-channel] | ![start-tv] |
 | ![super-b] | ![super-tv] | ![syros-tv] | ![thessaly] | ![thraki-net] | ![top-channel] |
 | ![trt] | ![tv-100] | ![tv-rodopi] | ![tv10] | ![vergina-tv] | ![village-cinema] |
-| ![vima-tv] | ![vouli-tv] | ![west-channel] |  |  |  |
+| ![vima-tv] | ![vouli-tv] | ![west-channel] | ![space] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
+
 
 [4e-tv]:4e-tv-gr.png
 [a-epsilon-tv]:a-epsilon-tv-gr.png
@@ -116,7 +117,7 @@
 [nova-sports-prime]:nova-sports-prime-gr.png
 [nova-sports-start]:nova-sports-start-gr.png
 [open-tv]:open-tv-gr.png
-[orestiada-tv%20]:orestiada-tv%20-gr.png
+[orestiada-tv]:orestiada-tv-gr.png
 [ort]:ort-gr.png
 [osios-nikanor]:osios-nikanor-gr.png
 [patrida-tv]:patrida-tv-gr.png
@@ -129,7 +130,7 @@
 [sirina-tv]:sirina-tv-gr.png
 [skai-tv]:skai-tv-gr.png
 [smile-tv]:smile-tv-gr.png
-[star-centraleece]:star-central-greece-gr.png
+[star-central-greece]:star-central-greece-gr.png
 [star-channel]:star-channel-gr.png
 [start-tv]:start-tv-gr.png
 [super-b]:super-b-gr.png
@@ -148,4 +149,5 @@
 [vouli-tv]:vouli-tv-gr.png
 [west-channel]:west-channel-gr.png
 
-[Space]:../../misc/space-1500.png "Space"
+[space]:../../misc/space-1500.png "Space"
+
