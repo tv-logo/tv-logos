@@ -1,6 +1,6 @@
 # Mexico 🇲🇽
 
-| ![a-mas] | ![adn40] | ![adrenalina-sports-network] | ![azteca-7] | ![azteca-clic] | ![azteca] |
+| ![a-mas] | ![adn-noticias] | ![adrenalina-sports-network] | ![azteca-7] | ![azteca-clic] | ![azteca] |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | ![azteca-noticias] | ![azteca-uno] | ![bandamax] | ![bitme] | ![canal-22] | ![canal-5] |
 | ![canal-6-hz] | ![canal-6] | ![canal-once] | ![cartoonito] | ![corazon] | ![de-pelicula-clasico] |
@@ -13,7 +13,7 @@
 
 
 [a-mas]:a-mas-mx.png
-[adn40]:adn40-mx.png
+[adn-noticias]:adn-noticias-mx.png
 [adrenalina-sports-network]:adrenalina-sports-network-mx.png
 [azteca-7]:azteca-7-mx.png
 [azteca-clic]:azteca-clic-mx.png

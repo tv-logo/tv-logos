@@ -9,9 +9,9 @@
 | ![nelonen] | ![one-way-tv] | ![onni-tv] | ![sf-kanalen] | ![sky-showtime-1] | ![sky-showtime-2] |
 | ![star-channel] | ![tapahtuma-tv-eveo] | ![tv5] | ![v-film-action] | ![v-film-action-hd] | ![v-film-family] |
 | ![v-film-family-hd] | ![v-film-hits] | ![v-film-hits-hd] | ![v-film-premiere] | ![v-film-premiere-hd] | ![v-sport-1] |
-| ![v-sport-1-suomi] | ![v-sport-2-suomi] | ![v-sport] | ![v-sport-football] | ![v-sport-golf] | ![v-sport-live-1] |
-| ![v-sport-live-2] | ![v-sport-live-3] | ![v-sport-live-4] | ![v-sport-live-5] | ![v-sport-plus-suomi] | ![v-sport-premium] |
-| ![v-sport-vinter] | ![viasat-explore] | ![viasat-history] | ![viasat-nature] | ![yle-teema-fem] | ![yle-tv1] |
+| ![v-sport] | ![v-sport-football] | ![v-sport-golf] | ![v-sport-live-1] | ![v-sport-live-2] | ![v-sport-live-3] |
+| ![v-sport-live-4] | ![v-sport-live-5] | ![v-sport-premium] | ![v-sport-vinter] | ![viaplay-1-urheilu] | ![viaplay-2-urheilu] |
+| ![viaplay-3-urheilu] | ![viasat-explore] | ![viasat-history] | ![viasat-nature] | ![yle-teema-fem] | ![yle-tv1] |
 | ![yle-tv2] | ![space] | ![space] | ![space] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
@@ -64,8 +64,6 @@
 [v-film-premiere]:v-film-premiere-fi.png
 [v-film-premiere-hd]:v-film-premiere-hd-fi.png
 [v-sport-1]:v-sport-1-fi.png
-[v-sport-1-suomi]:v-sport-1-suomi-fi.png
-[v-sport-2-suomi]:v-sport-2-suomi-fi.png
 [v-sport]:v-sport-fi.png
 [v-sport-football]:v-sport-football-fi.png
 [v-sport-golf]:v-sport-golf-fi.png
@@ -74,9 +72,11 @@
 [v-sport-live-3]:v-sport-live-3-fi.png
 [v-sport-live-4]:v-sport-live-4-fi.png
 [v-sport-live-5]:v-sport-live-5-fi.png
-[v-sport-plus-suomi]:v-sport-plus-suomi-fi.png
 [v-sport-premium]:v-sport-premium-fi.png
 [v-sport-vinter]:v-sport-vinter-fi.png
+[viaplay-1-urheilu]:viaplay-1-urheilu-fi.png
+[viaplay-2-urheilu]:viaplay-2-urheilu-fi.png
+[viaplay-3-urheilu]:viaplay-3-urheilu-fi.png
 [viasat-explore]:viasat-explore-fi.png
 [viasat-history]:viasat-history-fi.png
 [viasat-nature]:viasat-nature-fi.png

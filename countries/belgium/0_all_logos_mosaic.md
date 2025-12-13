@@ -17,9 +17,9 @@
 | ![pick-sports-2-fr] | ![pick-sports-2-nl] | ![pick-sports-3-fr] | ![pick-sports-3-nl] | ![pick-sports-4-fr] | ![pick-sports-4-nl] |
 | ![pick-sports-5-fr] | ![pick-sports-5-nl] | ![pick-sports-6-fr] | ![pick-sports-6-nl] | ![pick-sports-7-fr] | ![pick-sports-7-nl] |
 | ![pick-sports-8-fr] | ![pick-sports-8-nl] | ![pick-sports-9-fr] | ![pick-sports-9-nl] | ![pickx-live] | ![pickx-plus] |
-| ![play-crime] | ![play-more-black] | ![play-more-cinema] | ![play-more-kicks] | ![play-sports-1] | ![play-sports-2] |
-| ![play-sports-3] | ![play-sports-4] | ![play-sports-5] | ![play-sports] | ![play-sports-golf] | ![play-sports-open] |
-| ![play4] | ![play5] | ![play6] | ![play7] | ![plug-rtl] | ![proximus] |
+| ![play-actie] | ![play] | ![play-crime] | ![play-fictie] | ![play-more-black] | ![play-more-cinema] |
+| ![play-more-kicks] | ![play-reality] | ![play-sports-1] | ![play-sports-2] | ![play-sports-3] | ![play-sports-4] |
+| ![play-sports-5] | ![play-sports] | ![play-sports-golf] | ![play-sports-open] | ![plug-rtl] | ![proximus] |
 | ![qmusic] | ![rob-tv] | ![rtbf] | ![rtc-tele-liege] | ![rtl-club] | ![rtl-plug] |
 | ![rtl-tvi] | ![rtv] | ![star-channel] | ![studio-100-hits] | ![studio-100-tv] | ![tele-mb] |
 | ![telesambre] | ![tf1] | ![tfx] | ![tipik] | ![tmc] | ![tv-com] |
@@ -126,10 +126,14 @@
 [pick-sports-9-nl]:pick-sports-9-nl-be.png
 [pickx-live]:pickx-live-be.png
 [pickx-plus]:pickx-plus-be.png
+[play-actie]:play-actie-be.png
+[play]:play-be.png
 [play-crime]:play-crime-be.png
+[play-fictie]:play-fictie-be.png
 [play-more-black]:play-more-black-be.png
 [play-more-cinema]:play-more-cinema-be.png
 [play-more-kicks]:play-more-kicks-be.png
+[play-reality]:play-reality-be.png
 [play-sports-1]:play-sports-1-be.png
 [play-sports-2]:play-sports-2-be.png
 [play-sports-3]:play-sports-3-be.png
@@ -138,10 +142,6 @@
 [play-sports]:play-sports-be.png
 [play-sports-golf]:play-sports-golf-be.png
 [play-sports-open]:play-sports-open-be.png
-[play4]:play4-be.png
-[play5]:play5-be.png
-[play6]:play6-be.png
-[play7]:play7-be.png
 [plug-rtl]:plug-rtl-be.png
 [proximus]:proximus-be.png
 [qmusic]:qmusic-be.png

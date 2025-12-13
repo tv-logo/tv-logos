@@ -9,19 +9,21 @@
 | ![cosmote-sport-3] | ![cosmote-sport-4] | ![cosmote-sport-5] | ![cosmote-sport-6] | ![cosmote-sport-7] | ![cosmote-sport-8] |
 | ![cosmote-sport-9] | ![creta] | ![crete-tv] | ![delta-tv] | ![diktyo-1] | ![diktyo-tv] |
 | ![dion-tv] | ![egnatia-tv] | ![ena-channel] | ![ena-tv] | ![epiloges-tv] | ![epirus-tv1] |
-| ![epsilon-tv] | ![ert1] | ![ert2] | ![ert3] | ![euro-channel] | ![europe-one] |
-| ![extra-channel] | ![flash-tv] | ![fx] | ![fx-life] | ![gnomi-tv] | ![high-tv] |
-| ![ionian-channel] | ![irida-tv] | ![itv] | ![kontra-channel] | ![kos-tv] | ![kosmos-tv] |
-| ![kriti-tv1] | ![lepanto-tv] | ![lyxnos-tv] | ![mad] | ![makedonia-tv] | ![mega-channel] |
-| ![mesogeios-tv] | ![new-television] | ![next-tv] | ![nickelodeon] | ![notos-tv] | ![nova-cinema-1] |
-| ![nova-cinema-2] | ![nova-cinema-3] | ![nova-cinema-4] | ![nova-life] | ![nova-sports-1] | ![nova-sports-2] |
-| ![nova-sports-3] | ![nova-sports-4] | ![nova-sports-5] | ![nova-sports-6] | ![nova-sports-news] | ![nova-sports-prime] |
-| ![nova-sports-start] | ![open-tv] | ![orestiada-tv] | ![ort] | ![osios-nikanor] | ![patrida-tv] |
-| ![pella-tv] | ![peloponnese-tv] | ![plp] | ![rise-tv] | ![rtp-kentpo] | ![samiaki-tv] |
-| ![sirina-tv] | ![skai-tv] | ![smile-tv] | ![star-central-greece] | ![star-channel] | ![start-tv] |
-| ![super-b] | ![super-tv] | ![syros-tv] | ![thessaly] | ![thraki-net] | ![top-channel] |
-| ![trt] | ![tv-100] | ![tv-rodopi] | ![tv10] | ![vergina-tv] | ![village-cinema] |
-| ![vima-tv] | ![vouli-tv] | ![west-channel] | ![space] | ![space] | ![space] |
+| ![epsilon-tv] | ![ert-kids] | ![ert-music] | ![ert-news-2] | ![ert-news] | ![ert-sports-1] |
+| ![ert-sports-2] | ![ert-sports-3] | ![ert-sports-4] | ![ert-sports-5] | ![ert-sports-6] | ![ert-sports] |
+| ![ert1] | ![ert2-spor] | ![ert3] | ![euro-channel] | ![europe-one] | ![extra-channel] |
+| ![flash-tv] | ![fx] | ![fx-life] | ![gnomi-tv] | ![high-tv] | ![ionian-channel] |
+| ![irida-tv] | ![itv] | ![kontra-channel] | ![kos-tv] | ![kosmos-tv] | ![kriti-tv1] |
+| ![lepanto-tv] | ![lyxnos-tv] | ![mad] | ![makedonia-tv] | ![mega-channel] | ![mesogeios-tv] |
+| ![new-television] | ![next-tv] | ![nickelodeon] | ![notos-tv] | ![nova-cinema-1] | ![nova-cinema-2] |
+| ![nova-cinema-3] | ![nova-cinema-4] | ![nova-life] | ![nova-sports-1] | ![nova-sports-2] | ![nova-sports-3] |
+| ![nova-sports-4] | ![nova-sports-5] | ![nova-sports-6] | ![nova-sports-news] | ![nova-sports-prime] | ![nova-sports-start] |
+| ![open-tv] | ![orestiada-tv] | ![ort] | ![osios-nikanor] | ![patrida-tv] | ![pella-tv] |
+| ![peloponnese-tv] | ![plp] | ![rise-tv] | ![rtp-kentpo] | ![samiaki-tv] | ![sirina-tv] |
+| ![skai-tv] | ![smile-tv] | ![star-central-greece] | ![star-channel] | ![start-tv] | ![super-b] |
+| ![super-tv] | ![syros-tv] | ![thessaly] | ![thraki-net] | ![top-channel] | ![trt] |
+| ![tv-100] | ![tv-rodopi] | ![tv10] | ![vergina-tv] | ![village-cinema] | ![vima-tv] |
+| ![vouli-tv] | ![west-channel] | ![space] | ![space] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -74,8 +76,19 @@
 [epiloges-tv]:epiloges-tv-gr.png
 [epirus-tv1]:epirus-tv1-gr.png
 [epsilon-tv]:epsilon-tv-gr.png
+[ert-kids]:ert-kids-gr.png
+[ert-music]:ert-music-gr.png
+[ert-news-2]:ert-news-2-gr.png
+[ert-news]:ert-news-gr.png
+[ert-sports-1]:ert-sports-1-gr.png
+[ert-sports-2]:ert-sports-2-gr.png
+[ert-sports-3]:ert-sports-3-gr.png
+[ert-sports-4]:ert-sports-4-gr.png
+[ert-sports-5]:ert-sports-5-gr.png
+[ert-sports-6]:ert-sports-6-gr.png
+[ert-sports]:ert-sports-gr.png
 [ert1]:ert1-gr.png
-[ert2]:ert2-gr.png
+[ert2-spor]:ert2-spor-gr.png
 [ert3]:ert3-gr.png
 [euro-channel]:euro-channel-gr.png
 [europe-one]:europe-one-gr.png

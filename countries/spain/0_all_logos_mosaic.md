@@ -43,8 +43,9 @@
 | ![tdp] | ![tdp-hd] | ![tef-televisio-deivissa-i-formentera] | ![tele-madrid] | ![telecinco] | ![television-canaria] |
 | ![television-melilla] | ![television-murciana] | ![ten] | ![tnt] | ![toros] | ![tpa] |
 | ![tpa7] | ![tpa8] | ![tpa9] | ![trace-sport-stars] | ![trece] | ![tv3-cat] |
-| ![tve-1] | ![tve-1-hd] | ![tve-2] | ![tve-2-hd] | ![tvr] | ![u-beat] |
-| ![vamos-por-movistar-plus] | ![veo7] | ![viajar] | ![viajar-hd] | ![warner-tv] | ![xtrm] |
+| ![tve-1] | ![tve-1-hd] | ![tve-2-cat] | ![tve-2] | ![tve-2-hd] | ![tvr] |
+| ![u-beat] | ![vamos-por-movistar-plus] | ![veo7] | ![viajar] | ![viajar-hd] | ![warner-tv] |
+| ![xtrm] | ![space] | ![space] | ![space] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -302,6 +303,7 @@
 [tv3-cat]:tv3-cat-es.png
 [tve-1]:tve-1-es.png
 [tve-1-hd]:tve-1-hd-es.png
+[tve-2-cat]:tve-2-cat-es.png
 [tve-2]:tve-2-es.png
 [tve-2-hd]:tve-2-hd-es.png
 [tvr]:tvr-es.png

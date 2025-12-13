@@ -1,36 +1,37 @@
 # World Latin America 🌎
 
-| ![adrenalina-sports-network-lam] | ![amc-selekt-4k-lam] | ![amc-selekt-lam] | ![animal-planet-lam] | ![azteca-cinema-lam] | ![azteca-international-lam] |
+| ![adrenalina-sports-network-lam] | ![amc-selekt-4k-lam] | ![amc-selekt-lam] | ![amc-series-lam] | ![animal-planet-lam] | ![azteca-cinema-lam] |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| ![bandamax-lam] | ![bitme-lam] | ![canal-claro-lam] | ![cartoonito-lam] | ![cine-canal-lam] | ![cinemax-lam] |
-| ![claro-musica-lam] | ![claro-sports-1-lam] | ![claro-sports-2-lam] | ![claro-sports-lam] | ![cnn-en-espanol-lam] | ![de-pelicula-clasico-lam] |
-| ![de-pelicula-lam] | ![de-pelicula-plus-lam] | ![discovery-home-and-health-hd-lam] | ![discovery-home-and-health-hz-lam] | ![discovery-home-and-health-lam] | ![discovery-kids-icon-lam] |
-| ![discovery-kids-lam] | ![discovery-kids-plus-lam] | ![discovery-theater-hd-lam] | ![discovery-turbo-lat] | ![disney-channel-lam] | ![disney-jr-lam] |
-| ![disney-xd-hd-lam] | ![disney-xd-lam] | ![distrito-comedia-lam] | ![dreamworks-channel-lam] | ![dsports-lam] | ![dsports-plus-lam] |
-| ![dsports2-lam] | ![el-gourmet-lam] | ![espn-2-lam] | ![espn-3-lam] | ![espn-4-lam] | ![espn-5-lam] |
-| ![espn-6-lam] | ![espn-7-lam] | ![espn-extra-lam] | ![espn-lam] | ![espn-premium-lam] | ![film-and-arts-lam] |
-| ![fox-channel-lam] | ![fox-life-lam] | ![fox-premium-action-hd-lam] | ![fox-premium-action-lam] | ![fox-premium-cinema-hd-lam] | ![fox-premium-cinema-lam] |
-| ![fox-premium-classics-hd-lam] | ![fox-premium-classics-lam] | ![fox-premium-comedy-hd-lam] | ![fox-premium-comedy-lam] | ![fox-premium-family-hd-lam] | ![fox-premium-family-lam] |
-| ![fox-premium-hz-lam] | ![fox-premium-lam] | ![fox-premium-movies-hd-lam] | ![fox-premium-movies-lam] | ![fox-premium-series-hd-lam] | ![fox-premium-series-lam] |
-| ![fox-sports-1-hd-lam] | ![fox-sports-1-lam] | ![fox-sports-2-hd-lam] | ![fox-sports-2-lam] | ![fox-sports-3-hd-lam] | ![fox-sports-3-lam] |
-| ![fox-sports-hd-lam] | ![fox-sports-lam] | ![fox-sports-premium-lam] | ![fx-hd-lam] | ![fx-lam] | ![fxm-hd-lam] |
-| ![fxm-lam] | ![golden-edge-lam] | ![golden-lam] | ![golden-plus-lam] | ![golden-premier-lam] | ![golf-channel-on-nbc-lam] |
-| ![hbo-2-lam] | ![hbo-family-lam] | ![hbo-lam] | ![hbo-mundi-lam] | ![hbo-plus-lam] | ![hbo-pop-lam] |
-| ![hbo-signature-lam] | ![hbo-xtreme-lam] | ![history-channel-2-lam] | ![history-channel-lam] | ![i-sat-lam] | ![much-music-lam] |
-| ![nat-geo-kids-lam] | ![national-geographic-hd-lam] | ![national-geographic-lam] | ![national-geographic-wild-hd-hz-lam] | ![national-geographic-wild-hz-lam] | ![national-geographic-wild-lam] |
-| ![nickelodeon-lam] | ![sony-channel-lam] | ![space-lam] | ![star-action-lam] | ![star-channel-lam] | ![star-cinema-lam] |
-| ![star-classics-lam] | ![star-comedy-lam] | ![star-fun-lam] | ![star-hits-2-lam] | ![star-hits-lam] | ![star-lam] |
-| ![star-life-lam] | ![star-plus-lam] | ![star-premium-lam] | ![star-series-lam] | ![studio-universal-lam] | ![telehit-lam] |
-| ![telehit-musica] | ![telehit-musica-plus] | ![tlnovelas-lam] | ![tnt-novelas-lam] | ![tnt-sports-lam] | ![tnt-sports-premium-lam] |
-| ![tooncast-lam] | ![unicable-lam] | ![universal-cinema-lam] | ![universal-comedy-lam] | ![universal-crime-lam] | ![universal-plus-lam] |
-| ![universal-premiere-lam] | ![universal-reality-lam] | ![universal-tv-lam] | ![usa-network-lam] | ![vix-lam] | ![vix-plus-lam] |
-| ![warner-channel-lam] | ![space] | ![space] | ![space] | ![space] | ![space] |
+| ![azteca-international-lam] | ![bandamax-lam] | ![bitme-lam] | ![canal-claro-lam] | ![cartoonito-lam] | ![cine-canal-lam] |
+| ![cinemax-lam] | ![claro-musica-lam] | ![claro-sports-1-lam] | ![claro-sports-2-lam] | ![claro-sports-lam] | ![cnn-en-espanol-lam] |
+| ![de-pelicula-clasico-lam] | ![de-pelicula-lam] | ![de-pelicula-plus-lam] | ![discovery-home-and-health-hd-lam] | ![discovery-home-and-health-hz-lam] | ![discovery-home-and-health-lam] |
+| ![discovery-kids-icon-lam] | ![discovery-kids-lam] | ![discovery-kids-plus-lam] | ![discovery-theater-hd-lam] | ![discovery-turbo-lat] | ![disney-channel-lam] |
+| ![disney-jr-lam] | ![disney-xd-hd-lam] | ![disney-xd-lam] | ![distrito-comedia-lam] | ![dreamworks-channel-lam] | ![dsports-lam] |
+| ![dsports-plus-lam] | ![dsports2-lam] | ![el-gourmet-lam] | ![espn-2-lam] | ![espn-3-lam] | ![espn-4-lam] |
+| ![espn-5-lam] | ![espn-6-lam] | ![espn-7-lam] | ![espn-extra-lam] | ![espn-lam] | ![espn-premium-lam] |
+| ![film-and-arts-lam] | ![fox-channel-lam] | ![fox-life-lam] | ![fox-premium-action-hd-lam] | ![fox-premium-action-lam] | ![fox-premium-cinema-hd-lam] |
+| ![fox-premium-cinema-lam] | ![fox-premium-classics-hd-lam] | ![fox-premium-classics-lam] | ![fox-premium-comedy-hd-lam] | ![fox-premium-comedy-lam] | ![fox-premium-family-hd-lam] |
+| ![fox-premium-family-lam] | ![fox-premium-hz-lam] | ![fox-premium-lam] | ![fox-premium-movies-hd-lam] | ![fox-premium-movies-lam] | ![fox-premium-series-hd-lam] |
+| ![fox-premium-series-lam] | ![fox-sports-1-hd-lam] | ![fox-sports-1-lam] | ![fox-sports-2-hd-lam] | ![fox-sports-2-lam] | ![fox-sports-3-hd-lam] |
+| ![fox-sports-3-lam] | ![fox-sports-hd-lam] | ![fox-sports-lam] | ![fox-sports-premium-lam] | ![fx-hd-lam] | ![fx-lam] |
+| ![fxm-hd-lam] | ![fxm-lam] | ![golden-edge-lam] | ![golden-lam] | ![golden-plus-lam] | ![golden-premier-lam] |
+| ![golf-channel-on-nbc-lam] | ![hbo-2-lam] | ![hbo-family-lam] | ![hbo-lam] | ![hbo-mundi-lam] | ![hbo-plus-lam] |
+| ![hbo-pop-lam] | ![hbo-signature-lam] | ![hbo-xtreme-lam] | ![history-channel-2-lam] | ![history-channel-lam] | ![i-sat-lam] |
+| ![much-music-lam] | ![nat-geo-kids-lam] | ![national-geographic-hd-lam] | ![national-geographic-lam] | ![national-geographic-wild-hd-hz-lam] | ![national-geographic-wild-hz-lam] |
+| ![national-geographic-wild-lam] | ![nickelodeon-lam] | ![sony-channel-lam] | ![space-lam] | ![star-action-lam] | ![star-channel-lam] |
+| ![star-cinema-lam] | ![star-classics-lam] | ![star-comedy-lam] | ![star-fun-lam] | ![star-hits-2-lam] | ![star-hits-lam] |
+| ![star-lam] | ![star-life-lam] | ![star-plus-lam] | ![star-premium-lam] | ![star-series-lam] | ![studio-universal-lam] |
+| ![telehit-lam] | ![telehit-musica] | ![telehit-musica-plus] | ![tlnovelas-lam] | ![tnt-novelas-lam] | ![tnt-series-lam] |
+| ![tnt-sports-lam] | ![tnt-sports-premium-lam] | ![tooncast-lam] | ![unicable-lam] | ![universal-cinema-lam] | ![universal-comedy-lam] |
+| ![universal-crime-lam] | ![universal-plus-lam] | ![universal-premiere-lam] | ![universal-reality-lam] | ![universal-tv-lam] | ![usa-network-lam] |
+| ![vix-lam] | ![vix-plus-lam] | ![warner-channel-lam] | ![space] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
 [adrenalina-sports-network-lam]:adrenalina-sports-network-lam.png
 [amc-selekt-4k-lam]:amc-selekt-4k-lam.png
 [amc-selekt-lam]:amc-selekt-lam.png
+[amc-series-lam]:amc-series-lam.png
 [animal-planet-lam]:animal-planet-lam.png
 [azteca-cinema-lam]:azteca-cinema-lam.png
 [azteca-international-lam]:azteca-international-lam.png
@@ -152,6 +153,7 @@
 [telehit-musica-plus]:telehit-musica-plus-mx.png
 [tlnovelas-lam]:tlnovelas-lam.png
 [tnt-novelas-lam]:tnt-novelas-lam.png
+[tnt-series-lam]:tnt-series-lam.png
 [tnt-sports-lam]:tnt-sports-lam.png
 [tnt-sports-premium-lam]:tnt-sports-premium-lam.png
 [tooncast-lam]:tooncast-lam.png

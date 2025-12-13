@@ -12,15 +12,14 @@
 | ![fox-crime-hd] | ![fox-crime] | ![fox-life-hd] | ![fox-life] | ![fox-movies-hd] | ![fox-movies] |
 | ![fueltv-hd] | ![fueltv] | ![globo-internacional] | ![localvisao-tv] | ![nba-tv] | ![odisseia-hd] |
 | ![odisseia] | ![pfc] | ![porto-canal-hd] | ![porto-canal] | ![rtp-1-hd] | ![rtp-1] |
-| ![rtp-2-hd] | ![rtp-2] | ![rtp-3-hd] | ![rtp-3] | ![rtp-acores] | ![rtp-africa] |
-| ![rtp-madeira] | ![rtp-memoria] | ![sic-caras-hd] | ![sic-caras] | ![sic-hd] | ![sic-k-hd] |
-| ![sic-k] | ![sic-mulher] | ![sic-noticias] | ![sic] | ![sic-radical-hd] | ![sic-radical] |
-| ![sport-tv-1] | ![sport-tv-2] | ![sport-tv-3] | ![sport-tv-4] | ![sport-tv-5] | ![sport-tv-6] |
-| ![sport-tv-mais] | ![sporting-tv-hd] | ![sporting-tv] | ![star-channel] | ![star-comedy] | ![star-crime] |
-| ![star-life] | ![star-movies] | ![toros-tv] | ![tvcine-action-hd] | ![tvcine-action] | ![tvcine-edition-hd] |
-| ![tvcine-edition] | ![tvcine-emotion-hd] | ![tvcine-emotion] | ![tvcine-top-hd] | ![tvcine-top] | ![tvi-24-hd] |
-| ![tvi-24] | ![tvi-hd] | ![tvi-internacional] | ![tvi] | ![tvi-reality-hd] | ![tvi-reality] |
-| ![v+tvi] | ![space] | ![space] | ![space] | ![space] | ![space] |
+| ![rtp-2-hd] | ![rtp-2] | ![rtp-acores] | ![rtp-africa] | ![rtp-madeira] | ![rtp-memoria] |
+| ![rtp-noticias] | ![sic-caras-hd] | ![sic-caras] | ![sic-hd] | ![sic-k-hd] | ![sic-k] |
+| ![sic-mulher] | ![sic-noticias] | ![sic] | ![sic-radical-hd] | ![sic-radical] | ![sport-tv-1] |
+| ![sport-tv-2] | ![sport-tv-3] | ![sport-tv-4] | ![sport-tv-5] | ![sport-tv-6] | ![sport-tv-mais] |
+| ![sporting-tv-hd] | ![sporting-tv] | ![star-channel] | ![star-comedy] | ![star-crime] | ![star-life] |
+| ![star-movies] | ![toros-tv] | ![tvcine-action-hd] | ![tvcine-action] | ![tvcine-edition-hd] | ![tvcine-edition] |
+| ![tvcine-emotion-hd] | ![tvcine-emotion] | ![tvcine-top-hd] | ![tvcine-top] | ![tvi-24-hd] | ![tvi-24] |
+| ![tvi-hd] | ![tvi-internacional] | ![tvi] | ![tvi-reality-hd] | ![tvi-reality] | ![v+tvi] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -92,12 +91,11 @@
 [rtp-1]:rtp-1-pt.png
 [rtp-2-hd]:rtp-2-hd-pt.png
 [rtp-2]:rtp-2-pt.png
-[rtp-3-hd]:rtp-3-hd-pt.png
-[rtp-3]:rtp-3-pt.png
 [rtp-acores]:rtp-acores-pt.png
 [rtp-africa]:rtp-africa-pt.png
 [rtp-madeira]:rtp-madeira-pt.png
 [rtp-memoria]:rtp-memoria-pt.png
+[rtp-noticias]:rtp-noticias-pt.png
 [sic-caras-hd]:sic-caras-hd-pt.png
 [sic-caras]:sic-caras-pt.png
 [sic-hd]:sic-hd-pt.png

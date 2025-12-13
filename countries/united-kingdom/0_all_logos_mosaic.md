@@ -45,44 +45,40 @@
 | ![film-4] | ![food-network-plus] | ![food-network] | ![food-xp] | ![forces-tv] | ![fox-hd] |
 | ![fox-plus] | ![fox] | ![free-sports-hd] | ![free-sports] | ![gaa-go] | ![gb-news] |
 | ![gemporia-craft] | ![gemporia] | ![get-lucky-tv] | ![gold-hd] | ![gold-plus] | ![gold] |
-| ![good-news-tv] | ![great-action-hz] | ![great-action-plus-hz] | ![great-action-plus] | ![great-action] | ![great-movies-christmas-hz] |
-| ![great-movies-christmas-plus-hz] | ![great-movies-christmas-plus] | ![great-movies-christmas] | ![great-movies-hz] | ![great-movies-plus-hz] | ![great-movies-plus] |
-| ![great-movies] | ![great-real-hz] | ![great-real-plus-hz] | ![great-real-plus] | ![great-real] | ![great-romance-hz] |
-| ![great-romance-plus-hz] | ![great-romance-plus] | ![great-romance] | ![great-tv-hz] | ![great-tv-plus-hz] | ![great-tv-plus] |
-| ![great-tv] | ![hgtv-plus] | ![hgtv] | ![hi-impact-tv] | ![high-street-tv] | ![hochanda] |
-| ![horror-channel-plus] | ![horror-channel] | ![horror-xtra-plus] | ![horror-xtra] | ![horse-and-country] | ![ideal-world] |
-| ![investigation-discovery-hd] | ![investigation-discovery-plus] | ![investigation-discovery] | ![islam-channel] | ![islam-tv] | ![itv-1-hd] |
-| ![itv-1-plus] | ![itv-1] | ![itv-2-hd] | ![itv-2-plus] | ![itv-2] | ![itv-3-hd] |
-| ![itv-3-plus] | ![itv-3] | ![itv-4-hd] | ![itv-4-plus] | ![itv-4] | ![itv-be-plus] |
-| ![itv-be] | ![itv-encore-plus] | ![itv-encore] | ![itv-plus] | ![itv-quiz-hd] | ![itv-quiz] |
-| ![itv] | ![itvx-classic-comedy] | ![itvx-classic-movies] | ![itvx-comedy-24-7] | ![itvx-crime-drama] | ![itvx-essex-tv] |
-| ![itvx-hells-kitchen] | ![itvx-itv-classics] | ![itvx-itv-signed] | ![itvx-kids] | ![itvx-lego-universe] | ![itvx-love-island-international] |
-| ![itvx-love-island] | ![itvx-loved-up] | ![itvx-massive-laughs] | ![itvx-midsomer-murders] | ![itvx-out-of-this-world] | ![itvx-reality-24-7] |
-| ![itvx-saturday-night-every-night] | ![itvx-the-chase] | ![itvx-the-real-housewives-uk] | ![itvx-true-crime-international] | ![itvx-unwind] | ![itvx-vera] |
-| ![itvx-world-of-morse] | ![itvx-xmas-movies] | ![jewellery-maker] | ![jml] | ![kerrang-tv] | ![ketchup-tv] |
-| ![kicc-tv] | ![kiss-tv] | ![laliga-tv] | ![legend] | ![legend-xtra-plus] | ![legend-xtra] |
-| ![lfctv-hd] | ![lfctv] | ![lifetime] | ![live-360] | ![local-tv-birmingham] | ![local-tv-bristol] |
-| ![local-tv-cardiff] | ![local-tv-leeds] | ![local-tv-liverpool] | ![local-tv-manchester] | ![local-tv-north-wales] | ![local-tv-teesside] |
-| ![local-tv-tyne-and-wear] | ![local-tv] | ![london-live] | ![love-nature-4k] | ![love-nature-4k-white] | ![love-nature] |
-| ![love-nature-white] | ![loveworld] | ![magic-tv] | ![meet-the-babes] | ![movies-24-plus] | ![movies-24] |
-| ![mtv-00s] | ![mtv-80s] | ![mtv-90s] | ![mtv-base] | ![mtv-classic] | ![mtv-club] |
-| ![mtv-hd] | ![mtv-hits] | ![mtv-live-hd] | ![mtv-love] | ![mtv-music-plus] | ![mtv-music] |
-| ![mtv-omg-hz] | ![mtv-omg] | ![mtv-plus] | ![mtv-pride] | ![mtv-rocks] | ![mtv-summer] |
-| ![mtv] | ![mtv-xmas] | ![mutv-hd] | ![mutv] | ![my-5] | ![mytv] |
-| ![national-geographic-hd] | ![national-geographic-plus] | ![national-geographic] | ![national-geographic-wild-hd] | ![national-geographic-wild] | ![nbc-news-now] |
-| ![ndtv-24x7] | ![new-media] | ![nick-2] | ![nick-horrid-henry] | ![nick-jr-hd] | ![nick-jr-paw-patrol] |
-| ![nick-jr-peppa] | ![nick-jr-plus] | ![nick-jr-too] | ![nick-jr] | ![nick-spongebob] | ![nick-toons] |
-| ![nick] | ![nickelodeon-hd] | ![nickelodeon-plus] | ![nickelodeon] | ![now-70s] | ![now-80s] |
-| ![now-90s] | ![now-christmas] | ![now-rock] | ![oireachtas-tv-icon] | ![oireachtas-tv] | ![paramount-network-hd] |
-| ![paramount-network-icon-hd] | ![paramount-network-icon-light-hd] | ![paramount-network-icon-light] | ![paramount-network-icon] | ![paramount-network-light-hd] | ![paramount-network-light] |
-| ![paramount-network-plus-light] | ![paramount-network-plus] | ![paramount-network] | ![pbs-america-plus] | ![pbs-america] | ![pick-hd] |
-| ![pick-plus] | ![pick] | ![pitaara-movies] | ![pop-max-plus] | ![pop-max] | ![pop-plus] |
-| ![pop] | ![premier-sports-1-hd] | ![premier-sports-1] | ![premier-sports-2-hd] | ![premier-sports-2] | ![premier-sports] |
-| ![psychic-today] | ![pure-babes] | ![quest-hd] | ![quest-plus] | ![quest-red-hz] | ![quest-red-plus-hz] |
-| ![quest-red-plus] | ![quest-red] | ![quest] | ![qvc-beauty-hd] | ![qvc-beauty] | ![qvc-extra] |
-| ![qvc-hd] | ![qvc-style] | ![qvc] | ![racing-tv-hd] | ![racing-tv] | ![reality-xtra] |
-| ![really] | ![revelation-tv] | ![rewind-tv] | ![rok] | ![rte-2-plus] | ![rte-2] |
-| ![rte-jr] | ![rte-news-now-hz] | ![rte-news-now] | ![rte-one-plus] | ![rte-one] | ![rte] |
+| ![good-news-tv] | ![great-action-plus] | ![great-action] | ![great-christmas-plus] | ![great-christmas] | ![great-movies] |
+| ![great-mystery-plus] | ![great-mystery] | ![great-romance] | ![great-tv-plus] | ![great-tv] | ![hgtv-plus] |
+| ![hgtv] | ![hi-impact-tv] | ![high-street-tv] | ![hochanda] | ![horror-channel-plus] | ![horror-channel] |
+| ![horror-xtra-plus] | ![horror-xtra] | ![horse-and-country] | ![ideal-world] | ![investigation-discovery-hd] | ![investigation-discovery-plus] |
+| ![investigation-discovery] | ![islam-channel] | ![islam-tv] | ![itv-1-hd] | ![itv-1-plus] | ![itv-1] |
+| ![itv-2-hd] | ![itv-2-plus] | ![itv-2] | ![itv-3-hd] | ![itv-3-plus] | ![itv-3] |
+| ![itv-4-hd] | ![itv-4-plus] | ![itv-4] | ![itv-be-plus] | ![itv-be] | ![itv-encore-plus] |
+| ![itv-encore] | ![itv-plus] | ![itv-quiz-hd] | ![itv-quiz] | ![itv] | ![itvx-classic-comedy] |
+| ![itvx-classic-movies] | ![itvx-comedy-24-7] | ![itvx-crime-drama] | ![itvx-essex-tv] | ![itvx-hells-kitchen] | ![itvx-itv-classics] |
+| ![itvx-itv-signed] | ![itvx-kids] | ![itvx-lego-universe] | ![itvx-love-island-international] | ![itvx-love-island] | ![itvx-loved-up] |
+| ![itvx-massive-laughs] | ![itvx-midsomer-murders] | ![itvx-out-of-this-world] | ![itvx-reality-24-7] | ![itvx-saturday-night-every-night] | ![itvx-the-chase] |
+| ![itvx-the-real-housewives-uk] | ![itvx-true-crime-international] | ![itvx-unwind] | ![itvx-vera] | ![itvx-world-of-morse] | ![itvx-xmas-movies] |
+| ![jewellery-maker] | ![jml] | ![kerrang-tv] | ![ketchup-tv] | ![kicc-tv] | ![kiss-tv] |
+| ![laliga-tv] | ![legend] | ![legend-xtra-plus] | ![legend-xtra] | ![lfctv-hd] | ![lfctv] |
+| ![lifetime] | ![live-360] | ![local-tv-birmingham] | ![local-tv-bristol] | ![local-tv-cardiff] | ![local-tv-leeds] |
+| ![local-tv-liverpool] | ![local-tv-manchester] | ![local-tv-north-wales] | ![local-tv-teesside] | ![local-tv-tyne-and-wear] | ![local-tv] |
+| ![london-live] | ![love-nature-4k] | ![love-nature-4k-white] | ![love-nature] | ![love-nature-white] | ![loveworld] |
+| ![magic-tv] | ![meet-the-babes] | ![movies-24-plus] | ![movies-24] | ![mtv-00s] | ![mtv-80s] |
+| ![mtv-90s] | ![mtv-base] | ![mtv-classic] | ![mtv-club] | ![mtv-hd] | ![mtv-hits] |
+| ![mtv-live-hd] | ![mtv-love] | ![mtv-music-plus] | ![mtv-music] | ![mtv-omg-hz] | ![mtv-omg] |
+| ![mtv-plus] | ![mtv-pride] | ![mtv-rocks] | ![mtv-summer] | ![mtv] | ![mtv-xmas] |
+| ![mutv-hd] | ![mutv] | ![my-5] | ![mytv] | ![national-geographic-hd] | ![national-geographic-plus] |
+| ![national-geographic] | ![national-geographic-wild-hd] | ![national-geographic-wild] | ![nbc-news-now] | ![ndtv-24x7] | ![new-media] |
+| ![nick-2] | ![nick-horrid-henry] | ![nick-jr-hd] | ![nick-jr-paw-patrol] | ![nick-jr-peppa] | ![nick-jr-plus] |
+| ![nick-jr-too] | ![nick-jr] | ![nick-spongebob] | ![nick-toons] | ![nick] | ![nickelodeon-hd] |
+| ![nickelodeon-plus] | ![nickelodeon] | ![now-70s] | ![now-80s] | ![now-90s] | ![now-christmas] |
+| ![now-rock] | ![paramount-network-hd] | ![paramount-network-icon-hd] | ![paramount-network-icon-light-hd] | ![paramount-network-icon-light] | ![paramount-network-icon] |
+| ![paramount-network-light-hd] | ![paramount-network-light] | ![paramount-network-plus-light] | ![paramount-network-plus] | ![paramount-network] | ![pbs-america-plus] |
+| ![pbs-america] | ![pick-hd] | ![pick-plus] | ![pick] | ![pitaara-movies] | ![pop-max-plus] |
+| ![pop-max] | ![pop-plus] | ![pop] | ![premier-sports-1-hd] | ![premier-sports-1] | ![premier-sports-2-hd] |
+| ![premier-sports-2] | ![premier-sports] | ![psychic-today] | ![pure-babes] | ![quest-hd] | ![quest-plus] |
+| ![quest-red-hz] | ![quest-red-plus-hz] | ![quest-red-plus] | ![quest-red] | ![quest] | ![qvc-beauty-hd] |
+| ![qvc-beauty] | ![qvc-extra] | ![qvc-hd] | ![qvc-style] | ![qvc] | ![racing-tv-hd] |
+| ![racing-tv] | ![reality-xtra] | ![really] | ![revelation-tv] | ![rewind-tv] | ![rok] |
 | ![s4c-dau-two] | ![s4c-hd] | ![s4c] | ![shop-extra] | ![shopping-quarter] | ![showcase] |
 | ![sky-arts-hd] | ![sky-arts-icon] | ![sky-arts] | ![sky-atlantic-hd] | ![sky-atlantic-icon] | ![sky-atlantic-plus] |
 | ![sky-atlantic] | ![sky-cinema-5-star-movies-hd] | ![sky-cinema-5-star-movies] | ![sky-cinema-action-hd-hz] | ![sky-cinema-action-hd] | ![sky-cinema-action-hz] |
@@ -169,26 +165,24 @@
 | ![sony-movies] | ![sony-sab] | ![sporty-stuff-tv] | ![spotlight] | ![starz] | ![studio-66] |
 | ![stv-hd] | ![stv-plus] | ![stv] | ![stv-white] | ![syfy-hd-hz] | ![syfy-hd] |
 | ![syfy-hz] | ![syfy-plus-hz] | ![syfy-plus] | ![syfy] | ![talk-tv] | ![talking-pictures-tv] |
-| ![tbn] | ![tcm-movies-plus] | ![tcm-movies] | ![television-x] | ![tg-4] | ![thane] |
-| ![thats-60s] | ![thats-70s] | ![thats-80s] | ![thats-90s] | ![thats-christmas] | ![thats-dance] |
-| ![thats-fabulous] | ![thats-melody] | ![thats-memories] | ![thats-rock] | ![thats-tv-2] | ![thats-tv-christmas] |
-| ![thats-tv-gold] | ![thats-tv] | ![the-box] | ![the-craft-store] | ![tiny-pop-plus] | ![tiny-pop] |
-| ![tjc-hd] | ![tjc-the-jewellery-channel] | ![tlc-hd] | ![tlc-plus] | ![tlc] | ![tnt-sports-1-hd] |
-| ![tnt-sports-1] | ![tnt-sports-10-hd] | ![tnt-sports-10] | ![tnt-sports-2-hd] | ![tnt-sports-2] | ![tnt-sports-3-hd] |
-| ![tnt-sports-3] | ![tnt-sports-4-hd] | ![tnt-sports-4] | ![tnt-sports-5-hd] | ![tnt-sports-5] | ![tnt-sports-6-hd] |
-| ![tnt-sports-6] | ![tnt-sports-7-hd] | ![tnt-sports-7] | ![tnt-sports-8-hd] | ![tnt-sports-8] | ![tnt-sports-9-hd] |
-| ![tnt-sports-9] | ![tnt-sports-box-office-2-hd] | ![tnt-sports-box-office-2] | ![tnt-sports-box-office-hd] | ![tnt-sports-box-office] | ![tnt-sports-ultimate] |
-| ![together-tv-plus] | ![together-tv] | ![trace-hits] | ![trace-latina] | ![trace-urban] | ![trace-vault] |
-| ![trace-xmas] | ![travel-channel] | ![tru-tv] | ![true-crime-plus] | ![true-crime] | ![true-crime-uk] |
-| ![true-crime-xtra] | ![tv-warehouse] | ![tvx-40-plus] | ![u-and-alibi] | ![u-and-creative] | ![u-and-dave-hd] |
-| ![u-and-dave-javu] | ![u-and-dave] | ![u-and-drama-plus] | ![u-and-drama] | ![u-and-eden] | ![u-and-gold] |
-| ![u-and-laughs] | ![u-and-real-heroes] | ![u-and-the-past] | ![u-and-transport] | ![u-and-w-hd] | ![u-and-w-plus] |
-| ![u-and-w] | ![u-and-yesterday-hd] | ![u-and-yesterday-plus] | ![u-and-yesterday] | ![u-tv-plus] | ![u-tv] |
-| ![universal] | ![utsav-bharat] | ![utsav-gold-hd] | ![utsav-gold] | ![utsav-plus-hd] | ![utsav-plus] |
-| ![vh1] | ![viaplay-sports-1-hz] | ![viaplay-sports-1] | ![viaplay-sports-2-hz] | ![viaplay-sports-2] | ![viaplay-xtra-hz] |
-| ![viaplay-xtra] | ![viceland] | ![virgin-media-four] | ![virgin-media-kids] | ![virgin-media-news] | ![virgin-media-one-plus] |
-| ![virgin-media-one] | ![virgin-media-player] | ![virgin-media-sport] | ![virgin-media-television] | ![virgin-media-three] | ![virgin-media-tv] |
-| ![virgin-media-two] | ![vivid-red-hd] | ![voxafrica] | ![w-network-hd] | ![w-network-plus] | ![w-network] |
+| ![tbn] | ![tcm-movies-plus] | ![tcm-movies] | ![television-x] | ![thane] | ![thats-60s] |
+| ![thats-70s] | ![thats-80s] | ![thats-90s] | ![thats-christmas] | ![thats-dance] | ![thats-fabulous] |
+| ![thats-melody] | ![thats-memories] | ![thats-rock] | ![thats-tv-2] | ![thats-tv-christmas] | ![thats-tv-gold] |
+| ![thats-tv] | ![the-box] | ![the-craft-store] | ![tiny-pop-plus] | ![tiny-pop] | ![tjc-hd] |
+| ![tjc-the-jewellery-channel] | ![tlc-hd] | ![tlc-plus] | ![tlc] | ![tnt-sports-1-hd] | ![tnt-sports-1] |
+| ![tnt-sports-10-hd] | ![tnt-sports-10] | ![tnt-sports-2-hd] | ![tnt-sports-2] | ![tnt-sports-3-hd] | ![tnt-sports-3] |
+| ![tnt-sports-4-hd] | ![tnt-sports-4] | ![tnt-sports-5-hd] | ![tnt-sports-5] | ![tnt-sports-6-hd] | ![tnt-sports-6] |
+| ![tnt-sports-7-hd] | ![tnt-sports-7] | ![tnt-sports-8-hd] | ![tnt-sports-8] | ![tnt-sports-9-hd] | ![tnt-sports-9] |
+| ![tnt-sports-box-office-2-hd] | ![tnt-sports-box-office-2] | ![tnt-sports-box-office-hd] | ![tnt-sports-box-office] | ![tnt-sports-ultimate] | ![together-tv-plus] |
+| ![together-tv] | ![trace-hits] | ![trace-latina] | ![trace-urban] | ![trace-vault] | ![trace-xmas] |
+| ![travel-channel] | ![tru-tv] | ![true-crime-plus] | ![true-crime] | ![true-crime-uk] | ![true-crime-xtra] |
+| ![tv-warehouse] | ![tvx-40-plus] | ![u-and-alibi] | ![u-and-creative] | ![u-and-dave-hd] | ![u-and-dave-javu] |
+| ![u-and-dave] | ![u-and-drama-plus] | ![u-and-drama] | ![u-and-eden] | ![u-and-gold] | ![u-and-laughs] |
+| ![u-and-real-heroes] | ![u-and-the-past] | ![u-and-transport] | ![u-and-w-hd] | ![u-and-w-plus] | ![u-and-w] |
+| ![u-and-yesterday-hd] | ![u-and-yesterday-plus] | ![u-and-yesterday] | ![u-tv-plus] | ![u-tv] | ![universal] |
+| ![utsav-bharat] | ![utsav-gold-hd] | ![utsav-gold] | ![utsav-plus-hd] | ![utsav-plus] | ![vh1] |
+| ![viaplay-sports-1-hz] | ![viaplay-sports-1] | ![viaplay-sports-2-hz] | ![viaplay-sports-2] | ![viaplay-xtra-hz] | ![viaplay-xtra] |
+| ![viceland] | ![vivid-red-hd] | ![voxafrica] | ![w-network-hd] | ![w-network-plus] | ![w-network] |
 | ![watch-free-uk] | ![xpanded] | ![xxx-college] | ![xxx-girl-girl] | ![xxx-mums] | ![xxx-public-pickups] |
 | ![yanga] | ![yesterday-plus] | ![yesterday] | ![zee-punjabi] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
@@ -459,28 +453,14 @@
 [gold-plus]:gold-plus-uk.png
 [gold]:gold-uk.png
 [good-news-tv]:good-news-tv-uk.png
-[great-action-hz]:great-action-hz-uk.png
-[great-action-plus-hz]:great-action-plus-hz-uk.png
 [great-action-plus]:great-action-plus-uk.png
 [great-action]:great-action-uk.png
-[great-movies-christmas-hz]:great-movies-christmas-hz-uk.png
-[great-movies-christmas-plus-hz]:great-movies-christmas-plus-hz-uk.png
-[great-movies-christmas-plus]:great-movies-christmas-plus-uk.png
-[great-movies-christmas]:great-movies-christmas-uk.png
-[great-movies-hz]:great-movies-hz-uk.png
-[great-movies-plus-hz]:great-movies-plus-hz-uk.png
-[great-movies-plus]:great-movies-plus-uk.png
+[great-christmas-plus]:great-christmas-plus-uk.png
+[great-christmas]:great-christmas-uk.png
 [great-movies]:great-movies-uk.png
-[great-real-hz]:great-real-hz-uk.png
-[great-real-plus-hz]:great-real-plus-hz-uk.png
-[great-real-plus]:great-real-plus-uk.png
-[great-real]:great-real-uk.png
-[great-romance-hz]:great-romance-hz-uk.png
-[great-romance-plus-hz]:great-romance-plus-hz-uk.png
-[great-romance-plus]:great-romance-plus-uk.png
+[great-mystery-plus]:great-mystery-plus-uk.png
+[great-mystery]:great-mystery-uk.png
 [great-romance]:great-romance-uk.png
-[great-tv-hz]:great-tv-hz-uk.png
-[great-tv-plus-hz]:great-tv-plus-hz-uk.png
 [great-tv-plus]:great-tv-plus-uk.png
 [great-tv]:great-tv-uk.png
 [hgtv-plus]:hgtv-plus-uk.png
@@ -629,8 +609,6 @@
 [now-90s]:now-90s-uk.png
 [now-christmas]:now-christmas-uk.png
 [now-rock]:now-rock-uk.png
-[oireachtas-tv-icon]:oireachtas-tv-icon-uk.png
-[oireachtas-tv]:oireachtas-tv-uk.png
 [paramount-network-hd]:hd/paramount-network-hd-uk.png
 [paramount-network-icon-hd]:hd/paramount-network-icon-hd-uk.png
 [paramount-network-icon-light-hd]:hd/paramount-network-icon-light-hd-uk.png
@@ -678,14 +656,6 @@
 [revelation-tv]:revelation-tv-uk.png
 [rewind-tv]:rewind-tv-uk.png
 [rok]:rok-uk.png
-[rte-2-plus]:rte-2-plus-uk.png
-[rte-2]:rte-2-uk.png
-[rte-jr]:rte-jr-uk.png
-[rte-news-now-hz]:rte-news-now-hz-uk.png
-[rte-news-now]:rte-news-now-uk.png
-[rte-one-plus]:rte-one-plus-uk.png
-[rte-one]:rte-one-uk.png
-[rte]:rte-uk.png
 [s4c-dau-two]:s4c-dau-two-uk.png
 [s4c-hd]:hd/s4c-hd-uk.png
 [s4c]:s4c-uk.png
@@ -1206,7 +1176,6 @@
 [tcm-movies-plus]:tcm-movies-plus-uk.png
 [tcm-movies]:tcm-movies-uk.png
 [television-x]:television-x-uk.png
-[tg-4]:tg-4-uk.png
 [thane]:thane-uk.png
 [thats-60s]:thats-60s-uk.png
 [thats-70s]:thats-70s-uk.png
@@ -1306,17 +1275,6 @@
 [viaplay-xtra-hz]:viaplay-xtra-hz-uk.png
 [viaplay-xtra]:viaplay-xtra-uk.png
 [viceland]:viceland-uk.png
-[virgin-media-four]:virgin-media-four-uk.png
-[virgin-media-kids]:virgin-media-kids-uk.png
-[virgin-media-news]:virgin-media-news-uk.png
-[virgin-media-one-plus]:virgin-media-one-plus-uk.png
-[virgin-media-one]:virgin-media-one-uk.png
-[virgin-media-player]:virgin-media-player-uk.png
-[virgin-media-sport]:virgin-media-sport-uk.png
-[virgin-media-television]:virgin-media-television-uk.png
-[virgin-media-three]:virgin-media-three-uk.png
-[virgin-media-tv]:virgin-media-tv-uk.png
-[virgin-media-two]:virgin-media-two-uk.png
 [vivid-red-hd]:hd/vivid-red-hd-uk.png
 [voxafrica]:voxafrica-uk.png
 [w-network-hd]:hd/w-network-hd-uk.png

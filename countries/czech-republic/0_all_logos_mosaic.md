@@ -7,17 +7,18 @@
 | ![erox] | ![eroxxx] | ![extasy] | ![film-europe] | ![film-europe-plus] | ![film-plus] |
 | ![filmbox] | ![filmbox-extra] | ![filmbox-family] | ![filmbox-premium] | ![filmbox-stars] | ![hbo] |
 | ![hbo2] | ![hbo3] | ![hobby-tv] | ![hustler-hd] | ![inultra] | ![joj-cinema] |
-| ![joj-cinema-plus] | ![joj-family] | ![jtv] | ![lala-tv] | ![leo-tv] | ![leo-tv-gold] |
-| ![love-nature-4k] | ![minimax] | ![mnam] | ![mnau-tv] | ![nas-region] | ![nova-action] |
-| ![nova-cinema] | ![nova] | ![nova-fun] | ![nova-gold] | ![nova-lady] | ![nova-sport-1] |
-| ![nova-sport-2] | ![nova-sport-3] | ![nova-sport-4] | ![nova-sport-5] | ![nova-sport-6] | ![ocko-black] |
-| ![ocko] | ![ocko-expres] | ![ocko-star] | ![oneplay-sport-1] | ![oneplay-sport-2] | ![oneplay-sport-3] |
-| ![oneplay-sport-4] | ![oneplay-sport-4k] | ![paramount-network] | ![paramount-network-hz] | ![passion-xxx] | ![polar] |
-| ![praha-tv] | ![premier-sport-1] | ![premier-sport-2] | ![premier-sport-3] | ![prima-cool] | ![prima] |
-| ![prima-krimi] | ![prima-love] | ![prima-max] | ![prima-plus] | ![prima-show] | ![prima-star] |
-| ![prima-zoom] | ![rebel] | ![regiony-plus] | ![relax] | ![retro] | ![rtm-plus] |
-| ![seznam-tv] | ![slagr-muzika] | ![slagr-original] | ![slagr-premium] | ![spektrum] | ![spektrum-home] |
-| ![tv-brno-1] | ![tv-noe] | ![tv-paprika] | ![tv-v1] | ![tvs] | ![warner-tv] |
+| ![joj-cinema-plus] | ![joj-family] | ![joj-svet] | ![jtv] | ![kanal1] | ![lala-tv] |
+| ![leo-tv] | ![leo-tv-gold] | ![love-nature-4k] | ![minimax] | ![mnam] | ![mnau-tv] |
+| ![nas-region] | ![nova-action] | ![nova-cinema] | ![nova] | ![nova-fun] | ![nova-gold] |
+| ![nova-krimi] | ![nova-lady] | ![nova-sport-1] | ![nova-sport-2] | ![nova-sport-3] | ![nova-sport-4] |
+| ![nova-sport-5] | ![nova-sport-6] | ![ocko-black] | ![ocko] | ![ocko-expres] | ![ocko-star] |
+| ![oneplay-sport-1] | ![oneplay-sport-2] | ![oneplay-sport-3] | ![oneplay-sport-4] | ![oneplay-sport-4k] | ![paramount-network] |
+| ![paramount-network-hz] | ![passion-xxx] | ![polar] | ![praha-tv] | ![premier-sport-1] | ![premier-sport-2] |
+| ![premier-sport-3] | ![prima-cool] | ![prima] | ![prima-krimi] | ![prima-love] | ![prima-max] |
+| ![prima-plus] | ![prima-show] | ![prima-star] | ![prima-zoom] | ![rebel] | ![regiony-plus] |
+| ![relax] | ![retro] | ![rtm-plus] | ![seznam-tv] | ![slagr-muzika] | ![slagr-original] |
+| ![slagr-premium] | ![spektrum] | ![spektrum-home] | ![tv-brno-1] | ![tv-noe] | ![tv-paprika] |
+| ![tv-v1] | ![tvs] | ![warner-tv] | ![space] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -59,7 +60,9 @@
 [joj-cinema]:joj-cinema-cz.png
 [joj-cinema-plus]:joj-cinema-plus-cz.png
 [joj-family]:joj-family-cz.png
+[joj-svet]:joj-svet-cz.png
 [jtv]:jtv-cz.png
+[kanal1]:kanal1-cz.png
 [lala-tv]:lala-tv-cz.png
 [leo-tv]:leo-tv-cz.png
 [leo-tv-gold]:leo-tv-gold-cz.png
@@ -73,6 +76,7 @@
 [nova]:nova-cz.png
 [nova-fun]:nova-fun-cz.png
 [nova-gold]:nova-gold-cz.png
+[nova-krimi]:nova-krimi-cz.png
 [nova-lady]:nova-lady-cz.png
 [nova-sport-1]:nova-sport-1-cz.png
 [nova-sport-2]:nova-sport-2-cz.png

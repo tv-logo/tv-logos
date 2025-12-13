@@ -11,13 +11,13 @@
 | ![m-жахи-hd] | ![m-комедія-hd] | ![m-кіно-ua] | ![m-кіно-звучить-hd] | ![m-кінохіт-hd] | ![m-мегахіт-hd] |
 | ![m-прайм-hd] | ![m-преміум-кіно-hd] | ![m-романтика-hd] | ![m-свати-hd] | ![m-серіал-мелодрама-hd] | ![m-серіал-топ-hd] |
 | ![m-топ-hd] | ![m-топ-серіал-hd] | ![m-трилер-hd] | ![m-фантастика-hd] | ![m-що-подивитися] | ![m-історії-hd] |
-| ![m1] | ![m2] | ![mega] | ![my-ukraina-plus] | ![nickelodeon-ukraine] | ![nlo-tv-1] |
-| ![nlo-tv-2] | ![novyi-kanal] | ![ntn] | ![oce] | ![ost-west-24] | ![ost-west] |
-| ![paramount-channel] | ![paramount-comedy] | ![pershyi] | ![pixel-tv] | ![plusplus] | ![pryamiy-kanal] |
-| ![rada-tv] | ![star-cinema] | ![star-family] | ![stb] | ![suspilne-kultura] | ![tet] |
-| ![tv1000-action] | ![tv1000] | ![tv1000-world-kino] | ![ukraine-1] | ![ukraine-2] | ![unian] |
-| ![viasat-serial] | ![vip-comedy] | ![vip-megahit] | ![vip-serial] | ![zoom] | ![дивись-як-чутно] |
-| ![дорама] | ![space] | ![space] | ![space] | ![space] | ![space] |
+| ![m1] | ![m2] | ![maincast-sport] | ![mega] | ![my-ukraina-plus] | ![nickelodeon-ukraine] |
+| ![nlo-tv-1] | ![nlo-tv-2] | ![novyi-kanal] | ![ntn] | ![oce] | ![ost-west-24] |
+| ![ost-west] | ![paramount-channel] | ![paramount-comedy] | ![pershyi] | ![pixel-tv] | ![plusplus] |
+| ![pryamiy-kanal] | ![rada-tv] | ![star-cinema] | ![star-family] | ![stb] | ![suspilne-kultura] |
+| ![tet] | ![tv1000-action] | ![tv1000] | ![tv1000-world-kino] | ![ukraine-1] | ![ukraine-2] |
+| ![unian] | ![viasat-serial] | ![vip-comedy] | ![vip-megahit] | ![vip-serial] | ![zoom] |
+| ![дивись-як-чутно] | ![дорама] | ![space] | ![space] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -83,6 +83,7 @@
 [m-історії-hd]:m-історії-hd-ua.png
 [m1]:m1-ua.png
 [m2]:m2-ua.png
+[maincast-sport]:maincast-sport-ua.png
 [mega]:mega-ua.png
 [my-ukraina-plus]:my-ukraina-plus-ua.png
 [nickelodeon-ukraine]:nickelodeon-ukraine-ua.png

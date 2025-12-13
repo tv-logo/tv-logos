@@ -11,10 +11,10 @@
 | ![russkaya-istoriya] | ![russkaya-noch] | ![shivi] | ![smile-tv] | ![solntse] | ![sony-channel-blue] |
 | ![sony-channel-icon] | ![sony-channel] | ![sony-sci-fi-green] | ![sony-sci-fi-icon] | ![sony-sci-fi] | ![sony-turbo-icon] |
 | ![sony-turbo-red] | ![sony-turbo] | ![sts-kids] | ![sts-love] | ![sts] | ![subbota] |
-| ![supergeroi] | ![tnt-music] | ![tnt] | ![tnt4] | ![tv3_1] | ![viju-explore] |
-| ![viju-history] | ![viju-nature] | ![viju-plus-comedy] | ![viju-plus-megahit] | ![viju-plus-planet] | ![viju-plus-premiere] |
-| ![viju-plus-serial] | ![viju-plus-sport] | ![viju-tv1000-action] | ![viju-tv1000-novella] | ![viju-tv1000] | ![viju-tv1000-russkoe] |
-| ![zee-tv] | ![zhara] | ![zvezda-plus] | ![space] | ![space] | ![space] |
+| ![supergeroi] | ![svoboda-plus] | ![tnt-music] | ![tnt] | ![tnt4] | ![tv3_1] |
+| ![viju-explore] | ![viju-history] | ![viju-nature] | ![viju-plus-comedy] | ![viju-plus-megahit] | ![viju-plus-planet] |
+| ![viju-plus-premiere] | ![viju-plus-serial] | ![viju-plus-sport] | ![viju-tv1000-action] | ![viju-tv1000-novella] | ![viju-tv1000] |
+| ![viju-tv1000-russkoe] | ![zee-tv] | ![zhara] | ![zvezda-plus] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -79,6 +79,7 @@
 [sts]:sts-ru.png
 [subbota]:subbota-ru.png
 [supergeroi]:supergeroi-ru.png
+[svoboda-plus]:svoboda-plus-ru.png
 [tnt-music]:tnt-music-ru.png
 [tnt]:tnt-ru.png
 [tnt4]:tnt4-ru.png

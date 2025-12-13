@@ -18,31 +18,31 @@
 | ![hbo-hd] | ![hbo] | ![hbo2-hd] | ![hbo2] | ![hbo3-hd] | ![hbo3] |
 | ![home-tv-hd] | ![home-tv] | ![hustler-hd] | ![ipla] | ![itvn-extra] | ![itvn] |
 | ![jazz] | ![kino-polska-muzyka] | ![kino-polska] | ![kino-tv] | ![love-nature-4k] | ![love-tv] |
-| ![metro] | ![minimini-plus] | ![motowizja-hd] | ![motowizja] | ![music-box] | ![nat-geo-people-hd] |
-| ![nat-geo-people] | ![nat-geo-wild-hd] | ![nat-geo-wild] | ![national-geographic-hd] | ![national-geographic] | ![nick-jr] |
-| ![nick-music] | ![nickelodeon] | ![novelas-plus] | ![novelas-plus1] | ![nowa-tv] | ![nsport-plus] |
-| ![nuta-gold] | ![nuta-tv] | ![paramount-network] | ![planet-water] | ![planete-plus] | ![playboy-tv] |
-| ![polo-tv] | ![polonia1] | ![polsat-1] | ![polsat-2] | ![polsat-cafe] | ![polsat-comedy-central-extra] |
-| ![polsat-crime-and-investigation] | ![polsat-doku] | ![polsat-film] | ![polsat-film2] | ![polsat-games] | ![polsat-jimjam] |
-| ![polsat-music-hd] | ![polsat-music] | ![polsat-news] | ![polsat-news-polityka] | ![polsat-news2] | ![polsat] |
-| ![polsat-play] | ![polsat-reality] | ![polsat-rodzina] | ![polsat-seriale] | ![polsat-sport-1] | ![polsat-sport-2] |
-| ![polsat-sport-3] | ![polsat-sport-extra-hd] | ![polsat-sport-extra] | ![polsat-sport-fight-hd] | ![polsat-sport-fight] | ![polsat-sport-hd] |
-| ![polsat-sport-news-hd] | ![polsat-sport-news] | ![polsat-sport] | ![polsat-sport-premium-1] | ![polsat-sport-premium-1-super-hd] | ![polsat-sport-premium-2] |
-| ![polsat-sport-premium-2-super-hd] | ![polsat-sport-premium-3-ppv] | ![polsat-sport-premium-4-ppv] | ![polsat-sport-premium-5-ppv] | ![polsat-sport-premium-6-ppv] | ![polsat-viasat-explore-hd] |
-| ![polsat-viasat-explore] | ![polsat-viasat-history-hd] | ![polsat-viasat-history] | ![polsat-viasat-nature-hd] | ![polsat-viasat-nature] | ![polsat-x] |
-| ![power-tv-hd] | ![power-tv] | ![private-tv] | ![puls2] | ![red-carpet-hd] | ![red-carpet] |
-| ![redlight-hd] | ![sci-fi] | ![sportklub-hd] | ![stars-tv] | ![stopklatka] | ![studiomed-tv] |
-| ![sundance-tv] | ![super-polsat] | ![superstacja] | ![tbn-polska] | ![tele5] | ![teletoon-plus] |
-| ![tlc] | ![tnt-hd] | ![tnt] | ![top-kids-hd] | ![top-kids-jr] | ![top-kids] |
-| ![trwam] | ![ttv] | ![tv-okazje] | ![tv-puls] | ![tv-republika] | ![tv4] |
-| ![tv6] | ![tvc] | ![tvn-fabula] | ![tvn] | ![tvn-style] | ![tvn-turbo] |
-| ![tvn24-bis] | ![tvn24] | ![tvn7-hd] | ![tvn7] | ![tvp-4k] | ![tvp-abc] |
-| ![tvp-abc2] | ![tvp-dokument] | ![tvp-hd] | ![tvp-historia-2] | ![tvp-historia] | ![tvp-info] |
-| ![tvp-kobieta] | ![tvp-kultura-2] | ![tvp-kultura] | ![tvp-parlament] | ![tvp-polonia] | ![tvp-rozrywka] |
-| ![tvp-seriale] | ![tvp-sport-hd] | ![tvp-sport] | ![tvp-wilno] | ![tvp1-hd] | ![tvp1] |
-| ![tvp2-hd] | ![tvp2] | ![tvp3] | ![tvs] | ![twoja-tv-hd] | ![twoja-tv] |
-| ![ultra-tv-4k] | ![viasat-true-crime] | ![vivid-red-hd] | ![vivid-touch] | ![vox-music-tv] | ![w-polsce-pl] |
-| ![wp] | ![wpolsce24] | ![wydarzenia-24] | ![zoom-tv] | ![space] | ![space] |
+| ![metro] | ![minimini-plus] | ![motowizja-hd] | ![motowizja] | ![music-box-classic] | ![music-box-dance] |
+| ![music-box-hits] | ![music-box] | ![music-box-sexy] | ![nat-geo-people-hd] | ![nat-geo-people] | ![nat-geo-wild-hd] |
+| ![nat-geo-wild] | ![national-geographic-hd] | ![national-geographic] | ![nick-jr] | ![nick-music] | ![nickelodeon] |
+| ![novelas-plus] | ![novelas-plus1] | ![nowa-tv] | ![nsport-plus] | ![nuta-gold] | ![nuta-tv] |
+| ![paramount-network] | ![planet-water] | ![planete-plus] | ![playboy-tv] | ![polo-tv] | ![polonia1] |
+| ![polsat-1] | ![polsat-2] | ![polsat-cafe] | ![polsat-comedy-central-extra] | ![polsat-crime-and-investigation] | ![polsat-doku] |
+| ![polsat-film] | ![polsat-film2] | ![polsat-games] | ![polsat-jimjam] | ![polsat-music-hd] | ![polsat-music] |
+| ![polsat-news] | ![polsat-news-polityka] | ![polsat-news2] | ![polsat] | ![polsat-play] | ![polsat-reality] |
+| ![polsat-rodzina] | ![polsat-seriale] | ![polsat-sport-1] | ![polsat-sport-2] | ![polsat-sport-3] | ![polsat-sport-extra-1] |
+| ![polsat-sport-extra-2] | ![polsat-sport-extra-3] | ![polsat-sport-extra-4] | ![polsat-sport-extra] | ![polsat-sport-fight] | ![polsat-sport-news] |
+| ![polsat-sport] | ![polsat-sport-premium-1] | ![polsat-sport-premium-2] | ![polsat-viasat-explore-hd] | ![polsat-viasat-explore] | ![polsat-viasat-history-hd] |
+| ![polsat-viasat-history] | ![polsat-viasat-nature-hd] | ![polsat-viasat-nature] | ![polsat-x] | ![power-tv-hd] | ![power-tv] |
+| ![private-tv] | ![puls2] | ![redlight-hd] | ![sci-fi] | ![show-tv] | ![sportklub-hd] |
+| ![stars-tv] | ![stopklatka] | ![studiomed-tv] | ![sundance-tv] | ![super-polsat] | ![superstacja] |
+| ![tbn-polska] | ![tele5] | ![teletoon-plus] | ![tlc] | ![tnt-hd] | ![tnt] |
+| ![top-kids-hd] | ![top-kids-jr] | ![top-kids] | ![trwam] | ![ttv] | ![tv-okazje] |
+| ![tv-puls] | ![tv-republika] | ![tv4] | ![tv6] | ![tvc] | ![tvn-fabula] |
+| ![tvn] | ![tvn-style] | ![tvn-turbo] | ![tvn24-bis] | ![tvn24] | ![tvn7-hd] |
+| ![tvn7] | ![tvp-4k] | ![tvp-abc] | ![tvp-abc2] | ![tvp-dokument] | ![tvp-hd] |
+| ![tvp-historia-2] | ![tvp-historia] | ![tvp-info] | ![tvp-kobieta] | ![tvp-kultura-2] | ![tvp-kultura] |
+| ![tvp-parlament] | ![tvp-polonia] | ![tvp-rozrywka] | ![tvp-seriale] | ![tvp-sport-hd] | ![tvp-sport] |
+| ![tvp-wilno] | ![tvp1-hd] | ![tvp1] | ![tvp2-hd] | ![tvp2] | ![tvp3] |
+| ![tvs] | ![twoja-tv-hd] | ![twoja-tv] | ![ultra-tv-4k] | ![viasat-true-crime] | ![vidoc-tv] |
+| ![vidoc-tv1] | ![vivid-red-hd] | ![vivid-touch] | ![vox-music-tv] | ![w-polsce-pl] | ![wp] |
+| ![wpolsce24] | ![wydarzenia-24] | ![zoom-tv] | ![space] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -152,7 +152,11 @@
 [minimini-plus]:minimini-plus-pl.png
 [motowizja-hd]:motowizja-hd-pl.png
 [motowizja]:motowizja-pl.png
+[music-box-classic]:music-box-classic-pl.png
+[music-box-dance]:music-box-dance-pl.png
+[music-box-hits]:music-box-hits-pl.png
 [music-box]:music-box-pl.png
+[music-box-sexy]:music-box-sexy-pl.png
 [nat-geo-people-hd]:nat-geo-people-hd-pl.png
 [nat-geo-people]:nat-geo-people-pl.png
 [nat-geo-wild-hd]:nat-geo-wild-hd-pl.png
@@ -197,22 +201,16 @@
 [polsat-sport-1]:polsat-sport-1-pl.png
 [polsat-sport-2]:polsat-sport-2-pl.png
 [polsat-sport-3]:polsat-sport-3-pl.png
-[polsat-sport-extra-hd]:polsat-sport-extra-hd-pl.png
+[polsat-sport-extra-1]:polsat-sport-extra-1-pl.png
+[polsat-sport-extra-2]:polsat-sport-extra-2-pl.png
+[polsat-sport-extra-3]:polsat-sport-extra-3-pl.png
+[polsat-sport-extra-4]:polsat-sport-extra-4-pl.png
 [polsat-sport-extra]:polsat-sport-extra-pl.png
-[polsat-sport-fight-hd]:polsat-sport-fight-hd-pl.png
 [polsat-sport-fight]:polsat-sport-fight-pl.png
-[polsat-sport-hd]:polsat-sport-hd-pl.png
-[polsat-sport-news-hd]:polsat-sport-news-hd-pl.png
 [polsat-sport-news]:polsat-sport-news-pl.png
 [polsat-sport]:polsat-sport-pl.png
 [polsat-sport-premium-1]:polsat-sport-premium-1-pl.png
-[polsat-sport-premium-1-super-hd]:polsat-sport-premium-1-super-hd-pl.png
 [polsat-sport-premium-2]:polsat-sport-premium-2-pl.png
-[polsat-sport-premium-2-super-hd]:polsat-sport-premium-2-super-hd-pl.png
-[polsat-sport-premium-3-ppv]:polsat-sport-premium-3-ppv-pl.png
-[polsat-sport-premium-4-ppv]:polsat-sport-premium-4-ppv-pl.png
-[polsat-sport-premium-5-ppv]:polsat-sport-premium-5-ppv-pl.png
-[polsat-sport-premium-6-ppv]:polsat-sport-premium-6-ppv-pl.png
 [polsat-viasat-explore-hd]:polsat-viasat-explore-hd-pl.png
 [polsat-viasat-explore]:polsat-viasat-explore-pl.png
 [polsat-viasat-history-hd]:polsat-viasat-history-hd-pl.png
@@ -224,10 +222,9 @@
 [power-tv]:power-tv-pl.png
 [private-tv]:private-tv-pl.png
 [puls2]:puls2-pl.png
-[red-carpet-hd]:red-carpet-hd-pl.png
-[red-carpet]:red-carpet-pl.png
 [redlight-hd]:redlight-hd-pl.png
 [sci-fi]:sci-fi-pl.png
+[show-tv]:show-tv-pl.png
 [sportklub-hd]:sportklub-hd-pl.png
 [stars-tv]:stars-tv-pl.png
 [stopklatka]:stopklatka-pl.png
@@ -288,6 +285,8 @@
 [twoja-tv]:twoja-tv-pl.png
 [ultra-tv-4k]:ultra-tv-4k-pl.png
 [viasat-true-crime]:viasat-true-crime-pl.png
+[vidoc-tv]:vidoc-tv-pl.png
+[vidoc-tv1]:vidoc-tv1-pl.png
 [vivid-red-hd]:vivid-red-hd-pl.png
 [vivid-touch]:vivid-touch-pl.png
 [vox-music-tv]:vox-music-tv-pl.png

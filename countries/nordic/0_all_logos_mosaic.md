@@ -46,16 +46,16 @@
 | ![v-film-hits] | ![v-film-hits-hd] | ![v-film-hits-hd] | ![v-film-hits-hd] | ![v-film-hits] | ![v-film-hits] |
 | ![v-film-premiere] | ![v-film-premiere] | ![v-film-premiere-hd] | ![v-film-premiere-hd] | ![v-film-premiere-hd] | ![v-film-premiere] |
 | ![v-film-premiere] | ![v-film] | ![v-series] | ![v-series-hd] | ![v-series-hd] | ![v-series] |
-| ![v-series] | ![v-sport-1] | ![v-sport-1] | ![v-sport-1-nordic] | ![v-sport-1-suomi] | ![v-sport-2] |
-| ![v-sport-2-suomi] | ![v-sport-3] | ![v-sport-extra] | ![v-sport] | ![v-sport-football] | ![v-sport-football] |
-| ![v-sport-golf] | ![v-sport-golf] | ![v-sport-golf-hd] | ![v-sport-golf] | ![v-sport-golf] | ![v-sport-live-1] |
-| ![v-sport-live-1] | ![v-sport-live-1] | ![v-sport-live-2] | ![v-sport-live-2] | ![v-sport-live-2] | ![v-sport-live-3] |
-| ![v-sport-live-3] | ![v-sport-live-3] | ![v-sport-live-4] | ![v-sport-live-4] | ![v-sport-live-4] | ![v-sport-live-5] |
-| ![v-sport-live-5] | ![v-sport-live-5] | ![v-sport-live] | ![v-sport-live] | ![v-sport-motor] | ![v-sport] |
-| ![v-sport-nordic] | ![v-sport-plus] | ![v-sport-plus-suomi] | ![v-sport-premier-league-1] | ![v-sport-premier-league-2] | ![v-sport-premier-league-3] |
-| ![v-sport-premier-league-4] | ![v-sport-premier-league] | ![v-sport-premium] | ![v-sport-premium] | ![v-sport] | ![v-sport-ultrahd] |
-| ![v-sport-ultrahd] | ![v-sport-ultrahd] | ![v-sport-vinter] | ![v-sport-vinter] | ![v-sport1] | ![vg-tv] |
-| ![vh1] | ![viaplay-sport-news] | ![viaplay-sport-news-hz] | ![viaplay-sport] | ![viasat-explore] | ![viasat-explore] |
+| ![v-series] | ![v-sport-1] | ![v-sport-1] | ![v-sport-1-nordic] | ![v-sport-2] | ![v-sport-3] |
+| ![v-sport-extra] | ![v-sport] | ![v-sport-football] | ![v-sport-football] | ![v-sport-golf] | ![v-sport-golf] |
+| ![v-sport-golf-hd] | ![v-sport-golf] | ![v-sport-golf] | ![v-sport-live-1] | ![v-sport-live-1] | ![v-sport-live-1] |
+| ![v-sport-live-2] | ![v-sport-live-2] | ![v-sport-live-2] | ![v-sport-live-3] | ![v-sport-live-3] | ![v-sport-live-3] |
+| ![v-sport-live-4] | ![v-sport-live-4] | ![v-sport-live-4] | ![v-sport-live-5] | ![v-sport-live-5] | ![v-sport-live-5] |
+| ![v-sport-live] | ![v-sport-live] | ![v-sport-motor] | ![v-sport] | ![v-sport-nordic] | ![v-sport-plus] |
+| ![v-sport-premier-league-1] | ![v-sport-premier-league-2] | ![v-sport-premier-league-3] | ![v-sport-premier-league-4] | ![v-sport-premier-league] | ![v-sport-premium] |
+| ![v-sport-premium] | ![v-sport] | ![v-sport-ultrahd] | ![v-sport-ultrahd] | ![v-sport-ultrahd] | ![v-sport-vinter] |
+| ![v-sport-vinter] | ![v-sport1] | ![vg-tv] | ![vh1] | ![viaplay-1-urheilu] | ![viaplay-2-urheilu] |
+| ![viaplay-3-urheilu] | ![viaplay-sport-news] | ![viaplay-sport-news-hz] | ![viaplay-sport] | ![viasat-explore] | ![viasat-explore] |
 | ![viasat-explore-hd] | ![viasat-explore] | ![viasat-history] | ![viasat-history] | ![viasat-history-hd] | ![viasat-history] |
 | ![viasat-nature] | ![viasat-nature] | ![viasat-nature-hd] | ![viasat-nature] | ![visir] | ![visjon-norge] |
 | ![vodafone-sport] | ![vox] | ![yle-teema-fem] | ![yle-tv1] | ![yle-tv2] | ![space] |
@@ -336,9 +336,7 @@
 [v-sport-1]:finland/v-sport-1-fi.png
 [v-sport-1]:norway/v-sport-1-no.png
 [v-sport-1-nordic]:v-sport-1-nordic.png
-[v-sport-1-suomi]:finland/v-sport-1-suomi-fi.png
 [v-sport-2]:norway/v-sport-2-no.png
-[v-sport-2-suomi]:finland/v-sport-2-suomi-fi.png
 [v-sport-3]:norway/v-sport-3-no.png
 [v-sport-extra]:sweden/v-sport-extra-se.png
 [v-sport]:finland/v-sport-fi.png
@@ -370,7 +368,6 @@
 [v-sport]:norway/v-sport-no.png
 [v-sport-nordic]:v-sport-nordic.png
 [v-sport-plus]:norway/v-sport-plus-no.png
-[v-sport-plus-suomi]:finland/v-sport-plus-suomi-fi.png
 [v-sport-premier-league-1]:norway/v-sport-premier-league-1-no.png
 [v-sport-premier-league-2]:norway/v-sport-premier-league-2-no.png
 [v-sport-premier-league-3]:norway/v-sport-premier-league-3-no.png
@@ -387,6 +384,9 @@
 [v-sport1]:sweden/v-sport1-se.png
 [vg-tv]:norway/vg-tv-no.png
 [vh1]:denmark/vh1-dk.png
+[viaplay-1-urheilu]:finland/viaplay-1-urheilu-fi.png
+[viaplay-2-urheilu]:finland/viaplay-2-urheilu-fi.png
+[viaplay-3-urheilu]:finland/viaplay-3-urheilu-fi.png
 [viaplay-sport-news]:denmark/viaplay-sport-news-dk.png
 [viaplay-sport-news-hz]:denmark/viaplay-sport-news-hz-dk.png
 [viaplay-sport]:sweden/viaplay-sport-se.png

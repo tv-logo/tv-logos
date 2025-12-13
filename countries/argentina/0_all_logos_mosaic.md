@@ -2,33 +2,33 @@
 
 | ![13max-hd] | ![a-and-e] | ![a24] | ![allegro-hd] | ![amc] | ![america] |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| ![america-sports] | ![animal-planet] | ![argentinisima-satelital] | ![atreseries] | ![axn] | ![baby-tv] |
-| ![boomerang] | ![c5n] | ![canal-10] | ![canal-13] | ![canal-2-posadas] | ![canal-26] |
-| ![canal-4] | ![canal-7-hd] | ![canal-8-mar-del-plata] | ![canal-9-televida] | ![canal-a] | ![canal-de-la-ciudad] |
-| ![canal-diez] | ![canal-luz] | ![canal-ocho] | ![canal-orbe21] | ![canal-rural] | ![canal-santa-maria] |
-| ![cartoon-network] | ![cine-ar] | ![cine-canal] | ![cinemax] | ![ciudad-magazine] | ![cm-el-canal-de-la-musica] |
-| ![cnn-en-espanol] | ![comedy-central] | ![cronica-hd] | ![deportv] | ![discovery-channel] | ![discovery-home-and-health] |
-| ![discovery-kids] | ![discovery-science] | ![discovery-theater-hd] | ![discovery-turbo] | ![discovery-world-hd] | ![disney-channel] |
-| ![disney-jr] | ![disney-xd] | ![dtv-diputados-television] | ![el-doce] | ![el-garage-tv] | ![el-gourmet] |
-| ![el-ocho-tv] | ![el-siete] | ![elnueve] | ![elonce] | ![eltrece] | ![eltres-tv] |
-| ![encuentro] | ![espn-2] | ![espn-3] | ![espn] | ![espn-extra] | ![espn-premium] |
-| ![euro-channel] | ![europa-europa] | ![ewtn] | ![film-and-arts] | ![food-network] | ![fox-sports-2] |
-| ![fox-sports-3] | ![fox-sports] | ![fox-sports-premium] | ![fx] | ![fxm] | ![glitz] |
-| ![golf-channel] | ![hbo-2] | ![hbo] | ![hbo-family] | ![hbo-mundi] | ![hbo-plus] |
-| ![hbo-pop] | ![hbo-signature] | ![hbo-xtreme] | ![hgtv] | ![history-channel-2] | ![history-channel] |
-| ![hola-tv] | ![htv] | ![i-sat] | ![id-investigation-discovery] | ![ip-informacion-periodistica] | ![ip-noticias] |
-| ![kzo] | ![la-nacion-mas] | ![lifetime] | ![mas-chic] | ![metro] | ![mtv-00s] |
-| ![mtv] | ![mtv-hits] | ![much] | ![nat-geo-kids] | ![national-geographic] | ![national-geographic-wild] |
-| ![nba-tv] | ![net-tv] | ![nick-jr] | ![nick-music] | ![nickelodeon] | ![nueva-imagen-television] |
-| ![pakapaka] | ![paramount-network] | ![paramount-network-hz] | ![pasiones] | ![px-sports] | ![quiero-musica-en-mi-idioma] |
-| ![rts] | ![sextreme] | ![somos-pergamino] | ![sony-channel] | ![space-channel] | ![star-action] |
-| ![star-channel] | ![star-cinema] | ![star-classics] | ![star-comedy] | ![star-fun] | ![star-hits-2] |
-| ![star-hits] | ![star-life] | ![star-series] | ![studio-universal] | ![sun-channel] | ![syfy] |
-| ![tbs] | ![tcm] | ![telediario-television] | ![telefe] | ![telefe-neuquen] | ![telemax] |
-| ![telemundo-international] | ![television-publica] | ![tlc] | ![tls-telesol] | ![tn-todo-noticias] | ![tnt] |
-| ![tnt-series] | ![tnt-sports] | ![tooncast] | ![tru-tv] | ![tveo] | ![tyc-sports-2] |
-| ![tyc-sports-3] | ![tyc-sports] | ![universal-tv] | ![venus] | ![viajar] | ![volver] |
-| ![warner-channel] | ![wobi] | ![space] | ![space] | ![space] | ![space] |
+| ![america-sports] | ![animal-planet] | ![argentina-12] | ![argentinisima-satelital] | ![atreseries] | ![axn] |
+| ![baby-tv] | ![boomerang] | ![c5n] | ![canal-10] | ![canal-13] | ![canal-2-posadas] |
+| ![canal-26] | ![canal-4] | ![canal-7-hd] | ![canal-8-mar-del-plata] | ![canal-9-televida] | ![canal-a] |
+| ![canal-de-la-ciudad] | ![canal-diez] | ![canal-luz] | ![canal-ocho] | ![canal-orbe21] | ![canal-rural] |
+| ![canal-santa-maria] | ![cartoon-network] | ![cine-ar] | ![cine-canal] | ![cinemax] | ![ciudad-magazine] |
+| ![cm-el-canal-de-la-musica] | ![cnn-en-espanol] | ![comedy-central] | ![cronica-hd] | ![deportv] | ![discovery-channel] |
+| ![discovery-home-and-health] | ![discovery-kids] | ![discovery-science] | ![discovery-theater-hd] | ![discovery-turbo] | ![discovery-world-hd] |
+| ![disney-channel] | ![disney-jr] | ![disney-xd] | ![dtv-diputados-television] | ![el-doce] | ![el-garage-tv] |
+| ![el-gourmet] | ![el-ocho-tv] | ![el-siete] | ![elnueve] | ![elonce] | ![eltrece] |
+| ![eltres-tv] | ![encuentro] | ![espn-2] | ![espn-3] | ![espn] | ![espn-extra] |
+| ![espn-premium] | ![euro-channel] | ![europa-europa] | ![ewtn] | ![film-and-arts] | ![food-network] |
+| ![fox-sports-2] | ![fox-sports-3] | ![fox-sports] | ![fox-sports-premium] | ![fx] | ![fxm] |
+| ![glitz] | ![golf-channel] | ![hbo-2] | ![hbo] | ![hbo-family] | ![hbo-mundi] |
+| ![hbo-plus] | ![hbo-pop] | ![hbo-signature] | ![hbo-xtreme] | ![hgtv] | ![history-channel-2] |
+| ![history-channel] | ![hola-tv] | ![htv] | ![i-sat] | ![id-investigation-discovery] | ![ip-informacion-periodistica] |
+| ![ip-noticias] | ![kzo] | ![la-nacion-mas] | ![lifetime] | ![mas-chic] | ![metro] |
+| ![mtv-00s] | ![mtv] | ![mtv-hits] | ![much] | ![nat-geo-kids] | ![national-geographic] |
+| ![national-geographic-wild] | ![nba-tv] | ![net-tv] | ![nick-jr] | ![nick-music] | ![nickelodeon] |
+| ![nueva-imagen-television] | ![pakapaka] | ![paramount-network] | ![paramount-network-hz] | ![pasiones] | ![px-sports] |
+| ![quiero-musica-en-mi-idioma] | ![rts] | ![sextreme] | ![somos-pergamino] | ![sony-channel] | ![space-channel] |
+| ![star-action] | ![star-channel] | ![star-cinema] | ![star-classics] | ![star-comedy] | ![star-fun] |
+| ![star-hits-2] | ![star-hits] | ![star-life] | ![star-series] | ![studio-universal] | ![sun-channel] |
+| ![syfy] | ![tbs] | ![tcm] | ![telediario-television] | ![telefe] | ![telefe-neuquen] |
+| ![telemax] | ![telemundo-international] | ![television-publica] | ![tlc] | ![tls-telesol] | ![tn-todo-noticias] |
+| ![tnt] | ![tnt-series] | ![tnt-sports] | ![tooncast] | ![tru-tv] | ![tveo] |
+| ![tyc-sports-2] | ![tyc-sports-3] | ![tyc-sports] | ![universal-tv] | ![venus] | ![viajar] |
+| ![volver] | ![warner-channel] | ![wobi] | ![space] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -40,6 +40,7 @@
 [america]:america-ar.png
 [america-sports]:america-sports-ar.png
 [animal-planet]:animal-planet-ar.png
+[argentina-12]:argentina-12-ar.png
 [argentinisima-satelital]:argentinisima-satelital-ar.png
 [atreseries]:atreseries-ar.png
 [axn]:axn-ar.png

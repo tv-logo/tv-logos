@@ -3,22 +3,23 @@
 | ![adult-swim] | ![arts] | ![bbc-earth] | ![bbc-uktv] | ![box-sets] | ![bravo] |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | ![bravo-plus] | ![cartoon-network] | ![choice-tv] | ![country-tv] | ![eden] | ![eden-plus] |
-| ![edge] | ![edge-slogan] | ![face-tv] | ![hgtv] | ![hope-channel] | ![jones] |
-| ![jones-too] | ![juice-tv] | ![juice-x] | ![maori-television] | ![nickelodeon] | ![out-tv] |
-| ![parliament-tv] | ![prime] | ![prime-plus] | ![rialto] | ![rush] | ![shine] |
-| ![sky-5] | ![sky-box-office] | ![sky-movies-action] | ![sky-movies-classics] | ![sky-movies-extra] | ![sky-movies-family] |
-| ![sky-movies-greats] | ![sky-movies-pop-up] | ![sky-movies-premiere] | ![sky-movies-vintage] | ![sky-news] | ![sky-sport-1-hz] |
-| ![sky-sport-1] | ![sky-sport-2-hz] | ![sky-sport-2] | ![sky-sport-3-hz] | ![sky-sport-3] | ![sky-sport-4-hz] |
-| ![sky-sport-4] | ![sky-sport-5-hz] | ![sky-sport-5] | ![sky-sport-6-hz] | ![sky-sport-6] | ![sky-sport-7-hz] |
-| ![sky-sport-7] | ![sky-sport-8-hz] | ![sky-sport-8] | ![sky-sport-9-hz] | ![sky-sport-9] | ![sky-sport-hz] |
-| ![sky-sport-now-hz] | ![sky-sport-now] | ![sky-sport] | ![sky-sport-pop-up-1-hz] | ![sky-sport-pop-up-1] | ![sky-sport-pop-up-2-hz] |
-| ![sky-sport-pop-up-2] | ![sky-sport-pop-up-3-hz] | ![sky-sport-pop-up-3] | ![sky-sport-select-hz] | ![sky-sport-select] | ![soho-2] |
-| ![soho] | ![spark-sport-hz] | ![spark-sport] | ![te-reo] | ![the-shopping-channel] | ![three-life] |
-| ![three-life-plus] | ![three-now] | ![three] | ![three-plus] | ![trackside-1] | ![trackside-2] |
-| ![trackside-premier] | ![tvnz-1-hz] | ![tvnz-1-icon] | ![tvnz-1] | ![tvnz-1-plus-hz] | ![tvnz-1-plus-icon] |
-| ![tvnz-1-plus] | ![tvnz-2-hz] | ![tvnz-2-icon] | ![tvnz-2] | ![tvnz-2-plus-hz] | ![tvnz-2-plus-icon] |
-| ![tvnz-2-plus] | ![tvnz-duke-hz] | ![tvnz-duke-icon] | ![tvnz-duke] | ![tvnz-hz] | ![tvnz-icon] |
-| ![tvnz] | ![tvnz-on-demand-hz] | ![tvnz-on-demand-icon] | ![tvnz-on-demand] | ![tvsn] | ![vibe] |
+| ![edge] | ![edge-slogan] | ![face-tv] | ![hgtv] | ![hope-channel] | ![j2] |
+| ![jones] | ![jones-too] | ![juice-tv] | ![juice-x] | ![maori-television] | ![nickelodeon] |
+| ![out-tv] | ![parliament-tv] | ![prime] | ![prime-plus] | ![rialto] | ![rush] |
+| ![shine] | ![sky-5] | ![sky-box-office] | ![sky-comedy] | ![sky-kids] | ![sky-movies-action] |
+| ![sky-movies-classics] | ![sky-movies-extra] | ![sky-movies-family] | ![sky-movies-greats] | ![sky-movies-pop-up] | ![sky-movies-premiere] |
+| ![sky-movies-vintage] | ![sky-news] | ![sky-sport-1-hz] | ![sky-sport-1] | ![sky-sport-2-hz] | ![sky-sport-2] |
+| ![sky-sport-3-hz] | ![sky-sport-3] | ![sky-sport-4-hz] | ![sky-sport-4] | ![sky-sport-5-hz] | ![sky-sport-5] |
+| ![sky-sport-6-hz] | ![sky-sport-6] | ![sky-sport-7-hz] | ![sky-sport-7] | ![sky-sport-8-hz] | ![sky-sport-8] |
+| ![sky-sport-9-hz] | ![sky-sport-9] | ![sky-sport-hz] | ![sky-sport-now-hz] | ![sky-sport-now] | ![sky-sport] |
+| ![sky-sport-pop-up-1-hz] | ![sky-sport-pop-up-1] | ![sky-sport-pop-up-2-hz] | ![sky-sport-pop-up-2] | ![sky-sport-pop-up-3-hz] | ![sky-sport-pop-up-3] |
+| ![sky-sport-select-hz] | ![sky-sport-select] | ![soho-2] | ![soho] | ![spark-sport-hz] | ![spark-sport] |
+| ![te-reo] | ![the-shopping-channel] | ![three-life] | ![three-life-plus] | ![three-now] | ![three] |
+| ![three-plus] | ![trackside-1] | ![trackside-2] | ![trackside-premier] | ![tvnz-1-hz] | ![tvnz-1-icon] |
+| ![tvnz-1] | ![tvnz-1-plus-hz] | ![tvnz-1-plus-icon] | ![tvnz-1-plus] | ![tvnz-2-hz] | ![tvnz-2-icon] |
+| ![tvnz-2] | ![tvnz-2-plus-hz] | ![tvnz-2-plus-icon] | ![tvnz-2-plus] | ![tvnz-duke-hz] | ![tvnz-duke-icon] |
+| ![tvnz-duke] | ![tvnz-hz] | ![tvnz-icon] | ![tvnz] | ![tvnz-on-demand-hz] | ![tvnz-on-demand-icon] |
+| ![tvnz-on-demand] | ![tvsn] | ![vibe] | ![space] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -39,6 +40,7 @@
 [face-tv]:face-tv-nz.png
 [hgtv]:hgtv-nz.png
 [hope-channel]:hope-channel-nz.png
+[j2]:j2-nz.png
 [jones]:jones-nz.png
 [jones-too]:jones-too-nz.png
 [juice-tv]:juice-tv-nz.png
@@ -54,6 +56,8 @@
 [shine]:shine-nz.png
 [sky-5]:sky-5-nz.png
 [sky-box-office]:sky-box-office-nz.png
+[sky-comedy]:sky-comedy-nz.png
+[sky-kids]:sky-kids-nz.png
 [sky-movies-action]:sky-movies-action-nz.png
 [sky-movies-classics]:sky-movies-classics-nz.png
 [sky-movies-extra]:sky-movies-extra-nz.png

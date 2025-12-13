@@ -6,20 +6,21 @@
 | ![canal-gov] | ![canal-off] | ![canal-rural] | ![cancao-nova-tv] | ![cartoon-network] | ![cartoonito] |
 | ![cine-canal] | ![cinemax] | ![cnn-brasil] | ![cnn-brasil-money] | ![discovery-kids] | ![discovery-turbo] |
 | ![dreamworks-channel] | ![dumdum] | ![espn-4] | ![espn-5] | ![espn-extra] | ![fish-tv] |
-| ![fox-sports-2] | ![futura] | ![globo] | ![globo-news] | ![globoplay-novelas] | ![gloob] |
-| ![gloobinho] | ![gnt] | ![hbo-2] | ![hbo] | ![hbo-family] | ![hbo-mundi] |
-| ![hbo-pack] | ![hbo-plus] | ![hbo-pop] | ![hbo-signature] | ![hbo-xtreme] | ![ideal-tv] |
-| ![jovem-pan-news] | ![megapix] | ![modo-viagem] | ![multishow] | ![novo-tempo] | ![paramount-network] |
-| ![play-tv] | ![polishop] | ![premiere] | ![prime-box-brazil] | ![rbi] | ![rbtv] |
-| ![record] | ![record-news] | ![rede-21] | ![rede-cnt] | ![rede-gospel] | ![rede-record] |
-| ![rede-tv] | ![rede-vida] | ![rit] | ![sabor-and-arte] | ![sbt] | ![sexprive] |
-| ![sexy-hot] | ![shoptime] | ![sony-channel] | ![sony-movies] | ![space-channel] | ![sportv] |
-| ![sportv2] | ![sportv3] | ![star-channel] | ![studio-universal] | ![tcm] | ![tele-cine-action] |
-| ![tele-cine-cult] | ![tele-cine-fun] | ![tele-cine-pipoca] | ![tele-cine-premium] | ![tele-cine-touch] | ![terraviva] |
-| ![times-brasil-cnbc] | ![tnt] | ![tnt-series] | ![tooncast] | ![trace-brasil] | ![tv-aparecida] |
-| ![tv-bahia] | ![tv-brasil] | ![tv-camara] | ![tv-cultura] | ![tv-escola] | ![tv-meio] |
-| ![tv-pai-eterno] | ![tv-ra-tim-bum] | ![tv-senado] | ![tv-sim] | ![universal-tv] | ![usa] |
-| ![venus] | ![warner-channel] | ![woohoo] | ![zoomoo] | ![space] | ![space] |
+| ![fox-sports-2] | ![futura] | ![ge-tv] | ![globo] | ![globo-news] | ![globoplay-novelas] |
+| ![gloob] | ![gloobinho] | ![gnt] | ![hbo-2] | ![hbo] | ![hbo-family] |
+| ![hbo-mundi] | ![hbo-pack] | ![hbo-plus] | ![hbo-pop] | ![hbo-signature] | ![hbo-xtreme] |
+| ![ideal-tv] | ![jovem-pan-news] | ![megapix] | ![modo-viagem] | ![multishow] | ![novo-tempo] |
+| ![paramount-network] | ![play-tv] | ![polishop] | ![premiere] | ![prime-box-brazil] | ![rbi] |
+| ![rbtv] | ![record] | ![record-news] | ![rede-21] | ![rede-cnt] | ![rede-gospel] |
+| ![rede-inter-tv] | ![rede-record] | ![rede-tv] | ![rede-vida] | ![ric-record] | ![rit] |
+| ![sabor-and-arte] | ![sbt] | ![sexprive] | ![sexy-hot] | ![shoptime] | ![sony-channel] |
+| ![sony-movies] | ![space-channel] | ![sportv] | ![sportv2] | ![sportv3] | ![star-channel] |
+| ![studio-universal] | ![tcm] | ![tele-cine-action] | ![tele-cine-cult] | ![tele-cine-fun] | ![tele-cine-pipoca] |
+| ![tele-cine-premium] | ![tele-cine-touch] | ![terraviva] | ![times-brasil-cnbc] | ![tnt] | ![tnt-series] |
+| ![tooncast] | ![trace-brasil] | ![tv-aparecida] | ![tv-bahia] | ![tv-brasil] | ![tv-camara] |
+| ![tv-cultura] | ![tv-escola] | ![tv-meio] | ![tv-pai-eterno] | ![tv-ra-tim-bum] | ![tv-senado] |
+| ![tv-sim] | ![universal-tv] | ![usa] | ![venus] | ![warner-channel] | ![woohoo] |
+| ![x-sports] | ![zoomoo] | ![space] | ![space] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -55,6 +56,7 @@
 [fish-tv]:fish-tv-br.png
 [fox-sports-2]:fox-sports-2-br.png
 [futura]:futura-br.png
+[ge-tv]:ge-tv-br.png
 [globo]:globo-br.png
 [globo-news]:globo-news-br.png
 [globoplay-novelas]:globoplay-novelas-br.png
@@ -88,9 +90,11 @@
 [rede-21]:rede-21-br.png
 [rede-cnt]:rede-cnt-br.png
 [rede-gospel]:rede-gospel-br.png
+[rede-inter-tv]:rede-inter-tv-br.png
 [rede-record]:rede-record-br.png
 [rede-tv]:rede-tv-br.png
 [rede-vida]:rede-vida-br.png
+[ric-record]:ric-record-br.png
 [rit]:rit-br.png
 [sabor-and-arte]:sabor-and-arte-br.png
 [sbt]:sbt-br.png
@@ -134,6 +138,7 @@
 [venus]:venus-br.png
 [warner-channel]:warner-channel-br.png
 [woohoo]:woohoo-br.png
+[x-sports]:x-sports-br.png
 [zoomoo]:zoomoo-br.png
 
 [space]:../../misc/space-1500.png "Space"

@@ -19,55 +19,56 @@
 | ![iris] | ![italia-121] | ![italia-126] | ![italia-127] | ![italia-135] | ![italia-136] |
 | ![italia-141] | ![italia-142] | ![italia-150] | ![italia-154] | ![italia-155] | ![italia-156] |
 | ![italia-159] | ![italia-160] | ![italia-53] | ![italia-channel] | ![italia1-hd] | ![italia1] |
-| ![italia2] | ![juwelo] | ![k2] | ![la5] | ![la7-hd] | ![la7] |
-| ![la7d] | ![labor-tv] | ![lac-tv] | ![lazio-style-channel] | ![lucania-tv] | ![magaze-tv] |
-| ![mediaset-extra-hd] | ![mediaset-extra] | ![milan-tv] | ![ms-channel] | ![ms-motor-tv] | ![mtv] |
-| ![mtv-music] | ![national-geographic] | ![national-geographic-plus] | ![national-geographic-wild] | ![national-geographic-wild-plus] | ![nick-jr] |
-| ![nick-jr-plus] | ![nickelodeon] | ![nickelodeon-plus] | ![novara-channel] | ![nove-hd] | ![nove] |
-| ![one-tv-nbc] | ![ora-tv] | ![padre-pio-tv] | ![paramount-network-hd-hz] | ![paramount-network-hz] | ![paramount-network] |
-| ![paramount-network-white-hd-hz] | ![paramount-network-white-hz] | ![paramount-network-white] | ![parole-di-vita] | ![pesca] | ![piu-valli-tv] |
-| ![piuenne] | ![piuenne-sport] | ![pop-economy] | ![premium-action-hd] | ![premium-action] | ![premium-cinema-1-24-hd] |
-| ![premium-cinema-1-24] | ![premium-cinema-1-hd] | ![premium-cinema-1] | ![premium-cinema-2-hd] | ![premium-cinema-2] | ![premium-cinema-3-hd] |
-| ![premium-cinema-3] | ![premium-crime-hd] | ![premium-crime] | ![premium-stories-hd] | ![premium-stories] | ![prima-tivvu] |
-| ![primantenna] | ![primocanale] | ![r101-tv] | ![radio-colonna-tv] | ![radio-freccia] | ![radio-italia] |
-| ![radio-italia-trend] | ![radio-kiss-kiss-italia] | ![radio-kiss-kiss-tv] | ![radio-lombardia-tv] | ![radio-monte-carlo] | ![radio-norba-tv] |
-| ![radio-number-one-tv] | ![radio-studio-delta] | ![radio-zeta] | ![rai-1-hd] | ![rai-1] | ![rai-2-hd] |
-| ![rai-2] | ![rai-3-hd] | ![rai-3] | ![rai-4-hd] | ![rai-4] | ![rai-5-hd] |
-| ![rai-5] | ![rai-gulp-hd] | ![rai-gulp] | ![rai-movie-hd] | ![rai-movie] | ![rai-news-24-hd] |
-| ![rai-news-24] | ![rai-premium-hd] | ![rai-premium] | ![rai-radio-2] | ![rai-scuola-hd] | ![rai-scuola] |
-| ![rai-sport-hd] | ![rai-sport] | ![rai-storia-hd] | ![rai-storia] | ![rai-sudtirol] | ![rai-yoyo-hd] |
-| ![rai-yoyo] | ![rds] | ![real-time-hd] | ![real-time] | ![real-time-plus] | ![rei-tv] |
-| ![rete4-hd] | ![rete4] | ![retecapri] | ![rmk-tv] | ![rtc-targato-napoli] | ![rtl-1025] |
-| ![rtn-tv] | ![rttr] | ![rtua-orvieto] | ![rtv-san-marino] | ![senato-tv] | ![serenissima-televisione] |
-| ![sky-arte-hd] | ![sky-arte] | ![sky-atlantic-hd] | ![sky-atlantic] | ![sky-atlantic-plus-hd] | ![sky-atlantic-plus] |
-| ![sky-cinema-4k] | ![sky-cinema-action-hd-hz] | ![sky-cinema-action-hd] | ![sky-cinema-action-hz] | ![sky-cinema-action] | ![sky-cinema-collection-hd-hz] |
-| ![sky-cinema-collection-hd] | ![sky-cinema-collection-hz] | ![sky-cinema-collection] | ![sky-cinema-comedy-hd-hz] | ![sky-cinema-comedy-hd] | ![sky-cinema-comedy-hz] |
-| ![sky-cinema-comedy] | ![sky-cinema-drama-hd-hz] | ![sky-cinema-drama-hd] | ![sky-cinema-drama-hz] | ![sky-cinema-drama] | ![sky-cinema-due-hd-hz] |
-| ![sky-cinema-due-hd] | ![sky-cinema-due-hz] | ![sky-cinema-due] | ![sky-cinema-due-plus24-hd-hz] | ![sky-cinema-due-plus24-hd] | ![sky-cinema-due-plus24-hz] |
-| ![sky-cinema-due-plus24] | ![sky-cinema-family-hd-hz] | ![sky-cinema-family-hd] | ![sky-cinema-family-hz] | ![sky-cinema-family] | ![sky-cinema-hd] |
-| ![sky-cinema] | ![sky-cinema-romance-hd-hz] | ![sky-cinema-romance-hd] | ![sky-cinema-romance-hz] | ![sky-cinema-romance] | ![sky-cinema-suspense-hd-hz] |
-| ![sky-cinema-suspense-hd] | ![sky-cinema-suspense-hz] | ![sky-cinema-suspense] | ![sky-cinema-uno-hd-hz] | ![sky-cinema-uno-hd] | ![sky-cinema-uno-hz] |
-| ![sky-cinema-uno] | ![sky-cinema-uno-plus24-hd-hz] | ![sky-cinema-uno-plus24-hd] | ![sky-cinema-uno-plus24-hz] | ![sky-cinema-uno-plus24] | ![sky-classica] |
-| ![sky-crime-hd] | ![sky-crime] | ![sky-crime-plus-hd] | ![sky-crime-plus] | ![sky-documentaries-hd] | ![sky-documentaries] |
-| ![sky-documentaries-plus-hd] | ![sky-documentaries-plus] | ![sky-investigation-hd] | ![sky-investigation] | ![sky-investigation-plus-hd] | ![sky-investigation-plus] |
-| ![sky-meteo-24-hd] | ![sky-meteo-24] | ![sky-nature-hd] | ![sky-nature] | ![sky-primafila-hd] | ![sky-primafila] |
-| ![sky-serie-hd] | ![sky-serie] | ![sky-serie-plus-hd] | ![sky-serie-plus] | ![sky-sport-24-hd] | ![sky-sport-24] |
-| ![sky-sport-4k] | ![sky-sport-action-hd] | ![sky-sport-action] | ![sky-sport-arena-hd] | ![sky-sport-arena] | ![sky-sport-bar] |
-| ![sky-sport-calcio-hd] | ![sky-sport-calcio] | ![sky-sport-collection-hd] | ![sky-sport-collection] | ![sky-sport-f1-hd] | ![sky-sport-f1] |
-| ![sky-sport-football-hd] | ![sky-sport-football] | ![sky-sport-golf] | ![sky-sport-hd] | ![sky-sport] | ![sky-sport-max-hd] |
-| ![sky-sport-max] | ![sky-sport-motogp-hd] | ![sky-sport-motogp] | ![sky-sport-nba-hd] | ![sky-sport-nba] | ![sky-sport-serie-a-hd] |
-| ![sky-sport-serie-a] | ![sky-sport-tennis-hd] | ![sky-sport-tennis] | ![sky-sport-uno-hd] | ![sky-sport-uno] | ![sky-tg24-hd] |
-| ![sky-tg24] | ![sky-tg24-primo-piano] | ![sky-uno-hd] | ![sky-uno] | ![sky-uno-plus-hd] | ![sky-uno-plus] |
-| ![sportitalia-hd] | ![sportitalia-live24-hd] | ![sportitalia-plus-hd] | ![standby-tv] | ![start-818-tv] | ![studio-100] |
-| ![super] | ![super-tennis] | ![tc2-telecentre-2] | ![tci] | ![teen-titans-go-channel] | ![tele-8] |
-| ![tele-iride] | ![tele-radio-studio-98] | ![telecolore] | ![teledehon] | ![telegenova] | ![telemajg] |
-| ![telepace-1] | ![telepace-2] | ![telesud] | ![ten-teleuropa-network] | ![tesory-channel] | ![tg-norba-24] |
-| ![tgcom24] | ![the-rugby-channel] | ![tmb-tv] | ![tom-and-jerry-channel] | ![top-crime] | ![topdriver-tv] |
-| ![tr-24] | ![trc-tv] | ![trm-h24] | ![trm-network] | ![tstv-benevento-telesperanza] | ![tv-campane-1] |
-| ![tv-campane-2] | ![tv-campane-gold] | ![tv-oggi] | ![tv-qui] | ![tv-yes] | ![tv7-triveneta] |
-| ![tv8-hd] | ![tv8] | ![tva] | ![tvl] | ![tvr-sicilia] | ![tvrs] |
-| ![tvs-televalassina] | ![twenty-seven] | ![unica-tv] | ![unire-sat-hd] | ![unire-sat] | ![vera-tv] |
-| ![video-tele-carnia] | ![videolina] | ![zona-dazn] | ![space] | ![space] | ![space] |
+| ![italia2] | ![juwelo] | ![k2] | ![la5] | ![la7-cinema] | ![la7-hd] |
+| ![la7] | ![la7d] | ![labor-tv] | ![lac-tv] | ![lazio-style-channel] | ![lucania-tv] |
+| ![magaze-tv] | ![mediaset-extra-hd] | ![mediaset-extra] | ![milan-tv] | ![ms-channel] | ![ms-motor-tv] |
+| ![mtv] | ![mtv-music] | ![national-geographic] | ![national-geographic-plus] | ![national-geographic-wild] | ![national-geographic-wild-plus] |
+| ![nick-jr] | ![nick-jr-plus] | ![nickelodeon] | ![nickelodeon-plus] | ![novara-channel] | ![nove-hd] |
+| ![nove] | ![one-tv-nbc] | ![ora-tv] | ![padre-pio-tv] | ![paramount-network-hd-hz] | ![paramount-network-hz] |
+| ![paramount-network] | ![paramount-network-white-hd-hz] | ![paramount-network-white-hz] | ![paramount-network-white] | ![parole-di-vita] | ![pesca] |
+| ![piu-valli-tv] | ![piuenne] | ![piuenne-sport] | ![pop-economy] | ![premium-action-hd] | ![premium-action] |
+| ![premium-cinema-1-24-hd] | ![premium-cinema-1-24] | ![premium-cinema-1-hd] | ![premium-cinema-1] | ![premium-cinema-2-hd] | ![premium-cinema-2] |
+| ![premium-cinema-3-hd] | ![premium-cinema-3] | ![premium-crime-hd] | ![premium-crime] | ![premium-stories-hd] | ![premium-stories] |
+| ![prima-tivvu] | ![primantenna] | ![primocanale] | ![r101-tv] | ![radio-colonna-tv] | ![radio-freccia] |
+| ![radio-italia] | ![radio-italia-trend] | ![radio-kiss-kiss-italia] | ![radio-kiss-kiss-tv] | ![radio-lombardia-tv] | ![radio-monte-carlo] |
+| ![radio-norba-tv] | ![radio-number-one-tv] | ![radio-studio-delta] | ![radio-zeta] | ![rai-1-hd] | ![rai-1] |
+| ![rai-2-hd] | ![rai-2] | ![rai-3-hd] | ![rai-3] | ![rai-4-hd] | ![rai-4] |
+| ![rai-5-hd] | ![rai-5] | ![rai-gulp-hd] | ![rai-gulp] | ![rai-movie-hd] | ![rai-movie] |
+| ![rai-news-24-hd] | ![rai-news-24] | ![rai-premium-hd] | ![rai-premium] | ![rai-radio-2] | ![rai-scuola-hd] |
+| ![rai-scuola] | ![rai-sport-hd] | ![rai-sport] | ![rai-storia-hd] | ![rai-storia] | ![rai-sudtirol] |
+| ![rai-yoyo-hd] | ![rai-yoyo] | ![rds] | ![real-time-hd] | ![real-time] | ![real-time-plus] |
+| ![rei-tv] | ![rete4-hd] | ![rete4] | ![retecapri] | ![rmk-tv] | ![rtc-targato-napoli] |
+| ![rtl-1025] | ![rtn-tv] | ![rttr] | ![rtua-orvieto] | ![rtv-san-marino] | ![senato-tv] |
+| ![serenissima-televisione] | ![sky-adventure] | ![sky-arte-hd] | ![sky-arte] | ![sky-atlantic-hd] | ![sky-atlantic] |
+| ![sky-atlantic-plus-hd] | ![sky-atlantic-plus] | ![sky-cinema-4k] | ![sky-cinema-action-hd-hz] | ![sky-cinema-action-hd] | ![sky-cinema-action-hz] |
+| ![sky-cinema-action] | ![sky-cinema-collection-hd-hz] | ![sky-cinema-collection-hd] | ![sky-cinema-collection-hz] | ![sky-cinema-collection] | ![sky-cinema-comedy-hd-hz] |
+| ![sky-cinema-comedy-hd] | ![sky-cinema-comedy-hz] | ![sky-cinema-comedy] | ![sky-cinema-drama-hd-hz] | ![sky-cinema-drama-hd] | ![sky-cinema-drama-hz] |
+| ![sky-cinema-drama] | ![sky-cinema-due-hd-hz] | ![sky-cinema-due-hd] | ![sky-cinema-due-hz] | ![sky-cinema-due] | ![sky-cinema-due-plus24-hd-hz] |
+| ![sky-cinema-due-plus24-hd] | ![sky-cinema-due-plus24-hz] | ![sky-cinema-due-plus24] | ![sky-cinema-family-hd-hz] | ![sky-cinema-family-hd] | ![sky-cinema-family-hz] |
+| ![sky-cinema-family] | ![sky-cinema-hd] | ![sky-cinema] | ![sky-cinema-romance-hd-hz] | ![sky-cinema-romance-hd] | ![sky-cinema-romance-hz] |
+| ![sky-cinema-romance] | ![sky-cinema-suspense-hd-hz] | ![sky-cinema-suspense-hd] | ![sky-cinema-suspense-hz] | ![sky-cinema-suspense] | ![sky-cinema-uno-hd-hz] |
+| ![sky-cinema-uno-hd] | ![sky-cinema-uno-hz] | ![sky-cinema-uno] | ![sky-cinema-uno-plus24-hd-hz] | ![sky-cinema-uno-plus24-hd] | ![sky-cinema-uno-plus24-hz] |
+| ![sky-cinema-uno-plus24] | ![sky-classica] | ![sky-collection] | ![sky-crime-hd] | ![sky-crime] | ![sky-crime-plus-hd] |
+| ![sky-crime-plus] | ![sky-documentaries-hd] | ![sky-documentaries] | ![sky-documentaries-plus-hd] | ![sky-documentaries-plus] | ![sky-investigation-hd] |
+| ![sky-investigation] | ![sky-investigation-plus-hd] | ![sky-investigation-plus] | ![sky-meteo-24-hd] | ![sky-meteo-24] | ![sky-nature-hd] |
+| ![sky-nature] | ![sky-primafila-hd] | ![sky-primafila] | ![sky-serie-hd] | ![sky-serie] | ![sky-serie-plus-hd] |
+| ![sky-serie-plus] | ![sky-sport-24-hd] | ![sky-sport-24] | ![sky-sport-4k] | ![sky-sport-action-hd] | ![sky-sport-action] |
+| ![sky-sport-arena-hd] | ![sky-sport-arena] | ![sky-sport-bar] | ![sky-sport-calcio-hd] | ![sky-sport-calcio] | ![sky-sport-collection-hd] |
+| ![sky-sport-collection] | ![sky-sport-f1-hd] | ![sky-sport-f1] | ![sky-sport-football-hd] | ![sky-sport-football] | ![sky-sport-golf] |
+| ![sky-sport-hd] | ![sky-sport] | ![sky-sport-legend] | ![sky-sport-max-hd] | ![sky-sport-max] | ![sky-sport-mix] |
+| ![sky-sport-motogp-hd] | ![sky-sport-motogp] | ![sky-sport-nba-hd] | ![sky-sport-nba] | ![sky-sport-serie-a-hd] | ![sky-sport-serie-a] |
+| ![sky-sport-tennis-hd] | ![sky-sport-tennis] | ![sky-sport-uno-hd] | ![sky-sport-uno] | ![sky-tg24-hd] | ![sky-tg24] |
+| ![sky-tg24-primo-piano] | ![sky-uno-hd] | ![sky-uno] | ![sky-uno-plus-hd] | ![sky-uno-plus] | ![sportitalia-hd] |
+| ![sportitalia-live24-hd] | ![sportitalia-plus-hd] | ![standby-tv] | ![start-818-tv] | ![studio-100] | ![super] |
+| ![super-tennis] | ![tc2-telecentre-2] | ![tci] | ![teen-titans-go-channel] | ![tele-8] | ![tele-iride] |
+| ![tele-radio-studio-98] | ![telecolore] | ![teledehon] | ![telegenova] | ![telemajg] | ![telepace-1] |
+| ![telepace-2] | ![telesud] | ![ten-teleuropa-network] | ![tesory-channel] | ![tg-norba-24] | ![tgcom24] |
+| ![the-rugby-channel] | ![tmb-tv] | ![tom-and-jerry-channel] | ![top-crime] | ![topdriver-tv] | ![tr-24] |
+| ![trc-tv] | ![trm-h24] | ![trm-network] | ![tstv-benevento-telesperanza] | ![tv-campane-1] | ![tv-campane-2] |
+| ![tv-campane-gold] | ![tv-oggi] | ![tv-qui] | ![tv-yes] | ![tv7-triveneta] | ![tv8-hd] |
+| ![tv8] | ![tva] | ![tvl] | ![tvr-sicilia] | ![tvrs] | ![tvs-televalassina] |
+| ![twenty-seven] | ![unica-tv] | ![unire-sat-hd] | ![unire-sat] | ![vera-tv] | ![video-tele-carnia] |
+| ![videolina] | ![zona-dazn] | ![space] | ![space] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -183,6 +184,7 @@
 [juwelo]:juwelo-it.png
 [k2]:k2-it.png
 [la5]:la5-it.png
+[la7-cinema]:la7-cinema-it.png
 [la7-hd]:hd/la7-hd-it.png
 [la7]:la7-it.png
 [la7d]:la7d-it.png
@@ -299,6 +301,7 @@
 [rtv-san-marino]:rtv-san-marino-it.png
 [senato-tv]:senato-tv-it.png
 [serenissima-televisione]:serenissima-televisione-it.png
+[sky-adventure]:sky-adventure-it.png
 [sky-arte-hd]:hd/sky-arte-hd-it.png
 [sky-arte]:sky-arte-it.png
 [sky-atlantic-hd]:hd/sky-atlantic-hd-it.png
@@ -353,6 +356,7 @@
 [sky-cinema-uno-plus24-hz]:sky-cinema-uno-plus24-hz-it.png
 [sky-cinema-uno-plus24]:sky-cinema-uno-plus24-it.png
 [sky-classica]:sky-classica-it.png
+[sky-collection]:sky-collection-it.png
 [sky-crime-hd]:hd/sky-crime-hd-it.png
 [sky-crime]:sky-crime-it.png
 [sky-crime-plus-hd]:hd/sky-crime-plus-hd-it.png
@@ -394,8 +398,10 @@
 [sky-sport-golf]:sky-sport-golf-it.png
 [sky-sport-hd]:hd/sky-sport-hd-it.png
 [sky-sport]:sky-sport-it.png
+[sky-sport-legend]:sky-sport-legend-it.png
 [sky-sport-max-hd]:hd/sky-sport-max-hd-it.png
 [sky-sport-max]:sky-sport-max-it.png
+[sky-sport-mix]:sky-sport-mix-it.png
 [sky-sport-motogp-hd]:hd/sky-sport-motogp-hd-it.png
 [sky-sport-motogp]:sky-sport-motogp-it.png
 [sky-sport-nba-hd]:hd/sky-sport-nba-hd-it.png

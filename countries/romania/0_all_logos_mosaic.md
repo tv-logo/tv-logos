@@ -5,8 +5,8 @@
 | ![amc] | ![angelus-tv] | ![animal-planet] | ![antena-1] | ![antena-3-cnn] | ![antena-3-iasi] |
 | ![antena-3] | ![antena-international] | ![antena-stars] | ![arcadia-hd] | ![ardeal-tv] | ![atomic] |
 | ![axn-black] | ![axn] | ![axn-spin] | ![axn-white] | ![b1-tv] | ![balcan-music-tv] |
-| ![bbc-first] | ![bollyshow] | ![bollywood-film] | ![bollywood] | ![bollywood-stars] | ![cbs-reality] |
-| ![cine-maraton] | ![cinema-est] | ![cinemax] | ![cinemax2] | ![comedy-central] | ![comedy-play] |
+| ![bbc-first] | ![bollyshow] | ![bollywood-film] | ![bollywood] | ![cbs-reality] | ![cine-maraton] |
+| ![cinema-est] | ![cinemax] | ![cinemax2] | ![cinewow] | ![comedy-central] | ![comedy-play] |
 | ![credo-tv] | ![da-vinci] | ![digi-24] | ![digi-4k] | ![digi-animal-world] | ![digi-life] |
 | ![digi-sport-1] | ![digi-sport-2] | ![digi-sport-3] | ![digi-sport-4] | ![digi-world] | ![diva] |
 | ![emi-tv] | ![epic-drama] | ![etno] | ![euronews-romania] | ![eurosport-1] | ![eurosport-2] |
@@ -17,19 +17,19 @@
 | ![money-news] | ![mooz-4k] | ![mooz-dance] | ![mooz-hits] | ![mooz] | ![mooz-ro] |
 | ![motorvision-plus] | ![motorvision-tv] | ![music-channel] | ![nasul-tv] | ![nat-geo-wild] | ![national-24-plus] |
 | ![national-geographic] | ![national-tv] | ![ncn] | ![nickelodeon] | ![orange-sport-1] | ![orange-sport-2] |
-| ![orange-sport-3] | ![orange-sport-4] | ![orizont-tv] | ![party-mix] | ![partymania] | ![penthouse-gold] |
-| ![penthouse-passion] | ![penthouse-quickies] | ![pink-o-club] | ![playboy-tv] | ![ploiesti-tv] | ![prima-4k] |
-| ![prima-comedy] | ![prima-history] | ![prima-news] | ![prima-sport-1] | ![prima-sport-2] | ![prima-sport-3] |
-| ![prima-sport-4] | ![prima-sport-5] | ![prima-sport-ppv-1] | ![prima-sport-ppv-2] | ![prima-sport-ppv-3] | ![prima-sport-ppv-4] |
-| ![prima-sport] | ![prima-tv] | ![prima-world] | ![private-tv] | ![pro-arena] | ![pro-cinema] |
-| ![pro-tv-international] | ![pro-tv] | ![profit-news] | ![realitatea-plus] | ![realitatea-sportiva] | ![realitatea-star] |
-| ![redlight-hd] | ![reperul-tv] | ![rock-tv] | ![romania-tv] | ![sens-tv] | ![speranta-tv] |
-| ![sport-extra] | ![taraf-tv] | ![tele-moldova-plus] | ![telestar-1] | ![traditional-tv] | ![tralala] |
-| ![travel-mix] | ![trinitas-tv] | ![ttv-oradea] | ![tv-paprika] | ![tv-sud] | ![tv1000] |
-| ![tvr-1] | ![tvr-2] | ![tvr-3] | ![tvr-cluj] | ![tvr-craiova] | ![tvr-cultural] |
-| ![tvr-folclor] | ![tvr-iasi] | ![tvr-info] | ![tvr-international] | ![tvr-moldova] | ![tvr-sport] |
-| ![tvr-timisoara] | ![tvr-tirgu-mures] | ![utv] | ![viasat-explore] | ![viasat-history] | ![viasat-nature] |
-| ![warner-tv] | ![zu-tv] | ![space] | ![space] | ![space] | ![space] |
+| ![orange-sport-3] | ![orange-sport-4] | ![orizont-tv] | ![otv] | ![party-mix] | ![partymania] |
+| ![penthouse-gold] | ![penthouse-passion] | ![penthouse-quickies] | ![pink-o-club] | ![playboy-tv] | ![ploiesti-tv] |
+| ![prima-4k] | ![prima-comedy] | ![prima-history] | ![prima-news] | ![prima-sport-1] | ![prima-sport-2] |
+| ![prima-sport-3] | ![prima-sport-4] | ![prima-sport-5] | ![prima-sport-ppv-1] | ![prima-sport-ppv-2] | ![prima-sport-ppv-3] |
+| ![prima-sport-ppv-4] | ![prima-sport] | ![prima-tv] | ![prima-world-and-travel] | ![private-tv] | ![pro-arena] |
+| ![pro-cinema] | ![pro-tv-international] | ![pro-tv] | ![profit-news] | ![realitatea-plus] | ![realitatea-sportiva] |
+| ![realitatea-star] | ![redlight-hd] | ![reperul-tv] | ![rock-tv] | ![romania-tv] | ![sens-tv] |
+| ![speranta-tv] | ![sport-extra] | ![taraf-tv] | ![tele-moldova-plus] | ![telestar-1] | ![traditional-tv] |
+| ![tralala] | ![travel-mix] | ![trinitas-tv] | ![ttv-oradea] | ![tv-paprika] | ![tv-sud] |
+| ![tv1000] | ![tvr-1] | ![tvr-2] | ![tvr-3] | ![tvr-cluj] | ![tvr-craiova] |
+| ![tvr-cultural] | ![tvr-folclor] | ![tvr-iasi] | ![tvr-info] | ![tvr-international] | ![tvr-moldova] |
+| ![tvr-sport] | ![tvr-timisoara] | ![tvr-tirgu-mures] | ![utv] | ![viasat-explore] | ![viasat-history] |
+| ![viasat-nature] | ![warner-tv] | ![zu-tv] | ![space] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -61,12 +61,12 @@
 [bollyshow]:bollyshow-ro.png
 [bollywood-film]:bollywood-film-ro.png
 [bollywood]:bollywood-ro.png
-[bollywood-stars]:bollywood-stars-ro.png
 [cbs-reality]:cbs-reality-ro.png
 [cine-maraton]:cine-maraton-ro.png
 [cinema-est]:cinema-est-ro.png
 [cinemax]:cinemax-ro.png
 [cinemax2]:cinemax2-ro.png
+[cinewow]:cinewow-ro.png
 [comedy-central]:comedy-central-ro.png
 [comedy-play]:comedy-play-ro.png
 [credo-tv]:credo-tv-ro.png
@@ -132,6 +132,7 @@
 [orange-sport-3]:orange-sport-3-ro.png
 [orange-sport-4]:orange-sport-4-ro.png
 [orizont-tv]:orizont-tv-ro.png
+[otv]:otv-ro.png
 [party-mix]:party-mix-ro.png
 [partymania]:partymania-ro.png
 [penthouse-gold]:penthouse-gold-ro.png
@@ -155,7 +156,7 @@
 [prima-sport-ppv-4]:prima-sport-ppv-4-ro.png
 [prima-sport]:prima-sport-ro.png
 [prima-tv]:prima-tv-ro.png
-[prima-world]:prima-world-ro.png
+[prima-world-and-travel]:prima-world-and-travel-ro.png
 [private-tv]:private-tv-ro.png
 [pro-arena]:pro-arena-ro.png
 [pro-cinema]:pro-cinema-ro.png

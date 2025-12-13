@@ -2,7 +2,8 @@
 
 | ![13-cocina] | ![13-cultura] | ![13-festival] | ![13-internacional] | ![13-pop] | ![13-realities] |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| ![13-teleseries] | ![13-viajes] | ![13c] | ![canal13] | ![tvr] | ![space] |
+| ![13-teleseries] | ![13-viajes] | ![13c] | ![canal13] | ![t13] | ![t13-en-vivo] |
+| ![t13-finde] | ![tvr] | ![space] | ![space] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -16,6 +17,9 @@
 [13-viajes]:13-viajes-cl.png
 [13c]:13c-cl.png
 [canal13]:canal13-cl.png
+[t13]:t13-cl.png
+[t13-en-vivo]:t13-en-vivo-cl.png
+[t13-finde]:t13-finde-cl.png
 [tvr]:tvr-cl.png
 
 [space]:../../misc/space-1500.png "Space"

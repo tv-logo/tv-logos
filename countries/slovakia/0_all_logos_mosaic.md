@@ -1,14 +1,14 @@
 # Slovakia 🇸🇰
 
-| ![arena-sport-1] | ![arena-sport-2] | ![canal-plus-sport-2] | ![canal-plus-sport] | ![cs-film] | ![cs-history] |
+| ![arena-sport-1] | ![arena-sport-2] | ![canal-plus-sport-2] | ![canal-plus-sport] | ![cnn-prima-news] | ![cs-film] |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| ![cs-horror] | ![cs-mystery] | ![dvojka] | ![folklorika] | ![jednotka] | ![joj-24] |
-| ![joj-cinema-plus] | ![joj-cinema] | ![joj-plus] | ![joj] | ![joj-sport-2] | ![joj-sport] |
-| ![joj-svet] | ![joj-wau] | ![jojko] | ![markiza-dajto] | ![markiza-doma] | ![markiza-krimi] |
-| ![markiza] | ![nova-international] | ![nova-sport-1] | ![nova-sport-2] | ![nova-sport-3-sk] | ![nova-sport-4-sk] |
-| ![park-tv] | ![prima-cool] | ![prima-love] | ![prima] | ![rtvs-24] | ![rtvs-sport] |
-| ![senzi] | ![skylink-7] | ![sport1] | ![sport2] | ![ta3] | ![tuki-tv] |
-| ![tv-lux] | ![tv-osem] | ![space] | ![space] | ![space] | ![space] |
+| ![cs-history] | ![cs-horror] | ![cs-mystery] | ![dvojka] | ![folklorika] | ![jednotka] |
+| ![joj-24] | ![joj-cinema-plus] | ![joj-cinema] | ![joj-plus] | ![joj] | ![joj-sport-2] |
+| ![joj-sport] | ![joj-svet] | ![joj-wau] | ![jojko] | ![kanal1] | ![markiza-dajto] |
+| ![markiza-doma] | ![markiza-krimi] | ![markiza] | ![nova-international] | ![nova-sport-1] | ![nova-sport-2] |
+| ![nova-sport-3-sk] | ![nova-sport-4-sk] | ![park-tv] | ![prima-cool] | ![prima-krimi] | ![prima-love] |
+| ![prima] | ![rtvs-24] | ![rtvs-sport] | ![senzi] | ![skylink-7] | ![sport1] |
+| ![sport2] | ![ta3] | ![tuki-tv] | ![tv-lux] | ![tv-osem] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -16,6 +16,7 @@
 [arena-sport-2]:arena-sport-2-sk.png
 [canal-plus-sport-2]:canal-plus-sport-2-sk.png
 [canal-plus-sport]:canal-plus-sport-sk.png
+[cnn-prima-news]:cnn-prima-news-sk.png
 [cs-film]:cs-film-sk.png
 [cs-history]:cs-history-sk.png
 [cs-horror]:cs-horror-sk.png
@@ -33,6 +34,7 @@
 [joj-svet]:joj-svet-sk.png
 [joj-wau]:joj-wau-sk.png
 [jojko]:jojko-sk.png
+[kanal1]:kanal1-sk.png
 [markiza-dajto]:markiza-dajto-sk.png
 [markiza-doma]:markiza-doma-sk.png
 [markiza-krimi]:markiza-krimi-sk.png
@@ -44,6 +46,7 @@
 [nova-sport-4-sk]:nova-sport-4-sk-sk.png
 [park-tv]:park-tv-sk.png
 [prima-cool]:prima-cool-sk.png
+[prima-krimi]:prima-krimi-sk.png
 [prima-love]:prima-love-sk.png
 [prima]:prima-sk.png
 [rtvs-24]:rtvs-24-sk.png
