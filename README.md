@@ -12,8 +12,6 @@ Here you will find free tv logos from around the world in good high-res quality 
 
 If you want to support me continuing the work, you can donate by clicking the donate button. Creating the logos and maintaining them and the GitHub takes quite the time and I would like to put in more work on this project so any donation helps!
 
-[<img src="misc/paypal-donate.png" width="150">](https://www.paypal.com/donate/?hosted_button_id=JTJ7FPU6TCHDW)
-
 ## 📝 Logo request
 
 [CLICK HERE](https://forms.gle/BVjAKFXwSCuWhpYi7) to go to a form request page where you can request a logo.
@@ -22,19 +20,20 @@ If you want to support me continuing the work, you can donate by clicking the do
 
 Click on a country to go to its directory. From there you can click the mosaic file at top to see the logos rendered.
 
-| ![Space] | ![Space] | ![Space] | ![Space] | ![Space] | ![Space] |
+|  ![Space] |  ![Space] |  ![Space] |  ![Space] |  ![Space] |  ![Space] |
 |---|---|---|---|---|---|
-| 🇦🇱 [Albania] | 🇦🇷 [Argentina] | 🇦🇺 [Australia] | 🇦🇹 [Austria] | 🇦🇿 [Azerbaijan] | 🇧🇪 [Belgium] |
-| 🇧🇷 [Brazil] | 🇧🇬 [Bulgaria] | 🇨🇦 [Canada] | 🌎 [Caribbean] | 🇨🇱 [Chile] | 🇨🇷 [Costa-Rica] |
-| 🇭🇷 [Croatia] | 🇨🇿 [Czechia] | 🇩🇰 [Denmark] | 🇫🇮 [Finland] | 🇫🇷 [France] | 🇩🇪 [Germany] |
-| 🇬🇷 [Greece] | 🇭🇰 [Hong-Kong] | 🇭🇺 [Hungary] | 🇮🇸 [Iceland] | 🇮🇳 [India] | 🇮🇩 [Indonesia] |
-| 🌍 [International] | 🇮🇱 [Israel] | 🇮🇹 [Italy] | 🇱🇧 [Lebanon] | 🇱🇹 [Lithuania] | 🇱🇺 [Luxembourg] |
-| 🇲🇾 [Malaysia] | 🇲🇹 [Malta] | 🇲🇽 [Mexico] | 🇳🇱 [Netherlands] | 🇳🇿 [New-Zealand] | 🌍 [Nordic] |
-| 🇳🇴 [Norway] | 🇵🇭 [Philippines] | 🇵🇱 [Poland] | 🇵🇹 [Portugal] | 🇷🇴 [Romania] | 🇷🇺 [Russia] |
-| 🇷🇸 [Serbia] | 🇸🇬 [Singapore] | 🇸🇰 [Slovakia] | 🇸🇮 [Slovenia] | 🇿🇦 [South-Africa] | 🇪🇸 [Spain] |
-| 🇸🇪 [Sweden] | 🇨🇭 [Switzerland] | 🇹🇷 [Turkey] | 🇺🇦 [Ukraine] | 🇦🇪 [United-Arab-Emirates] | 🇬🇧 [United-Kingdom] |
-| 🇺🇸 [United-States] | 🌍 [World-Africa] | 🌏 [World-Asia] | 🌍 [World-Europe] | 🌎 [World-Latin-America] | 🌏 [World-Middle-East] |
-| ⭐️ [Misc] | 📼 [Vod] | | | | |
+| 🇦🇱 [Albania]  | 🇦🇷 [Argentina]  | 🇦🇺 [Australia]  | 🇦🇹 [Austria]  | 🇦🇿 [Azerbaijan]  | 🇧🇪 [Belgium]  |
+| 🇧🇷 [Brazil]  | 🇧🇬 [Bulgaria]  | 🇨🇦 [Canada]  | 🌎 [Caribbean] | 🇨🇱 [Chile]  | 🇨🇷 [Costa-Rica]  |
+| 🇭🇷 [Croatia]  | 🇨🇿 [Czechia]  | 🇩🇰 [Denmark]  | 🇫🇮 [Finland]  | 🇫🇷 [France]  | 🇩🇪 [Germany]  |
+| 🇬🇷 [Greece]  | 🇭🇰 [Hong-Kong]  | 🇭🇺 [Hungary]  | 🇮🇸 [Iceland]  | 🇮🇳 [India]  | 🇮🇩 [Indonesia]  |
+| 🌍 [International] | 🇮🇪 [Ireland]  | 🇮🇱 [Israel]  | 🇮🇹 [Italy]  | 🇱🇧 [Lebanon]  | 🇱🇹 [Lithuania]  |
+| 🇱🇺 [Luxembourg]  | 🇲🇾 [Malaysia]  | 🇲🇹 [Malta]  | 🇲🇽 [Mexico]  | 🇳🇱 [Netherlands]  | 🇳🇿 [New-Zealand]  |
+| 🌍 [Nordic] | 🇳🇴 [Norway]  | 🇵🇭 [Philippines]  | 🇵🇱 [Poland]  | 🇵🇹 [Portugal]  | 🇷🇴 [Romania]  |
+| 🇷🇺 [Russia]  | 🇷🇸 [Serbia]  | 🇸🇬 [Singapore]  | 🇸🇰 [Slovakia]  | 🇸🇮 [Slovenia]  | 🇿🇦 [South-Africa]  |
+| 🇪🇸 [Spain]  | 🇸🇪 [Sweden]  | 🇨🇭 [Switzerland]  | 🇹🇷 [Turkey]  | 🇺🇦 [Ukraine]  | 🇦🇪 [United-Arab-Emirates]  |
+| 🇬🇧 [United-Kingdom]  | !🇺🇸 [United-States]  | !🌍 [World-Africa] | !🌏 [World-Asia] | !🌍 [World-Europe] | !🌎 [World-Latin-America] |
+| !🌏 [World-Middle-East] | !🌏 [World-Oceania] | !⭐️ [Misc] | !📼 [Vod] |  |  |
+
 
 [Albania]:countries/albania "Albania"
 [Argentina]:countries/argentina "Argentina"
@@ -61,6 +60,7 @@ Click on a country to go to its directory. From there you can click the mosaic f
 [India]:countries/india "India"
 [Indonesia]:countries/indonesia "Indonesia"
 [International]:countries/international "International"
+[Ireland]:countries/ireland "Ireland"
 [Israel]:countries/israel "Israel"
 [Italy]:countries/italy "Italy"
 [Lebanon]:countries/lebanon "Lebanon"
@@ -108,8 +108,6 @@ The logos are adjusted to work on a dark background. Some of them are not suitab
 ## I will regularly add new channel logos, you can also message me and request logos
 
 If you want to support me continuing the work, you can donate by clicking the donate button: Donaters can jump in line and request missing logos for me to do as soon as I can.
-
-[<img src="misc/paypal-donate.png" width="150">](https://www.paypal.com/donate/?hosted_button_id=JTJ7FPU6TCHDW)
 
 * Donators get a channel logo request. I also take requests for custom logos or logos for a light background.
 
