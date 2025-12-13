@@ -32,7 +32,7 @@ Click on a country to go to its directory. From there you can click the mosaic f
 | 🇷🇺 [Russia]  | 🇷🇸 [Serbia]  | 🇸🇬 [Singapore]  | 🇸🇰 [Slovakia]  | 🇸🇮 [Slovenia]  | 🇿🇦 [South-Africa]  |
 | 🇪🇸 [Spain]  | 🇸🇪 [Sweden]  | 🇨🇭 [Switzerland]  | 🇹🇷 [Turkey]  | 🇺🇦 [Ukraine]  | 🇦🇪 [United-Arab-Emirates]  |
 | 🇬🇧 [United-Kingdom]  | !🇺🇸 [United-States]  | !🌍 [World-Africa] | !🌏 [World-Asia] | !🌍 [World-Europe] | !🌎 [World-Latin-America] |
-| !🌏 [World-Middle-East] | !🌏 [World-Oceania] | !⭐️ [Misc] | !📼 [Vod] |  |  |
+| !🌏 [World-Middle-East] |  | !⭐️ [Misc] | !📼 [Vod] |  |  |
 
 
 [Albania]:countries/albania "Albania"
