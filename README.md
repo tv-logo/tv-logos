@@ -12,8 +12,6 @@ Here you will find free tv logos from around the world in good high-res quality 
 
 If you want to support me continuing the work, you can donate by clicking the donate button. Creating the logos and maintaining them and the GitHub takes quite the time and I would like to put in more work on this project so any donation helps!
 
-[<img src="misc/paypal-donate.png" width="150">](https://www.paypal.com/donate/?hosted_button_id=JTJ7FPU6TCHDW)
-
 ## 📝 Logo request
 
 [CLICK HERE](https://forms.gle/BVjAKFXwSCuWhpYi7) to go to a form request page where you can request a logo.
@@ -110,8 +108,6 @@ The logos are adjusted to work on a dark background. Some of them are not suitab
 ## I will regularly add new channel logos, you can also message me and request logos
 
 If you want to support me continuing the work, you can donate by clicking the donate button: Donaters can jump in line and request missing logos for me to do as soon as I can.
-
-[<img src="misc/paypal-donate.png" width="150">](https://www.paypal.com/donate/?hosted_button_id=JTJ7FPU6TCHDW)
 
 * Donators get a channel logo request. I also take requests for custom logos or logos for a light background.
 
