@@ -13,14 +13,14 @@
 | ![paramount-network] | ![play-tv] | ![polishop] | ![premiere] | ![prime-box-brazil] | ![rbi] |
 | ![rbtv] | ![record] | ![record-news] | ![rede-21] | ![rede-cnt] | ![rede-gospel] |
 | ![rede-inter-tv] | ![rede-record] | ![rede-tv] | ![rede-vida] | ![ric-record] | ![rit] |
-| ![sabor-and-arte] | ![sbt] | ![sexprive] | ![sexy-hot] | ![shoptime] | ![sony-channel] |
-| ![sony-movies] | ![space-channel] | ![sportv] | ![sportv2] | ![sportv3] | ![star-channel] |
-| ![studio-universal] | ![tcm] | ![tele-cine-action] | ![tele-cine-cult] | ![tele-cine-fun] | ![tele-cine-pipoca] |
-| ![tele-cine-premium] | ![tele-cine-touch] | ![terraviva] | ![times-brasil-cnbc] | ![tnt] | ![tnt-series] |
-| ![tooncast] | ![trace-brasil] | ![tv-aparecida] | ![tv-bahia] | ![tv-brasil] | ![tv-camara] |
-| ![tv-cultura] | ![tv-escola] | ![tv-meio] | ![tv-pai-eterno] | ![tv-ra-tim-bum] | ![tv-senado] |
-| ![tv-sim] | ![universal-tv] | ![usa] | ![venus] | ![warner-channel] | ![woohoo] |
-| ![x-sports] | ![zoomoo] | ![space] | ![space] | ![space] | ![space] |
+| ![sabor-and-arte] | ![sbt] | ![sbt-news] | ![sexprive] | ![sexy-hot] | ![shoptime] |
+| ![sony-channel] | ![sony-movies] | ![space-channel] | ![sportv] | ![sportv2] | ![sportv3] |
+| ![star-channel] | ![studio-universal] | ![tcm] | ![tele-cine-action] | ![tele-cine-cult] | ![tele-cine-fun] |
+| ![tele-cine-pipoca] | ![tele-cine-premium] | ![tele-cine-touch] | ![terraviva] | ![times-brasil-cnbc] | ![tnt] |
+| ![tnt-series] | ![tooncast] | ![trace-brasil] | ![tv-aparecida] | ![tv-bahia] | ![tv-brasil] |
+| ![tv-camara] | ![tv-cultura] | ![tv-escola] | ![tv-meio] | ![tv-pai-eterno] | ![tv-ra-tim-bum] |
+| ![tv-senado] | ![tv-sim] | ![universal-tv] | ![usa] | ![venus] | ![warner-channel] |
+| ![woohoo] | ![x-sports] | ![zoomoo] | ![space] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -98,6 +98,7 @@
 [rit]:rit-br.png
 [sabor-and-arte]:sabor-and-arte-br.png
 [sbt]:sbt-br.png
+[sbt-news]:sbt-news-br.png
 [sexprive]:sexprive-br.png
 [sexy-hot]:sexy-hot-br.png
 [shoptime]:shoptime-br.png

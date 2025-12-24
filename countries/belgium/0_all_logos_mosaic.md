@@ -1,32 +1,32 @@
 # Belgium 🇧🇪
 
-| ![13eme-rue] | ![ab-xplore] | ![actv] | ![arte-belgique] | ![atv] | ![avs] |
+| ![13eme-rue] | ![ab-xplore] | ![actv] | ![arte-belgique] | ![atv] | ![auvio-kids] |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| ![be-cine] | ![be-series] | ![be-tv] | ![be1] | ![be1-plus] | ![bel-rtl] |
-| ![bouke] | ![brf] | ![brf-fernsehen] | ![bruzz] | ![bvn] | ![bx1] |
-| ![canal-c] | ![canal-z] | ![canal-zoom] | ![canvas] | ![cine-plus-classic] | ![cine-plus-frisson] |
-| ![cine-plus-premier] | ![club-rtl] | ![dazn-1] | ![dazn-1-fr] | ![dazn-1-nl] | ![dazn-2] |
-| ![dazn-2-fr] | ![dazn-2-nl] | ![dazn-3] | ![dazn-3-fr] | ![dazn-3-nl] | ![dazn-4] |
-| ![dazn-5] | ![dazn-6] | ![dazn-pro-league-1] | ![dazn-pro-league-1-fr] | ![dazn-pro-league-1-nl] | ![dazn-pro-league-2] |
-| ![dazn-pro-league-2-fr] | ![dazn-pro-league-2-nl] | ![dazn-pro-league-3] | ![dazn-pro-league-3-fr] | ![dazn-pro-league-3-nl] | ![eclips-tv] |
-| ![een] | ![eleven-sports-1-fr] | ![eleven-sports-1-nl] | ![eleven-sports-2-fr] | ![eleven-sports-2-nl] | ![eleven-sports-3-fr] |
-| ![eleven-sports-3-nl] | ![eleven-sports-pro-league-1-fr] | ![eleven-sports-pro-league-1-nl] | ![eleven-sports-pro-league-2-fr] | ![eleven-sports-pro-league-2-nl] | ![eleven-sports-pro-league-3-fr] |
-| ![eleven-sports-pro-league-3-nl] | ![focus-tv] | ![kanaal-z] | ![ketnet] | ![ketnet-jr] | ![la-trois] |
-| ![la-une] | ![lci] | ![ln24] | ![matele] | ![ment-tv] | ![njam] |
-| ![notele] | ![ouf-tivi] | ![pick-sports-1-fr] | ![pick-sports-1-nl] | ![pick-sports-10-fr] | ![pick-sports-10-nl] |
-| ![pick-sports-2-fr] | ![pick-sports-2-nl] | ![pick-sports-3-fr] | ![pick-sports-3-nl] | ![pick-sports-4-fr] | ![pick-sports-4-nl] |
-| ![pick-sports-5-fr] | ![pick-sports-5-nl] | ![pick-sports-6-fr] | ![pick-sports-6-nl] | ![pick-sports-7-fr] | ![pick-sports-7-nl] |
-| ![pick-sports-8-fr] | ![pick-sports-8-nl] | ![pick-sports-9-fr] | ![pick-sports-9-nl] | ![pickx-live] | ![pickx-plus] |
-| ![play-actie] | ![play] | ![play-crime] | ![play-fictie] | ![play-more-black] | ![play-more-cinema] |
-| ![play-more-kicks] | ![play-reality] | ![play-sports-1] | ![play-sports-2] | ![play-sports-3] | ![play-sports-4] |
-| ![play-sports-5] | ![play-sports] | ![play-sports-golf] | ![play-sports-open] | ![plug-rtl] | ![proximus] |
-| ![qmusic] | ![rob-tv] | ![rtbf] | ![rtc-tele-liege] | ![rtl-club] | ![rtl-plug] |
-| ![rtl-tvi] | ![rtv] | ![star-channel] | ![studio-100-hits] | ![studio-100-tv] | ![tele-mb] |
-| ![telesambre] | ![tf1] | ![tfx] | ![tipik] | ![tmc] | ![tv-com] |
-| ![tv-limburg] | ![tv-lux] | ![tvo] | ![vedia] | ![vlaams-parlement-tv] | ![voo-sport-world-1] |
-| ![voo-sport-world-2] | ![voo-sport-world-3] | ![voo-sport-world-4] | ![vrt-1] | ![vrt] | ![vrt-canvas] |
-| ![vrt-max] | ![vrt-nws] | ![vtm] | ![vtm-gold] | ![vtm-life] | ![vtm-non-stop-90s] |
-| ![vtm2] | ![vtm3] | ![vtm4] | ![space] | ![space] | ![space] |
+| ![avs] | ![be-cine] | ![be-series] | ![be-tv] | ![be1] | ![be1-plus] |
+| ![bel-rtl] | ![bouke] | ![brf] | ![brf-fernsehen] | ![bruzz] | ![bvn] |
+| ![bx1] | ![canal-c] | ![canal-z] | ![canal-zoom] | ![canvas] | ![cine-plus-classic] |
+| ![cine-plus-frisson] | ![cine-plus-premier] | ![club-rtl] | ![dazn-1] | ![dazn-1-fr] | ![dazn-1-nl] |
+| ![dazn-2] | ![dazn-2-fr] | ![dazn-2-nl] | ![dazn-3] | ![dazn-3-fr] | ![dazn-3-nl] |
+| ![dazn-4] | ![dazn-5] | ![dazn-6] | ![dazn-pro-league-1] | ![dazn-pro-league-1-fr] | ![dazn-pro-league-1-nl] |
+| ![dazn-pro-league-2] | ![dazn-pro-league-2-fr] | ![dazn-pro-league-2-nl] | ![dazn-pro-league-3] | ![dazn-pro-league-3-fr] | ![dazn-pro-league-3-nl] |
+| ![eclips-tv] | ![een] | ![eleven-sports-1-fr] | ![eleven-sports-1-nl] | ![eleven-sports-2-fr] | ![eleven-sports-2-nl] |
+| ![eleven-sports-3-fr] | ![eleven-sports-3-nl] | ![eleven-sports-pro-league-1-fr] | ![eleven-sports-pro-league-1-nl] | ![eleven-sports-pro-league-2-fr] | ![eleven-sports-pro-league-2-nl] |
+| ![eleven-sports-pro-league-3-fr] | ![eleven-sports-pro-league-3-nl] | ![focus-tv] | ![kanaal-z] | ![ketnet] | ![ketnet-jr] |
+| ![la-trois] | ![la-une] | ![lci] | ![ln24] | ![matele] | ![ment-tv] |
+| ![njam] | ![notele] | ![ouf-tivi] | ![pick-sports-1-fr] | ![pick-sports-1-nl] | ![pick-sports-10-fr] |
+| ![pick-sports-10-nl] | ![pick-sports-2-fr] | ![pick-sports-2-nl] | ![pick-sports-3-fr] | ![pick-sports-3-nl] | ![pick-sports-4-fr] |
+| ![pick-sports-4-nl] | ![pick-sports-5-fr] | ![pick-sports-5-nl] | ![pick-sports-6-fr] | ![pick-sports-6-nl] | ![pick-sports-7-fr] |
+| ![pick-sports-7-nl] | ![pick-sports-8-fr] | ![pick-sports-8-nl] | ![pick-sports-9-fr] | ![pick-sports-9-nl] | ![pickx-live] |
+| ![pickx-plus] | ![play-actie] | ![play] | ![play-crime] | ![play-fictie] | ![play-more-black] |
+| ![play-more-cinema] | ![play-more-kicks] | ![play-reality] | ![play-sports-1] | ![play-sports-2] | ![play-sports-3] |
+| ![play-sports-4] | ![play-sports-5] | ![play-sports] | ![play-sports-golf] | ![play-sports-open] | ![plug-rtl] |
+| ![proximus] | ![qmusic] | ![rob-tv] | ![rtbf] | ![rtc-tele-liege] | ![rtl-club] |
+| ![rtl-plug] | ![rtl-tvi] | ![rtv] | ![star-channel] | ![studio-100-hits] | ![studio-100-tv] |
+| ![tele-mb] | ![telesambre] | ![tf1] | ![tfx] | ![tipik] | ![tmc] |
+| ![tv-com] | ![tv-limburg] | ![tv-lux] | ![tvo] | ![vedia] | ![vlaams-parlement-tv] |
+| ![voo-sport-world-1] | ![voo-sport-world-2] | ![voo-sport-world-3] | ![voo-sport-world-4] | ![vrt-1] | ![vrt] |
+| ![vrt-canvas] | ![vrt-max] | ![vrt-nws] | ![vtm] | ![vtm-gold] | ![vtm-life] |
+| ![vtm-non-stop-90s] | ![vtm2] | ![vtm3] | ![vtm4] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -35,6 +35,7 @@
 [actv]:actv-be.png
 [arte-belgique]:arte-belgique-be.png
 [atv]:atv-be.png
+[auvio-kids]:auvio-kids-be.png
 [avs]:avs-be.png
 [be-cine]:be-cine-be.png
 [be-series]:be-series-be.png

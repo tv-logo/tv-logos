@@ -17,24 +17,26 @@
 | ![filmbox-premium] | ![fokus-tv] | ![food-network] | ![fx-comedy] | ![fx] | ![golf-zone] |
 | ![hbo-hd] | ![hbo] | ![hbo2-hd] | ![hbo2] | ![hbo3-hd] | ![hbo3] |
 | ![home-tv-hd] | ![home-tv] | ![hustler-hd] | ![ipla] | ![itvn-extra] | ![itvn] |
-| ![jazz] | ![kino-polska-muzyka] | ![kino-polska] | ![kino-tv] | ![love-nature-4k] | ![love-tv] |
-| ![metro] | ![minimini-plus] | ![motowizja-hd] | ![motowizja] | ![music-box-classic] | ![music-box-dance] |
-| ![music-box-hits] | ![music-box] | ![music-box-sexy] | ![nat-geo-people-hd] | ![nat-geo-people] | ![nat-geo-wild-hd] |
-| ![nat-geo-wild] | ![national-geographic-hd] | ![national-geographic] | ![nick-jr] | ![nick-music] | ![nickelodeon] |
-| ![novelas-plus] | ![novelas-plus1] | ![nowa-tv] | ![nsport-plus] | ![nuta-gold] | ![nuta-tv] |
-| ![paramount-network] | ![planet-water] | ![planete-plus] | ![playboy-tv] | ![polo-tv] | ![polonia1] |
-| ![polsat-1] | ![polsat-2] | ![polsat-cafe] | ![polsat-comedy-central-extra] | ![polsat-crime-and-investigation] | ![polsat-doku] |
-| ![polsat-film] | ![polsat-film2] | ![polsat-games] | ![polsat-jimjam] | ![polsat-music-hd] | ![polsat-music] |
-| ![polsat-news] | ![polsat-news-polityka] | ![polsat-news2] | ![polsat] | ![polsat-play] | ![polsat-reality] |
-| ![polsat-rodzina] | ![polsat-seriale] | ![polsat-sport-1] | ![polsat-sport-2] | ![polsat-sport-3] | ![polsat-sport-extra-1] |
-| ![polsat-sport-extra-2] | ![polsat-sport-extra-3] | ![polsat-sport-extra-4] | ![polsat-sport-extra] | ![polsat-sport-fight] | ![polsat-sport-news] |
-| ![polsat-sport] | ![polsat-sport-premium-1] | ![polsat-sport-premium-2] | ![polsat-viasat-explore-hd] | ![polsat-viasat-explore] | ![polsat-viasat-history-hd] |
-| ![polsat-viasat-history] | ![polsat-viasat-nature-hd] | ![polsat-viasat-nature] | ![polsat-x] | ![power-tv-hd] | ![power-tv] |
-| ![private-tv] | ![puls2] | ![redlight-hd] | ![sci-fi] | ![show-tv] | ![sportklub-hd] |
-| ![stars-tv] | ![stopklatka] | ![studiomed-tv] | ![sundance-tv] | ![super-polsat] | ![superstacja] |
-| ![tbn-polska] | ![tele5] | ![teletoon-plus] | ![tlc] | ![tnt-hd] | ![tnt] |
-| ![top-kids-hd] | ![top-kids-jr] | ![top-kids] | ![trwam] | ![ttv] | ![tv-okazje] |
-| ![tv-puls] | ![tv-republika] | ![tv4] | ![tv6] | ![tvc] | ![tvn-fabula] |
+| ![jazz] | ![junior-music] | ![kino-polska-muzyka] | ![kino-polska] | ![kino-tv] | ![love-nature-4k] |
+| ![love-tv] | ![metro] | ![minimini-plus] | ![motowizja-hd] | ![motowizja] | ![music-00s] |
+| ![music-80s] | ![music-90s] | ![music-box-00s] | ![music-box-80s] | ![music-box-90s] | ![music-box-classic] |
+| ![music-box-dance] | ![music-box-hits] | ![music-box] | ![music-box-sexy] | ![music-club] | ![music-hits] |
+| ![music-live-hd] | ![nat-geo-people-hd] | ![nat-geo-people] | ![nat-geo-wild-hd] | ![nat-geo-wild] | ![national-geographic-hd] |
+| ![national-geographic] | ![nick-jr] | ![nick-music] | ![nickelodeon] | ![novelas-plus] | ![novelas-plus1] |
+| ![nowa-tv] | ![nsport-plus] | ![nuta-gold] | ![nuta-tv] | ![paramount-network] | ![planet-water] |
+| ![planete-plus] | ![playboy-tv] | ![polo-tv] | ![polonia1] | ![polsat-1] | ![polsat-2] |
+| ![polsat-cafe] | ![polsat-comedy-central-extra] | ![polsat-crime-and-investigation] | ![polsat-doku] | ![polsat-film] | ![polsat-film2] |
+| ![polsat-games] | ![polsat-jimjam] | ![polsat-music-hd] | ![polsat-music] | ![polsat-news] | ![polsat-news-polityka] |
+| ![polsat-news2] | ![polsat] | ![polsat-play] | ![polsat-reality] | ![polsat-rodzina] | ![polsat-seriale] |
+| ![polsat-sport-1] | ![polsat-sport-2] | ![polsat-sport-3] | ![polsat-sport-extra-1] | ![polsat-sport-extra-2] | ![polsat-sport-extra-3] |
+| ![polsat-sport-extra-4] | ![polsat-sport-extra] | ![polsat-sport-fight] | ![polsat-sport-news] | ![polsat-sport] | ![polsat-sport-premium-1] |
+| ![polsat-sport-premium-2] | ![polsat-viasat-explore-hd] | ![polsat-viasat-explore] | ![polsat-viasat-history-hd] | ![polsat-viasat-history] | ![polsat-viasat-nature-hd] |
+| ![polsat-viasat-nature] | ![polsat-x] | ![power-tv-hd] | ![power-tv] | ![private-tv] | ![puls2] |
+| ![redlight-hd] | ![sci-fi] | ![show-tv] | ![sportklub-hd] | ![stars-tv] | ![stopklatka] |
+| ![studiomed-tv] | ![sundance-tv] | ![super-polsat] | ![superstacja] | ![tbn-polska] | ![tele5] |
+| ![teletoon-plus] | ![tlc] | ![tnt-hd] | ![tnt] | ![top-kids-hd] | ![top-kids-jr] |
+| ![top-kids] | ![trwam] | ![ttv] | ![tv-okazje] | ![tv-puls] | ![tv-republika] |
+| ![tv4] | ![tv6] | ![tvc] | ![tvc-reality] | ![tvc-super] | ![tvn-fabula] |
 | ![tvn] | ![tvn-style] | ![tvn-turbo] | ![tvn24-bis] | ![tvn24] | ![tvn7-hd] |
 | ![tvn7] | ![tvp-4k] | ![tvp-abc] | ![tvp-abc2] | ![tvp-dokument] | ![tvp-hd] |
 | ![tvp-historia-2] | ![tvp-historia] | ![tvp-info] | ![tvp-kobieta] | ![tvp-kultura-2] | ![tvp-kultura] |
@@ -143,6 +145,7 @@
 [itvn-extra]:itvn-extra-pl.png
 [itvn]:itvn-pl.png
 [jazz]:jazz-pl.png
+[junior-music]:junior-music-pl.png
 [kino-polska-muzyka]:kino-polska-muzyka-pl.png
 [kino-polska]:kino-polska-pl.png
 [kino-tv]:kino-tv-pl.png
@@ -152,11 +155,20 @@
 [minimini-plus]:minimini-plus-pl.png
 [motowizja-hd]:motowizja-hd-pl.png
 [motowizja]:motowizja-pl.png
+[music-00s]:music-00s-pl.png
+[music-80s]:music-80s-pl.png
+[music-90s]:music-90s-pl.png
+[music-box-00s]:music-box-00s-pl.png
+[music-box-80s]:music-box-80s-pl.png
+[music-box-90s]:music-box-90s-pl.png
 [music-box-classic]:music-box-classic-pl.png
 [music-box-dance]:music-box-dance-pl.png
 [music-box-hits]:music-box-hits-pl.png
 [music-box]:music-box-pl.png
 [music-box-sexy]:music-box-sexy-pl.png
+[music-club]:music-club-pl.png
+[music-hits]:music-hits-pl.png
+[music-live-hd]:music-live-hd-pl.png
 [nat-geo-people-hd]:nat-geo-people-hd-pl.png
 [nat-geo-people]:nat-geo-people-pl.png
 [nat-geo-wild-hd]:nat-geo-wild-hd-pl.png
@@ -249,6 +261,8 @@
 [tv4]:tv4-pl.png
 [tv6]:tv6-pl.png
 [tvc]:tvc-pl.png
+[tvc-reality]:tvc-reality-pl.png
+[tvc-super]:tvc-super-pl.png
 [tvn-fabula]:tvn-fabula-pl.png
 [tvn]:tvn-pl.png
 [tvn-style]:tvn-style-pl.png

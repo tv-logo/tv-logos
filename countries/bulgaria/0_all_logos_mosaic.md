@@ -1,27 +1,30 @@
 # Bulgaria 🇧🇬
 
-| ![24-kitchen] | ![7-8-tv] | ![agro-tv] | ![b1b-action] | ![b1b-sport] | ![b1b-tv] |
+| ![24-kitchen] | ![7-8-tv] | ![agro-tv] | ![arena-action] | ![arena-comedy] | ![arena-life] |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| ![balkanika-music-television] | ![barely-legal-tv] | ![bg-muic-channel] | ![bloomberg-tv-bulgaria] | ![bnt-1] | ![bnt-2] |
-| ![bnt-3] | ![bnt-4] | ![bstv] | ![btv-action] | ![btv] | ![btv-cinema] |
-| ![btv-comedy] | ![btv-lady] | ![bulgaria-24] | ![bulgaria-on-air] | ![chasse-et-peche] | ![city-tv] |
-| ![classical-harmony] | ![code-fashion] | ![code-health] | ![diema] | ![diema-family] | ![diema-sport-hd] |
-| ![diema-sport2-4k] | ![diema-sport2-hd] | ![diema-sport3-4k] | ![diema-sport3-hd] | ![dorcel-xxx] | ![dstv] |
-| ![ectv-kids] | ![ekids] | ![erox] | ![eroxxx] | ![evil-angel] | ![evrokom] |
-| ![fantazzy-tv] | ![fen-folk-tv] | ![fix-and-foxi] | ![folklor-tv] | ![hit-mix-music] | ![hustler-hd] |
-| ![hustler-tv] | ![karusel] | ![kino-nova] | ![magic-tv] | ![max-sport-1] | ![max-sport-2] |
-| ![max-sport-3] | ![max-sport-4] | ![movie-star] | ![nova] | ![nova-news] | ![nova-sport] |
-| ![passion-xxx-2] | ![passion-xxx] | ![penthouse-gold] | ![penthouse-passion] | ![penthouse-reality-tv-bang-bros] | ![planeta] |
-| ![planeta-folk] | ![playboy-tv] | ![private-tv] | ![ring] | ![skat] | ![sportal] |
-| ![star-channel] | ![star-crime] | ![star-life] | ![super-one] | ![the-voice] | ![this-is-bulgaria] |
-| ![travel-tv] | ![tv-rodina] | ![unitel-classica] | ![wness-tv] | ![xy-max] | ![xy-mix] |
-| ![xy-plus] | ![space] | ![space] | ![space] | ![space] | ![space] |
+| ![b1b-action] | ![b1b-sport] | ![b1b-tv] | ![balkanika-music-television] | ![barely-legal-tv] | ![bg-muic-channel] |
+| ![bloomberg-tv-bulgaria] | ![bnt-1] | ![bnt-2] | ![bnt-3] | ![bnt-4] | ![bstv] |
+| ![btv-action] | ![btv] | ![btv-cinema] | ![btv-comedy] | ![btv-lady] | ![bulgaria-24] |
+| ![bulgaria-on-air] | ![chasse-et-peche] | ![city-tv] | ![classical-harmony] | ![code-fashion] | ![code-health] |
+| ![diema] | ![diema-family] | ![diema-sport-hd] | ![diema-sport2-4k] | ![diema-sport2-hd] | ![diema-sport3-4k] |
+| ![diema-sport3-hd] | ![dorcel-xxx] | ![dstv] | ![ectv-kids] | ![ekids] | ![erox] |
+| ![eroxxx] | ![evil-angel] | ![evrokom] | ![fantazzy-tv] | ![fen-folk-tv] | ![fix-and-foxi] |
+| ![folklor-tv] | ![hit-mix-music] | ![hustler-hd] | ![hustler-tv] | ![karusel] | ![kino-nova] |
+| ![magic-tv] | ![max-sport-1] | ![max-sport-2] | ![max-sport-3] | ![max-sport-4] | ![movie-star] |
+| ![nova] | ![nova-news] | ![nova-sport] | ![passion-xxx-2] | ![passion-xxx] | ![penthouse-gold] |
+| ![penthouse-passion] | ![penthouse-reality-tv-bang-bros] | ![planeta] | ![planeta-folk] | ![playboy-tv] | ![private-tv] |
+| ![ring] | ![skat] | ![sportal] | ![star-channel] | ![star-crime] | ![star-life] |
+| ![super-one] | ![the-voice] | ![this-is-bulgaria] | ![travel-tv] | ![tv-rodina] | ![unitel-classica] |
+| ![wness-tv] | ![xy-max] | ![xy-mix] | ![xy-plus] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
 [24-kitchen]:24-kitchen-bg.png
 [7-8-tv]:7-8-tv-bg.png
 [agro-tv]:agro-tv-bg.png
+[arena-action]:arena-action-bg.png
+[arena-comedy]:arena-comedy-bg.png
+[arena-life]:arena-life-bg.png
 [b1b-action]:b1b-action-bg.png
 [b1b-sport]:b1b-sport-bg.png
 [b1b-tv]:b1b-tv-bg.png

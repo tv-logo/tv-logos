@@ -2,8 +2,8 @@
 
 | ![13-cocina] | ![13-cultura] | ![13-festival] | ![13-internacional] | ![13-pop] | ![13-realities] |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| ![13-teleseries] | ![13-viajes] | ![13c] | ![canal13] | ![t13] | ![t13-en-vivo] |
-| ![t13-finde] | ![tvr] | ![space] | ![space] | ![space] | ![space] |
+| ![13-rec] | ![13-teleseries] | ![13-viajes] | ![13c] | ![canal13] | ![t13] |
+| ![t13-en-vivo] | ![t13-finde] | ![tvr] | ![space] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -13,6 +13,7 @@
 [13-internacional]:13-internacional-cl.png
 [13-pop]:13-pop-cl.png
 [13-realities]:13-realities-cl.png
+[13-rec]:13-rec-cl.png
 [13-teleseries]:13-teleseries-cl.png
 [13-viajes]:13-viajes-cl.png
 [13c]:13c-cl.png

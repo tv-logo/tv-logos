@@ -2,9 +2,9 @@
 
 | ![africa-magic-epic-afr] | ![africa-magic-family-afr] | ![africa-magic-hausa-afr] | ![africa-magic-holiday-channel-afr] | ![africa-magic-igbo-afr] | ![africa-magic-showcase-afr] |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| ![africa-magic-urban-afr] | ![africa-magic-yoruba-afr] | ![celebration-tv-afr] | ![channels-24-afr] | ![channels-afr] | ![curiosity-channel-afr] |
-| ![curiosity-channel-hz-afr] | ![dunamis-tv-afr] | ![novelas-tv-afr] | ![star-mundo-afr] | ![tbn-africa-afr] | ![the-box-africa-afr] |
-| ![the-box-africa-hz-afr] | ![travelxp-afr] | ![tvc-news-afr] | ![space] | ![space] | ![space] |
+| ![africa-magic-urban-afr] | ![africa-magic-yoruba-afr] | ![celebration-tv-afr] | ![channels-24-afr] | ![channels-afr] | ![cnbc-africa-afr] |
+| ![curiosity-channel-afr] | ![curiosity-channel-hz-afr] | ![dunamis-tv-afr] | ![novelas-tv-afr] | ![star-mundo-afr] | ![tbn-africa-afr] |
+| ![the-box-africa-afr] | ![the-box-africa-hz-afr] | ![travelxp-afr] | ![tvc-news-afr] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -19,6 +19,7 @@
 [celebration-tv-afr]:celebration-tv-afr.png
 [channels-24-afr]:channels-24-afr.png
 [channels-afr]:channels-afr.png
+[cnbc-africa-afr]:cnbc-africa-afr.png
 [curiosity-channel-afr]:curiosity-channel-afr.png
 [curiosity-channel-hz-afr]:curiosity-channel-hz-afr.png
 [dunamis-tv-afr]:dunamis-tv-afr.png

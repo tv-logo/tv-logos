@@ -3,18 +3,18 @@
 | ![2x2] | ![365-dney] | ![auto-plus] | ![boks-tv] | ![bridge] | ![channel-5] |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | ![channel-one] | ![che] | ![domashniy] | ![epic] | ![gpm-rtv] | ![hd-life] |
-| ![kanal-disney] | ![karusel] | ![khl-prime] | ![khl] | ![konnyy-mir] | ![kukhnya] |
-| ![kvn-tv] | ![la-minor] | ![match-arena] | ![match-boets] | ![match-futbol-1] | ![match-futbol-2] |
-| ![match-futbol-3] | ![match-igra] | ![match-planeta] | ![match-premier] | ![match] | ![match-strana] |
-| ![mini-jam] | ![muz-tv] | ![muzyka-live] | ![nostalgiya] | ![ntv-hit] | ![ntv-pravo] |
-| ![ntv] | ![ntv-serial] | ![ntv-stil] | ![otr] | ![plus-minus-16] | ![pyatnitsa] |
-| ![russkaya-istoriya] | ![russkaya-noch] | ![shivi] | ![smile-tv] | ![solntse] | ![sony-channel-blue] |
-| ![sony-channel-icon] | ![sony-channel] | ![sony-sci-fi-green] | ![sony-sci-fi-icon] | ![sony-sci-fi] | ![sony-turbo-icon] |
-| ![sony-turbo-red] | ![sony-turbo] | ![sts-kids] | ![sts-love] | ![sts] | ![subbota] |
-| ![supergeroi] | ![svoboda-plus] | ![tnt-music] | ![tnt] | ![tnt4] | ![tv3_1] |
-| ![viju-explore] | ![viju-history] | ![viju-nature] | ![viju-plus-comedy] | ![viju-plus-megahit] | ![viju-plus-planet] |
-| ![viju-plus-premiere] | ![viju-plus-serial] | ![viju-plus-sport] | ![viju-tv1000-action] | ![viju-tv1000-novella] | ![viju-tv1000] |
-| ![viju-tv1000-russkoe] | ![zee-tv] | ![zhara] | ![zvezda-plus] | ![space] | ![space] |
+| ![kanal-disney] | ![karusel] | ![khl-prime] | ![khl] | ![kion-hit] | ![konnyy-mir] |
+| ![kukhnya] | ![kvn-tv] | ![la-minor] | ![match-arena] | ![match-boets] | ![match-futbol-1] |
+| ![match-futbol-2] | ![match-futbol-3] | ![match-igra] | ![match-planeta] | ![match-premier] | ![match] |
+| ![match-strana] | ![mini-jam] | ![muz-tv] | ![muzyka-live] | ![nostalgiya] | ![ntv-hit] |
+| ![ntv-pravo] | ![ntv] | ![ntv-serial] | ![ntv-stil] | ![otr] | ![plus-minus-16] |
+| ![pyatnitsa] | ![russkaya-istoriya] | ![russkaya-noch] | ![shivi] | ![smile-tv] | ![solntse] |
+| ![sony-channel-blue] | ![sony-channel-icon] | ![sony-channel] | ![sony-sci-fi-green] | ![sony-sci-fi-icon] | ![sony-sci-fi] |
+| ![sony-turbo-icon] | ![sony-turbo-red] | ![sony-turbo] | ![sts-kids] | ![sts-love] | ![sts] |
+| ![subbota] | ![supergeroi] | ![svoboda-plus] | ![tnt-music] | ![tnt] | ![tnt4] |
+| ![tv3_1] | ![viju-explore] | ![viju-history] | ![viju-nature] | ![viju-plus-comedy] | ![viju-plus-megahit] |
+| ![viju-plus-planet] | ![viju-plus-premiere] | ![viju-plus-serial] | ![viju-plus-sport] | ![viju-tv1000-action] | ![viju-tv1000-novella] |
+| ![viju-tv1000] | ![viju-tv1000-russkoe] | ![zee-tv] | ![zhara] | ![zvezda-plus] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -34,6 +34,7 @@
 [karusel]:karusel-ru.png
 [khl-prime]:khl-prime-ru.png
 [khl]:khl-ru.png
+[kion-hit]:kion-hit-ru.png
 [konnyy-mir]:konnyy-mir-ru.png
 [kukhnya]:kukhnya-ru.png
 [kvn-tv]:kvn-tv-ru.png

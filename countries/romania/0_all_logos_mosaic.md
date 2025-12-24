@@ -21,15 +21,15 @@
 | ![penthouse-gold] | ![penthouse-passion] | ![penthouse-quickies] | ![pink-o-club] | ![playboy-tv] | ![ploiesti-tv] |
 | ![prima-4k] | ![prima-comedy] | ![prima-history] | ![prima-news] | ![prima-sport-1] | ![prima-sport-2] |
 | ![prima-sport-3] | ![prima-sport-4] | ![prima-sport-5] | ![prima-sport-ppv-1] | ![prima-sport-ppv-2] | ![prima-sport-ppv-3] |
-| ![prima-sport-ppv-4] | ![prima-sport] | ![prima-tv] | ![prima-world-and-travel] | ![private-tv] | ![pro-arena] |
-| ![pro-cinema] | ![pro-tv-international] | ![pro-tv] | ![profit-news] | ![realitatea-plus] | ![realitatea-sportiva] |
-| ![realitatea-star] | ![redlight-hd] | ![reperul-tv] | ![rock-tv] | ![romania-tv] | ![sens-tv] |
-| ![speranta-tv] | ![sport-extra] | ![taraf-tv] | ![tele-moldova-plus] | ![telestar-1] | ![traditional-tv] |
-| ![tralala] | ![travel-mix] | ![trinitas-tv] | ![ttv-oradea] | ![tv-paprika] | ![tv-sud] |
-| ![tv1000] | ![tvr-1] | ![tvr-2] | ![tvr-3] | ![tvr-cluj] | ![tvr-craiova] |
-| ![tvr-cultural] | ![tvr-folclor] | ![tvr-iasi] | ![tvr-info] | ![tvr-international] | ![tvr-moldova] |
-| ![tvr-sport] | ![tvr-timisoara] | ![tvr-tirgu-mures] | ![utv] | ![viasat-explore] | ![viasat-history] |
-| ![viasat-nature] | ![warner-tv] | ![zu-tv] | ![space] | ![space] | ![space] |
+| ![prima-sport-ppv-4] | ![prima-sport] | ![prima-tv] | ![prima-world-and-travel] | ![private-tv] | ![pro-24-tv] |
+| ![pro-arena] | ![pro-cinema] | ![pro-tv-international] | ![pro-tv] | ![profit-news] | ![realitatea-plus] |
+| ![realitatea-sportiva] | ![realitatea-star] | ![redlight-hd] | ![reperul-tv] | ![rock-tv] | ![romania-tv] |
+| ![sens-tv] | ![speranta-tv] | ![sport-extra] | ![taraf-tv] | ![tele-moldova-plus] | ![telestar-1] |
+| ![traditional-tv] | ![tralala] | ![travel-mix] | ![trinitas-tv] | ![ttv-oradea] | ![tv-paprika] |
+| ![tv-sud] | ![tv1000] | ![tvr-1] | ![tvr-2] | ![tvr-3] | ![tvr-cluj] |
+| ![tvr-craiova] | ![tvr-cultural] | ![tvr-folclor] | ![tvr-iasi] | ![tvr-info] | ![tvr-international] |
+| ![tvr-moldova] | ![tvr-sport] | ![tvr-timisoara] | ![tvr-tirgu-mures] | ![utv] | ![viasat-explore] |
+| ![viasat-history] | ![viasat-nature] | ![warner-tv] | ![zu-tv] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -158,6 +158,7 @@
 [prima-tv]:prima-tv-ro.png
 [prima-world-and-travel]:prima-world-and-travel-ro.png
 [private-tv]:private-tv-ro.png
+[pro-24-tv]:pro-24-tv-ro.png
 [pro-arena]:pro-arena-ro.png
 [pro-cinema]:pro-cinema-ro.png
 [pro-tv-international]:pro-tv-international-ro.png

@@ -59,6 +59,7 @@ $settings = array(
         'india' => '🇮🇳',
         'indonesia' => '🇮🇩',
         'international' => '🌎',
+        'ireland' => '🇮🇪',
         'israel' => '🇮🇱',
         'italy' => '🇮🇹',
         'jamaica' => '🇯🇲',
