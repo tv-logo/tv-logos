@@ -6,12 +6,13 @@
 | ![da-vinci] | ![dikh-tv] | ![duna] | ![duna-world] | ![epic-drama] | ![estv] |
 | ![fem3] | ![film-cafe] | ![film-plus] | ![film4] | ![filmbox-extra] | ![filmbox-family] |
 | ![filmbox] | ![filmbox-premium] | ![filmbox-stars] | ![fix] | ![galaxy4] | ![game-toon] |
-| ![hbo] | ![hbo2] | ![hbo3] | ![hir-tv] | ![izaura-tv] | ![jocky-tv] |
+| ![hbo] | ![hbo2] | ![hbo3] | ![hir-tv] | ![izaura-tv] | ![jocky-tv] | ![kolyok-klub]
 | ![life-tv] | ![m1] | ![m2] | ![m2-petofi] | ![m4-sport] | ![m4-sport-plus] |
 | ![m5] | ![magyar-mozi-tv] | ![match4] | ![max4] | ![mezzo] | ![minimax] |
-| ![movies-24] | ![mozi-plus] | ![moziverzum] | ![music-plus] | ![muzsika-tv] | ![ozone-tv] |
+| ![movies-24] | ![mozi-klub] | ![mozi-plus] | ![moziverzum] | ![music-plus] | ![muzsika-tv] | ![ozone-tv] |
 | ![paramount-network] | ![prime] | ![rakosmente-tv] | ![rtl-gold] | ![rtl-harom] | ![rtl] |
-| ![rtl-ketto] | ![slager-tv] | ![sorozat-plus] | ![spektrum-home] | ![spektrum] | ![spiler-1] |
+| ![rtl-ketto] | ![rtl-otthon] | ![slager-tv] | ![sorozat-klub]
+| ![sorozat-plus] | ![spektrum-home] | ![spektrum] | ![spiler-1] |
 | ![spiler-2] | ![spiler-extra] | ![sport1] | ![sport2] | ![sport3] | ![story4] |
 | ![super-one] | ![the-fishing-and-hunting-channel] | ![travelxp] | ![tv-paprika] | ![tv10] | ![tv2-comedy] |
 | ![tv2] | ![tv2-kids] | ![tv2-klub] | ![tv2-sef] | ![tv2-sport] | ![tv2-sport-plus] |
@@ -56,6 +57,7 @@
 [hir-tv]:hir-tv-hu.png
 [izaura-tv]:izaura-tv-hu.png
 [jocky-tv]:jocky-tv-hu.png
+[kolyok-klub]:kolyok-klub-hu.png
 [life-tv]:life-tv-hu.png
 [m1]:m1-hu.png
 [m2]:m2-hu.png
@@ -69,6 +71,7 @@
 [mezzo]:mezzo-hu.png
 [minimax]:minimax-hu.png
 [movies-24]:movies-24-hu.png
+[mozi-klub]:mozi-klub-hu.png
 [mozi-plus]:mozi-plus-hu.png
 [moziverzum]:moziverzum-hu.png
 [music-plus]:music-plus-hu.png
@@ -81,7 +84,9 @@
 [rtl-harom]:rtl-harom-hu.png
 [rtl]:rtl-hu.png
 [rtl-ketto]:rtl-ketto-hu.png
+[rtl-otthon]:rtl-otthon-hu.png
 [slager-tv]:slager-tv-hu.png
+[sorozat-klub]:sorozat-klub-hu.png
 [sorozat-plus]:sorozat-plus-hu.png
 [spektrum-home]:spektrum-home-hu.png
 [spektrum]:spektrum-hu.png
